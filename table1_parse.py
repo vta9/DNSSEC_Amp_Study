@@ -40,33 +40,36 @@ for i in range(1, len(domains_blocks), 2):
         "Truncated?": "No"
     }
 
-    # Extract Flags
-    flags_match = re.search(r"flags:\s*([^\s]+)", block)
-    if flags_match:
-        row["Flags"] = flags_match.group(1)
-    # Extract Query size
-    query_size_match = re.search(r"Query size:\s*(\d+)", block)
-    if query_size_match:
-        row["Query size"] = query_size_match.group(1)
-    # Extract Response size
-    response_size_match = re.search(r"Response size:\s*(\d+)", block)
-    if response_size_match:
-        row["Response size"] = response_size_match.group(1)
-    # Extract # of Answers
-    answers_match = re.search(r"ANSWER:\s*(\d+)", block)
-    if answers_match:
-        row["# of Answers"] = answers_match.group(1)
-    # Extract # of Authority RRs
-    authority_match = re.search(r"AUTHORITY:\s*(\d+)", block)
-    if authority_match:
-        row["# of Authority RRs"] = authority_match.group(1)
-    # Extract # of Additional RRs
-    additional_match = re.search(r"ADDITIONAL:\s*(\d+)", block
+    # Flags line: ;; flags: qr rd ra ad; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+    flags_match = re.search(
+        r";; flags: (.*?); QUERY: (\d+), ANSWER: (\d+), AUTHORITY: (\d+), ADDITIONAL: (\d+)", block
     )
-    if additional_match:
-        row["# of Additional RRs"] = additional_match.group(1)
-    # Check for Truncated flag
-    if "truncated" in block.lower():
+    if flags_match:
+        row["Flags"] = flags_match.group(1).strip()
+        row["# of Answers"] = int(flags_match.group(3))
+        row["# of Authority RRs"] = int(flags_match.group(4))
+        row["# of Additional RRs"] = int(flags_match.group(5))
+
+    # MSG SIZE line: ;; MSG SIZE  rcvd: 754
+    msg_size_match = re.search(r";; MSG SIZE\s+rcvd:\s*(\d+)", block)
+    if msg_size_match:
+        row["Response size"] = int(msg_size_match.group(1))
+
+    # Query size: dig output doesn’t report this directly
+    # You can approximate it from packet size if you captured via tcpdump, else leave empty
+    row["Query size"] = ""  
+
+    # Truncated? check for TC flag in flags
+    if "Truncated, retrying in TCP mode" in block:
         row["Truncated?"] = "Yes"
+
     data.append(row)
-    
+
+    # write to CSV
+with open(output_file, "w", newline="") as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames=fields)
+    writer.writeheader()
+    for row in data:
+        writer.writerow(row)
+print(f"Finished! Table 1 saved in {output_file}")
+
