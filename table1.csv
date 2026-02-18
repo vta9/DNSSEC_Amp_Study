@@ -1,1001 +1,1001 @@
 Domain,Flags,Query size,Response size,# of Answers,# of Authority RRs,# of Additional RRs,Truncated?
-google.com,rd ad,51,89,0,0,1,No
-microsoft.com,rd ad,54,115,0,0,1,No
-facebook.com,rd ad,53,86,0,0,1,No
-googleapis.com,rd ad,55,100,0,0,1,No
-youtube.com,rd ad,52,97,0,0,1,No
-apple.com,rd ad,50,107,0,0,1,No
-instagram.com,rd ad,54,96,0,0,1,No
-gstatic.com,rd ad,52,97,0,0,1,No
-cloudflare.com,rd ad,55,203,0,0,1,No
-twitter.com,rd ad,52,97,0,0,1,No
-office.com,rd ad,51,109,0,0,1,No
-amazonaws.com,rd ad,54,127,0,0,1,No
-live.com,rd ad,49,107,0,0,1,No
-linkedin.com,rd ad,53,106,0,0,1,No
-googletagmanager.com,rd ad,61,106,0,0,1,No
-amazon.com,rd ad,51,106,0,0,1,No
-googlevideo.com,rd ad,56,101,0,0,1,No
-microsoftonline.com,rd ad,60,118,0,0,1,No
-windowsupdate.com,rd ad,58,130,0,0,1,No
-wikipedia.org,rd ad,54,103,0,0,1,No
-github.com,rd ad,51,104,0,0,1,No
-fbcdn.net,rd ad,50,95,0,0,1,No
-bing.com,rd ad,49,121,0,0,1,No
-doubleclick.net,rd ad,56,104,0,0,1,No
-e2ro.com,rd ad,49,119,0,0,1,No
-googleusercontent.com,rd ad,62,107,0,0,1,No
-digicert.com,rd ad,53,98,0,0,1,No
-whatsapp.net,rd ad,53,86,0,0,1,No
-wordpress.org,rd ad,54,93,0,0,1,No
-youtu.be,rd ad,49,97,0,0,1,No
-netflix.com,rd ad,52,117,0,0,1,No
-pinterest.com,rd ad,54,102,0,0,1,No
-icloud.com,rd ad,51,114,0,0,1,No
-whatsapp.com,rd ad,53,98,0,0,1,No
-apple-dns.net,rd ad,54,120,0,0,1,No
-goo.gl,rd ad,47,95,0,0,1,No
-yahoo.com,rd ad,50,99,0,0,1,No
-skype.com,rd ad,50,122,0,0,1,No
-x.com,rd ad,46,99,0,0,1,No
-msn.com,rd ad,48,120,0,0,1,No
-akadns.net,rd ad,51,105,0,0,1,No
-office.net,rd ad,51,112,0,0,1,No
-ntp.org,rd ad,48,95,0,0,1,No
-tiktok.com,rd ad,51,107,0,0,1,No
-googlesyndication.com,rd ad,62,107,0,0,1,No
-aaplimg.com,rd ad,52,115,0,0,1,No
-spotify.com,rd ad,52,130,0,0,1,No
-vimeo.com,rd ad,50,115,0,0,1,No
-windows.net,rd ad,52,126,0,0,1,No
-adobe.com,rd ad,50,103,0,0,1,No
-cloudfront.net,rd ad,55,110,0,0,1,No
-ytimg.com,rd ad,50,95,0,0,1,No
-wa.me,rd ad,46,91,0,0,1,No
-akamai.net,rd ad,51,116,0,0,1,No
-office365.com,rd ad,54,112,0,0,1,No
-nginx.org,rd ad,50,104,0,0,1,No
-google-analytics.com,rd ad,61,106,0,0,1,No
-tiktokcdn.com,rd ad,54,110,0,0,1,No
-cloudflare-dns.com,rd ad,59,207,0,0,1,No
-gvt2.com,rd ad,49,94,0,0,1,No
-bit.ly,rd ad,47,120,0,0,1,No
-tiktokv.com,rd ad,52,108,0,0,1,No
-nginx.com,rd ad,50,101,0,0,1,No
-samsung.com,rd ad,52,97,0,0,1,No
-reddit.com,rd ad,51,120,0,0,1,No
-wordpress.com,rd ad,54,95,0,0,1,No
-mozilla.org,rd ad,52,121,0,0,1,No
-baidu.com,rd ad,50,81,0,0,1,No
-fastly.net,rd ad,51,100,0,0,1,No
-sharepoint.com,rd ad,55,127,0,0,1,No
-windows.com,rd ad,52,124,0,0,1,No
-ui.com,rd ad,47,119,0,0,1,No
-googleadservices.com,rd ad,61,106,0,0,1,No
-qq.com,rd ad,47,85,0,0,1,No
-akamaiedge.net,rd ad,55,109,0,0,1,No
-azure.com,rd ad,50,121,0,0,1,No
-t.me,rd ad,45,112,0,0,1,No
-cdninstagram.com,rd ad,57,109,0,0,1,No
-blogspot.com,rd ad,53,98,0,0,1,No
-sentry.io,rd ad,50,131,0,0,1,No
-dns.google,rd ad,51,463,0,0,1,No
-europa.eu,rd ad,50,1122,0,0,1,No
-app-measurement.com,rd ad,60,105,0,0,1,No
-gvt1.com,rd ad,49,94,0,0,1,No
-apache.org,rd ad,51,123,0,0,1,No
-github.io,rd ad,50,103,0,0,1,No
-roblox.com,rd ad,51,104,0,0,1,No
-gravatar.com,rd ad,53,103,0,0,1,No
-pki.goog,rd ad,49,461,0,0,1,No
-cloud.microsoft,rd ad,56,204,0,0,1,No
-amazon-adsystem.com,rd ad,60,116,0,0,1,No
-app-analytics-services.com,rd ad,67,112,0,0,1,No
-zoom.us,rd ad,48,121,0,0,1,No
-msftncsi.com,rd ad,53,124,0,0,1,No
-one.one,rd ad,48,116,0,0,1,No
-snapchat.com,rd ad,53,119,0,0,1,No
-outlook.com,rd ad,52,110,0,0,1,No
-f5.com,rd ad,47,88,0,0,1,No
-archive.org,rd ad,52,91,0,0,1,No
-forms.gle,rd ad,50,123,0,0,1,No
-nih.gov,rd ad,48,608,0,0,1,No
-miit.gov.cn,rd ad,52,85,0,0,1,No
-criteo.com,rd ad,51,83,0,0,1,No
-steamserver.net,rd ad,56,107,0,0,1,No
-applovin.com,rd ad,53,121,0,0,1,No
-dropbox.com,rd ad,52,121,0,0,1,No
-tumblr.com,rd ad,51,90,0,0,1,No
-opera.com,rd ad,50,90,0,0,1,No
-appsflyersdk.com,rd ad,57,127,0,0,1,No
-msftconnecttest.com,rd ad,60,131,0,0,1,No
-ggpht.com,rd ad,50,95,0,0,1,No
-trafficmanager.net,rd ad,59,108,0,0,1,No
-nytimes.com,rd ad,52,105,0,0,1,No
-unity3d.com,rd ad,52,107,0,0,1,No
-macromedia.com,rd ad,55,114,0,0,1,No
-vk.com,rd ad,47,91,0,0,1,No
-3gppnetwork.org,rd ad,56,105,0,0,1,No
-a2z.com,rd ad,48,104,0,0,1,No
-amazon.dev,rd ad,51,123,0,0,1,No
-paypal.com,rd ad,51,359,0,0,1,No
-chatgpt.com,rd ad,52,200,0,0,1,No
-lencr.org,rd ad,50,100,0,0,1,No
-shopify.com,rd ad,52,110,0,0,1,No
-discord.com,rd ad,52,200,0,0,1,No
-mailinabox.email,rd ad,57,116,0,0,1,No
-cdn-apple.com,rd ad,54,117,0,0,1,No
-rubiconproject.com,rd ad,59,128,0,0,1,No
-flickr.com,rd ad,51,120,0,0,1,No
-w3.org,rd ad,47,98,0,0,1,No
-soundcloud.com,rd ad,55,124,0,0,1,No
-medium.com,rd ad,51,99,0,0,1,No
-godaddy.com,rd ad,52,94,0,0,1,No
-cnn.com,rd ad,48,120,0,0,1,No
-theguardian.com,rd ad,56,109,0,0,1,No
-nist.gov,rd ad,49,493,0,0,1,No
-tiktokcdn-us.com,rd ad,57,120,0,0,1,No
-adnxs.com,rd ad,50,103,0,0,1,No
-taboola.com,rd ad,52,280,0,0,1,No
-creativecommons.org,rd ad,60,208,0,0,1,No
-adtrafficquality.google,rd ad,64,112,0,0,1,No
-pubmatic.com,rd ad,53,106,0,0,1,No
-forbes.com,rd ad,51,123,0,0,1,No
-example.com,rd ad,52,360,0,0,1,No
-adsrvr.org,rd ad,51,104,0,0,1,No
-bbc.com,rd ad,48,95,0,0,1,No
-t.co,rd ad,45,101,0,0,1,No
-researchgate.net,rd ad,57,108,0,0,1,No
-sourceforge.net,rd ad,56,103,0,0,1,No
-gmail.com,rd ad,50,95,0,0,1,No
-bbc.co.uk,rd ad,50,88,0,0,1,No
-oracle.com,rd ad,51,114,0,0,1,No
-0xrpc.io,rd ad,49,1121,0,0,1,No
-mit.edu,rd ad,48,101,0,0,1,No
-sciencedirect.com,rd ad,58,105,0,0,1,No
-xiaomi.com,rd ad,51,112,0,0,1,No
-doi.org,rd ad,48,196,0,0,1,No
-avast.com,rd ad,50,100,0,0,1,No
-cpanel.net,rd ad,51,81,0,0,1,No
-canva.com,rd ad,50,278,0,0,1,No
-vungle.com,rd ad,51,80,0,0,1,No
-twitch.tv,rd ad,50,119,0,0,1,No
-android.com,rd ad,52,97,0,0,1,No
-imdb.com,rd ad,49,105,0,0,1,No
-youtube-nocookie.com,rd ad,61,106,0,0,1,No
-weather.com,rd ad,52,105,0,0,1,No
-playstation.net,rd ad,56,90,0,0,1,No
-ebay.com,rd ad,49,102,0,0,1,No
-wixsite.com,rd ad,52,105,0,0,1,No
-who.int,rd ad,48,91,0,0,1,No
-static.microsoft,rd ad,57,205,0,0,1,No
-scorecardresearch.com,rd ad,62,131,0,0,1,No
-aws.dev,rd ad,48,123,0,0,1,No
-linktr.ee,rd ad,50,122,0,0,1,No
-mail.ru,rd ad,48,87,0,0,1,No
-hubspot.com,rd ad,52,200,0,0,1,No
-yandex.com,rd ad,51,97,0,0,1,No
-launchpad.net,rd ad,54,106,0,0,1,No
-msedge.net,rd ad,51,99,0,0,1,No
-tinyurl.com,rd ad,52,107,0,0,1,No
-nr-data.net,rd ad,52,280,0,0,1,No
-yandex.ru,rd ad,50,99,0,0,1,No
-miui.com,rd ad,49,110,0,0,1,No
-www.gov.uk,rd ad,51,186,0,0,1,No
-googleblog.com,rd ad,55,100,0,0,1,No
-dropcatch.com,rd ad,54,102,0,0,1,No
-adobe.io,rd ad,49,122,0,0,1,No
-amazon.co.uk,rd ad,53,112,0,0,1,No
-ubuntu.com,rd ad,51,100,0,0,1,No
-wyzecam.com,rd ad,52,98,0,0,1,No
-wikimedia.org,rd ad,54,93,0,0,1,No
-doubleverify.com,rd ad,57,119,0,0,1,No
-mzstatic.com,rd ad,53,116,0,0,1,No
-bilibili.com,rd ad,53,114,0,0,1,No
-php.net,rd ad,48,93,0,0,1,No
-jsdelivr.net,rd ad,53,99,0,0,1,No
-epicgames.com,rd ad,54,124,0,0,1,No
-debian.org,rd ad,51,687,0,0,1,No
-inmobi.com,rd ad,51,129,0,0,1,No
-reuters.com,rd ad,52,112,0,0,1,No
-cloudflareinsights.com,rd ad,63,110,0,0,1,No
-springer.com,rd ad,53,106,0,0,1,No
-harvard.edu,rd ad,52,360,0,0,1,No
-cisco.com,rd ad,50,89,0,0,1,No
-etsy.com,rd ad,49,115,0,0,1,No
-casalemedia.com,rd ad,56,105,0,0,1,No
-issuu.com,rd ad,50,278,0,0,1,No
-oxylabs.io,rd ad,51,101,0,0,1,No
-steampowered.com,rd ad,57,109,0,0,1,No
-nature.com,rd ad,51,103,0,0,1,No
-mikrotik.com,rd ad,53,96,0,0,1,No
-openx.net,rd ad,50,131,0,0,1,No
-media-amazon.com,rd ad,57,126,0,0,1,No
-wiley.com,rd ad,50,106,0,0,1,No
-crashlytics.com,rd ad,56,101,0,0,1,No
-3lift.com,rd ad,50,122,0,0,1,No
-cdc.gov,rd ad,48,276,0,0,1,No
-stripe.com,rd ad,51,123,0,0,1,No
-weebly.com,rd ad,51,117,0,0,1,No
-demdex.net,rd ad,51,104,0,0,1,No
-capcutapi.com,rd ad,54,104,0,0,1,No
-booking.com,rd ad,52,122,0,0,1,No
-mozilla.com,rd ad,52,110,0,0,1,No
-ibm.com,rd ad,48,101,0,0,1,No
-clarity.ms,rd ad,51,125,0,0,1,No
-alibaba.com,rd ad,52,102,0,0,1,No
-discord.gg,rd ad,51,101,0,0,1,No
-ampproject.org,rd ad,55,103,0,0,1,No
-dailymail.co.uk,rd ad,56,116,0,0,1,No
-openai.com,rd ad,51,122,0,0,1,No
-media.net,rd ad,50,92,0,0,1,No
-un.org,rd ad,47,80,0,0,1,No
-smartadserver.com,rd ad,58,115,0,0,1,No
-telegraph.co.uk,rd ad,56,128,0,0,1,No
-hp.com,rd ad,47,105,0,0,1,No
-cloudflare.net,rd ad,55,203,0,0,1,No
-weibo.com,rd ad,50,102,0,0,1,No
-kwai-pro.com,rd ad,53,102,0,0,1,No
-facebook.net,rd ad,53,98,0,0,1,No
-opendns.com,rd ad,52,86,0,0,1,No
-ipv4only.arpa,rd ad,54,99,0,0,1,No
-aliexpress.com,rd ad,55,105,0,0,1,No
-avsxappcaptiveportal.com,rd ad,65,135,0,0,1,No
-cookielaw.org,rd ad,54,103,0,0,1,No
-tiktokv.us,rd ad,51,114,0,0,1,No
-washingtonpost.com,rd ad,59,129,0,0,1,No
-naver.com,rd ad,50,88,0,0,1,No
-stanford.edu,rd ad,53,201,0,0,1,No
-gnu.org,rd ad,48,87,0,0,1,No
-telegram.org,rd ad,53,120,0,0,1,No
-ibyteimg.com,rd ad,53,103,0,0,1,No
-launchdarkly.com,rd ad,57,126,0,0,1,No
-cornell.edu,rd ad,52,93,0,0,1,No
-expireddomains.com,rd ad,59,106,0,0,1,No
-sc-cdn.net,rd ad,51,126,0,0,1,No
-independent.co.uk,rd ad,58,108,0,0,1,No
-bloomberg.com,rd ad,54,106,0,0,1,No
-adsafeprotected.com,rd ad,60,113,0,0,1,No
-plesk.com,rd ad,50,97,0,0,1,No
-sfx.ms,rd ad,47,121,0,0,1,No
-wsj.com,rd ad,48,120,0,0,1,No
-cookiedatabase.org,rd ad,59,110,0,0,1,No
-temu.com,rd ad,49,120,0,0,1,No
-myshopify.com,rd ad,54,97,0,0,1,No
-pixabay.com,rd ad,52,200,0,0,1,No
-nflxso.net,rd ad,51,100,0,0,1,No
-fastly-edge.com,rd ad,56,102,0,0,1,No
-steamcommunity.com,rd ad,59,107,0,0,1,No
-dailymotion.com,rd ad,56,89,0,0,1,No
-statista.com,rd ad,53,111,0,0,1,No
-slideshare.net,rd ad,55,124,0,0,1,No
-indeed.com,rd ad,51,199,0,0,1,No
-duckduckgo.com,rd ad,55,108,0,0,1,No
-amazon.de,rd ad,50,109,0,0,1,No
-samsungqbe.com,rd ad,55,120,0,0,1,No
-wp.com,rd ad,47,97,0,0,1,No
-beian.gov.cn,rd ad,53,104,0,0,1,No
-businessinsider.com,rd ad,60,113,0,0,1,No
-globo.com,rd ad,50,91,0,0,1,No
-nasa.gov,rd ad,49,609,0,0,1,No
-speedtest.net,rd ad,54,129,0,0,1,No
-goodreads.com,rd ad,54,110,0,0,1,No
-g.page,rd ad,47,459,0,0,1,No
-samsungcloud.com,rd ad,57,127,0,0,1,No
-ax-msedge.net,rd ad,54,102,0,0,1,No
-amazonalexa.com,rd ad,56,112,0,0,1,No
-unsplash.com,rd ad,53,96,0,0,1,No
-amazonvideo.com,rd ad,56,128,0,0,1,No
-appsflyer.com,rd ad,54,124,0,0,1,No
-walmart.com,rd ad,52,105,0,0,1,No
-netflix.net,rd ad,52,127,0,0,1,No
-list-manage.com,rd ad,56,113,0,0,1,No
-telegram.me,rd ad,52,119,0,0,1,No
-aliyuncs.com,rd ad,53,120,0,0,1,No
-roku.com,rd ad,49,115,0,0,1,No
-cdn77.org,rd ad,50,93,0,0,1,No
-aiv-delivery.net,rd ad,57,126,0,0,1,No
-firetvcaptiveportal.com,rd ad,64,136,0,0,1,No
-aliyun.com,rd ad,51,112,0,0,1,No
-calendly.com,rd ad,53,201,0,0,1,No
-yandex.net,rd ad,51,90,0,0,1,No
-amzn.to,rd ad,48,107,0,0,1,No
-giphy.com,rd ad,50,114,0,0,1,No
-bamgrid.com,rd ad,52,121,0,0,1,No
-scdn.co,rd ad,48,101,0,0,1,No
-taobao.com,rd ad,51,101,0,0,1,No
-mysql.com,rd ad,50,120,0,0,1,No
-163.com,rd ad,48,91,0,0,1,No
-akamaized.net,rd ad,54,105,0,0,1,No
-allawnos.com,rd ad,53,119,0,0,1,No
-avcdn.net,rd ad,50,91,0,0,1,No
-azureedge.net,rd ad,54,115,0,0,1,No
-bytefcdn-oversea.com,rd ad,61,119,0,0,1,No
-byteoversea.net,rd ad,56,112,0,0,1,No
-douyincdn.com,rd ad,54,109,0,0,1,No
-edgekey.net,rd ad,52,103,0,0,1,No
-edgesuite.net,rd ad,54,105,0,0,1,No
-gamepass.com,rd ad,53,124,0,0,1,No
-google.com.br,rd ad,54,102,0,0,1,No
-heytapdl.com,rd ad,53,123,0,0,1,No
-heytapmobile.com,rd ad,57,126,0,0,1,No
-inner-active.mobi,rd ad,58,117,0,0,1,No
-ipify.org,rd ad,50,100,0,0,1,No
-kwai.net,rd ad,49,106,0,0,1,No
-kwaipros.com,rd ad,53,102,0,0,1,No
-mtgglobals.com,rd ad,55,127,0,0,1,No
-nflximg.com,rd ad,52,121,0,0,1,No
-pangle.io,rd ad,50,100,0,0,1,No
-samsungcloudsolution.com,rd ad,65,131,0,0,1,No
-shalltry.com,rd ad,53,122,0,0,1,No
-tiktokcdn-eu.com,rd ad,57,107,0,0,1,No
-tiktokv.eu,rd ad,51,101,0,0,1,No
-tp-link.com,rd ad,52,122,0,0,1,No
-ttdns2.com,rd ad,51,106,0,0,1,No
-vivoglobal.com,rd ad,55,110,0,0,1,No
-xboxlive.com,rd ad,53,125,0,0,1,No
-foxnews.com,rd ad,52,280,0,0,1,No
-ietf.org,rd ad,49,197,0,0,1,No
-scribd.com,rd ad,51,121,0,0,1,No
-indiatimes.com,rd ad,55,123,0,0,1,No
-eventbrite.com,rd ad,55,127,0,0,1,No
-quora.com,rd ad,50,120,0,0,1,No
-wired.com,rd ad,50,122,0,0,1,No
-ok.ru,rd ad,46,99,0,0,1,No
-cnbc.com,rd ad,49,102,0,0,1,No
-visualstudio.com,rd ad,57,115,0,0,1,No
-safebrowsing.apple,rd ad,59,125,0,0,1,No
-trustpilot.com,rd ad,55,125,0,0,1,No
-addtoany.com,rd ad,53,201,0,0,1,No
-google.de,rd ad,50,98,0,0,1,No
-time.com,rd ad,49,197,0,0,1,No
-yahoo.co.jp,rd ad,52,87,0,0,1,No
-grammarly.com,rd ad,54,120,0,0,1,No
-gitlab.com,rd ad,51,98,0,0,1,No
-deviantart.com,rd ad,55,125,0,0,1,No
-id5-sync.com,rd ad,53,201,0,0,1,No
-go.com,rd ad,47,111,0,0,1,No
-espn.com,rd ad,49,118,0,0,1,No
-npr.org,rd ad,48,120,0,0,1,No
-behance.net,rd ad,52,125,0,0,1,No
-capcut.com,rd ad,51,101,0,0,1,No
-fast.com,rd ad,49,105,0,0,1,No
-supercell.com,rd ad,54,126,0,0,1,No
-tradingview.com,rd ad,56,126,0,0,1,No
-xhamster.com,rd ad,53,100,0,0,1,No
-ya.ru,rd ad,46,90,0,0,1,No
-amazon.co.jp,rd ad,53,112,0,0,1,No
-line.me,rd ad,48,96,0,0,1,No
-aol.com,rd ad,48,113,0,0,1,No
-uol.com.br,rd ad,51,110,0,0,1,No
-nvidia.com,rd ad,51,91,0,0,1,No
-jquery.com,rd ad,51,100,0,0,1,No
-uber.com,rd ad,49,107,0,0,1,No
-shein.com,rd ad,50,119,0,0,1,No
-huawei.com,rd ad,51,86,0,0,1,No
-oup.com,rd ad,48,118,0,0,1,No
-webex.com,rd ad,50,100,0,0,1,No
-google.com.hk,rd ad,54,102,0,0,1,No
-stackoverflow.com,rd ad,58,107,0,0,1,No
-target.com,rd ad,51,101,0,0,1,No
-adobedtm.com,rd ad,53,110,0,0,1,No
-firefox.com,rd ad,52,128,0,0,1,No
-aboutads.info,rd ad,54,108,0,0,1,No
-msidentity.com,rd ad,55,116,0,0,1,No
-usatoday.com,rd ad,53,106,0,0,1,No
-svc.ms,rd ad,47,121,0,0,1,No
-uk.com,rd ad,47,459,0,0,1,No
-googlezip.net,rd ad,54,102,0,0,1,No
-ft.com,rd ad,47,103,0,0,1,No
-shopee.com.br,rd ad,54,123,0,0,1,No
-berkeley.edu,rd ad,53,1037,0,0,1,No
-tandfonline.com,rd ad,56,102,0,0,1,No
-dell.com,rd ad,49,88,0,0,1,No
-ikea.com,rd ad,49,197,0,0,1,No
-rlcdn.com,rd ad,50,115,0,0,1,No
-mi.com,rd ad,47,143,0,0,1,No
-icloud-content.com,rd ad,59,122,0,0,1,No
-elpais.com,rd ad,51,115,0,0,1,No
-loc.gov,rd ad,48,196,0,0,1,No
-googletagservices.com,rd ad,62,107,0,0,1,No
-azurefd.net,rd ad,52,126,0,0,1,No
-cnet.com,rd ad,49,127,0,0,1,No
-g.co,rd ad,45,93,0,0,1,No
-bidswitch.net,rd ad,54,94,0,0,1,No
-ieee.org,rd ad,49,88,0,0,1,No
-arxiv.org,rd ad,50,131,0,0,1,No
-slack.com,rd ad,50,278,0,0,1,No
-alicdn.com,rd ad,51,101,0,0,1,No
-ip-api.com,rd ad,51,83,0,0,1,No
-tiktokpangle.us,rd ad,56,119,0,0,1,No
-tiktokrow-cdn.com,rd ad,58,113,0,0,1,No
-azurewebsites.net,rd ad,58,120,0,0,1,No
-docker.com,rd ad,51,117,0,0,1,No
-blogger.com,rd ad,52,97,0,0,1,No
-ted.com,rd ad,48,120,0,0,1,No
-lemonde.fr,rd ad,51,132,0,0,1,No
-spiegel.de,rd ad,51,114,0,0,1,No
-2mdn.net,rd ad,49,97,0,0,1,No
-fontawesome.com,rd ad,56,125,0,0,1,No
-service.gov.uk,rd ad,55,136,0,0,1,No
-britannica.com,rd ad,55,121,0,0,1,No
-shutterstock.com,rd ad,57,126,0,0,1,No
-bsky.app,rd ad,49,124,0,0,1,No
-techcrunch.com,rd ad,55,102,0,0,1,No
-branch.io,rd ad,50,122,0,0,1,No
-agkn.com,rd ad,49,113,0,0,1,No
-tripadvisor.com,rd ad,56,112,0,0,1,No
-typekit.net,rd ad,52,121,0,0,1,No
-tapad.com,rd ad,50,114,0,0,1,No
-licdn.com,rd ad,50,112,0,0,1,No
-live.net,rd ad,49,124,0,0,1,No
-unesco.org,rd ad,51,90,0,0,1,No
-surveymonkey.com,rd ad,57,123,0,0,1,No
-rakuten.co.jp,rd ad,54,92,0,0,1,No
-teamviewer.com,rd ad,55,97,0,0,1,No
-substack.com,rd ad,53,99,0,0,1,No
-sina.com.cn,rd ad,52,93,0,0,1,No
-zendesk.com,rd ad,52,122,0,0,1,No
-jotform.com,rd ad,52,200,0,0,1,No
-newrelic.com,rd ad,53,281,0,0,1,No
-ca.gov,rd ad,47,195,0,0,1,No
-withgoogle.com,rd ad,55,100,0,0,1,No
-appcenter.ms,rd ad,53,127,0,0,1,No
-liadm.com,rd ad,50,93,0,0,1,No
-mediafire.com,rd ad,54,202,0,0,1,No
-nike.com,rd ad,49,90,0,0,1,No
-allaboutcookies.org,rd ad,60,208,0,0,1,No
-meraki.com,rd ad,51,123,0,0,1,No
-ipinfo.io,rd ad,50,131,0,0,1,No
-outbrain.com,rd ad,53,106,0,0,1,No
-wildberries.ru,rd ad,55,87,0,0,1,No
-amplitude.com,rd ad,54,124,0,0,1,No
-mdpi.com,rd ad,49,197,0,0,1,No
-cbsnews.com,rd ad,52,105,0,0,1,No
-free.fr,rd ad,48,105,0,0,1,No
-google.co.uk,rd ad,53,101,0,0,1,No
-1rx.io,rd ad,47,100,0,0,1,No
-networkadvertising.org,rd ad,63,132,0,0,1,No
-nikkei.com,rd ad,51,106,0,0,1,No
-onetrust.com,rd ad,53,201,0,0,1,No
-nel.goog,rd ad,49,97,0,0,1,No
-sagepub.com,rd ad,52,103,0,0,1,No
-fb.com,rd ad,47,89,0,0,1,No
-sharethrough.com,rd ad,57,123,0,0,1,No
-people.com,rd ad,51,109,0,0,1,No
-stackadapt.com,rd ad,55,124,0,0,1,No
-dotomi.com,rd ad,51,107,0,0,1,No
-wix.com,rd ad,48,101,0,0,1,No
-lijit.com,rd ad,50,103,0,0,1,No
-ameblo.jp,rd ad,50,123,0,0,1,No
-dzen.ru,rd ad,48,92,0,0,1,No
-he.net,rd ad,47,86,0,0,1,No
-crwdcntrl.net,rd ad,54,123,0,0,1,No
-redhat.com,rd ad,51,104,0,0,1,No
-squarespace.com,rd ad,56,108,0,0,1,No
-intel.com,rd ad,50,89,0,0,1,No
-browser-intake-datadoghq.com,rd ad,69,141,0,0,1,No
-amazon.fr,rd ad,50,109,0,0,1,No
-creativecdn.com,rd ad,56,125,0,0,1,No
-fiverr.com,rd ad,51,98,0,0,1,No
-accuweather.com,rd ad,56,96,0,0,1,No
-erome.com,rd ad,50,96,0,0,1,No
-ozon.ru,rd ad,48,91,0,0,1,No
-shopee.co.id,rd ad,53,125,0,0,1,No
-stripchat.com,rd ad,54,100,0,0,1,No
-wattpad.com,rd ad,52,124,0,0,1,No
-wp.pl,rd ad,46,90,0,0,1,No
-xvideos.com,rd ad,52,99,0,0,1,No
-omtrdc.net,rd ad,51,107,0,0,1,No
-imgur.com,rd ad,50,120,0,0,1,No
-salesforce.com,rd ad,55,203,0,0,1,No
-360yield.com,rd ad,53,123,0,0,1,No
-eye4.cn,rd ad,48,112,0,0,1,No
-braze.com,rd ad,50,122,0,0,1,No
-amazon.ca,rd ad,50,109,0,0,1,No
-prnewswire.com,rd ad,55,101,0,0,1,No
-lefigaro.fr,rd ad,52,96,0,0,1,No
-adform.net,rd ad,51,96,0,0,1,No
-playstation.com,rd ad,56,125,0,0,1,No
-mailchimp.com,rd ad,54,101,0,0,1,No
-hbr.org,rd ad,48,117,0,0,1,No
-yelp.com,rd ad,49,102,0,0,1,No
-quantserve.com,rd ad,55,121,0,0,1,No
-bidr.io,rd ad,48,123,0,0,1,No
-fda.gov,rd ad,48,608,0,0,1,No
-theverge.com,rd ad,53,123,0,0,1,No
-zillow.com,rd ad,51,100,0,0,1,No
-xbox.com,rd ad,49,121,0,0,1,No
-hindustantimes.com,rd ad,59,116,0,0,1,No
-turn.com,rd ad,49,102,0,0,1,No
-kaspersky.com,rd ad,54,114,0,0,1,No
-google.cn,rd ad,50,98,0,0,1,No
-bandcamp.com,rd ad,53,131,0,0,1,No
-githubusercontent.com,rd ad,62,115,0,0,1,No
-smaato.net,rd ad,51,126,0,0,1,No
-pendo.io,rd ad,49,461,0,0,1,No
-sentinelone.net,rd ad,56,129,0,0,1,No
-bugsnag.com,rd ad,52,122,0,0,1,No
-cambridge.org,rd ad,54,103,0,0,1,No
-teads.tv,rd ad,49,122,0,0,1,No
-tencent.com,rd ad,52,93,0,0,1,No
-welt.de,rd ad,48,608,0,0,1,No
-investopedia.com,rd ad,57,115,0,0,1,No
-myspace.com,rd ad,52,130,0,0,1,No
-go-mpulse.net,rd ad,54,110,0,0,1,No
-themeforest.net,rd ad,56,204,0,0,1,No
-ebay.co.uk,rd ad,51,112,0,0,1,No
-usps.com,rd ad,49,106,0,0,1,No
-mixpanel.com,rd ad,53,131,0,0,1,No
-ups.com,rd ad,48,756,0,0,1,No
-washington.edu,rd ad,55,102,0,0,1,No
-ea.com,rd ad,47,105,0,0,1,No
-everesttech.net,rd ad,56,112,0,0,1,No
-pinimg.com,rd ad,51,109,0,0,1,No
-iso.org,rd ad,48,97,0,0,1,No
-mckinsey.com,rd ad,53,92,0,0,1,No
-yieldmo.com,rd ad,52,118,0,0,1,No
-nypost.com,rd ad,51,123,0,0,1,No
-33across.com,rd ad,53,97,0,0,1,No
-twimg.com,rd ad,50,103,0,0,1,No
-clever.com,rd ad,51,121,0,0,1,No
-qualtrics.com,rd ad,54,138,0,0,1,No
-latimes.com,rd ad,52,122,0,0,1,No
-princeton.edu,rd ad,54,102,0,0,1,No
-flashtalking.com,rd ad,57,110,0,0,1,No
-onetag-sys.com,rd ad,55,99,0,0,1,No
-criteo.net,rd ad,51,93,0,0,1,No
-trendmicro.com,rd ad,55,283,0,0,1,No
-exp-tas.com,rd ad,52,123,0,0,1,No
-unpkg.com,rd ad,50,99,0,0,1,No
-newsweek.com,rd ad,53,122,0,0,1,No
-verisign.com,rd ad,53,613,0,0,1,No
-b-cdn.net,rd ad,50,101,0,0,1,No
-a-mo.net,rd ad,49,124,0,0,1,No
-telephony.goog,rd ad,55,103,0,0,1,No
-seznam.cz,rd ad,50,198,0,0,1,No
-fwmrm.net,rd ad,50,100,0,0,1,No
-fandom.com,rd ad,51,121,0,0,1,No
-nationalgeographic.com,rd ad,63,130,0,0,1,No
-mailchi.mp,rd ad,51,111,0,0,1,No
-optimizely.com,rd ad,55,203,0,0,1,No
-pages.dev,rd ad,50,99,0,0,1,No
-autodesk.com,rd ad,53,281,0,0,1,No
-whitehouse.gov,rd ad,55,203,0,0,1,No
-classlink.com,rd ad,54,120,0,0,1,No
-thenai.org,rd ad,51,120,0,0,1,No
-worldbank.org,rd ad,54,129,0,0,1,No
-threads.com,rd ad,52,94,0,0,1,No
-sedo.com,rd ad,49,97,0,0,1,No
-rbxcdn.com,rd ad,51,104,0,0,1,No
-xiaomi.net,rd ad,51,115,0,0,1,No
-webmd.com,rd ad,50,97,0,0,1,No
-mayoclinic.org,rd ad,55,96,0,0,1,No
-wbx2.com,rd ad,49,118,0,0,1,No
-frontiersin.org,rd ad,56,130,0,0,1,No
-readthedocs.io,rd ad,55,105,0,0,1,No
-grammarly.io,rd ad,53,126,0,0,1,No
-weforum.org,rd ad,52,121,0,0,1,No
-epa.gov,rd ad,48,608,0,0,1,No
-usda.gov,rd ad,49,437,0,0,1,No
-yellowblue.io,rd ad,54,126,0,0,1,No
-merkle.io,rd ad,50,198,0,0,1,No
-merriam-webster.com,rd ad,60,129,0,0,1,No
-academia.edu,rd ad,53,126,0,0,1,No
-freepik.com,rd ad,52,97,0,0,1,No
-buzzfeed.com,rd ad,53,123,0,0,1,No
-life360.com,rd ad,52,122,0,0,1,No
-intercom.io,rd ad,52,120,0,0,1,No
-theatlantic.com,rd ad,56,134,0,0,1,No
-youronlinechoices.com,rd ad,62,118,0,0,1,No
-azure-devices.net,rd ad,58,119,0,0,1,No
-gumgum.com,rd ad,51,121,0,0,1,No
-wpguardian.com,rd ad,55,203,0,0,1,No
-wpguardian.io,rd ad,54,104,0,0,1,No
-livejournal.com,rd ad,56,108,0,0,1,No
-intuit.com,rd ad,51,100,0,0,1,No
-unrulymedia.com,rd ad,56,126,0,0,1,No
-byteglb.com,rd ad,52,108,0,0,1,No
-disqus.com,rd ad,51,117,0,0,1,No
-youku.com,rd ad,50,90,0,0,1,No
-jd.com,rd ad,47,35,0,0,1,No
-marriott.com,rd ad,53,109,0,0,1,No
-python.org,rd ad,51,126,0,0,1,No
-healthline.com,rd ad,55,121,0,0,1,No
-deloitte.com,rd ad,53,114,0,0,1,No
-w3schools.com,rd ad,54,123,0,0,1,No
-amazon.com.br,rd ad,54,113,0,0,1,No
-magazineluiza.com.br,rd ad,61,130,0,0,1,No
-avito.ru,rd ad,49,90,0,0,1,No
-prodregistryv2.org,rd ad,59,129,0,0,1,No
-eu-1-id5-sync.com,rd ad,58,206,0,0,1,No
-nbcnews.com,rd ad,52,98,0,0,1,No
-dribbble.com,rd ad,53,96,0,0,1,No
-byteconnect.io,rd ad,55,106,0,0,1,No
-cloudsink.net,rd ad,54,282,0,0,1,No
-huffingtonpost.com,rd ad,59,108,0,0,1,No
-appspot.com,rd ad,52,97,0,0,1,No
-kickstarter.com,rd ad,56,108,0,0,1,No
-atlassian.com,rd ad,54,282,0,0,1,No
-umbrella.com,rd ad,53,102,0,0,1,No
-apnews.com,rd ad,51,199,0,0,1,No
-google.fr,rd ad,50,98,0,0,1,No
-biomedcentral.com,rd ad,58,120,0,0,1,No
-pexels.com,rd ad,51,98,0,0,1,No
-change.org,rd ad,51,126,0,0,1,No
-sc-gw.com,rd ad,50,119,0,0,1,No
-columbia.edu,rd ad,53,96,0,0,1,No
-rutube.ru,rd ad,50,89,0,0,1,No
-msftauth.net,rd ad,53,127,0,0,1,No
-noaa.gov,rd ad,49,461,0,0,1,No
-dual-s-msedge.net,rd ad,58,106,0,0,1,No
-state.gov,rd ad,50,1418,0,0,1,Yes
-plos.org,rd ad,49,99,0,0,1,No
-google.es,rd ad,50,98,0,0,1,No
-openstreetmap.org,rd ad,58,206,0,0,1,No
-ox.ac.uk,rd ad,49,95,0,0,1,No
-publicnode.com,rd ad,55,203,0,0,1,No
-umich.edu,rd ad,50,278,0,0,1,No
-discogs.com,rd ad,52,124,0,0,1,No
-businesswire.com,rd ad,57,98,0,0,1,No
-google.ca,rd ad,50,98,0,0,1,No
-adjust.com,rd ad,51,104,0,0,1,No
-theconversation.com,rd ad,60,104,0,0,1,No
-apa.org,rd ad,48,118,0,0,1,No
-oecd.org,rd ad,49,104,0,0,1,No
-pbs.org,rd ad,48,120,0,0,1,No
-google.co.jp,rd ad,53,101,0,0,1,No
-huffpost.com,rd ad,53,102,0,0,1,No
-economist.com,rd ad,54,107,0,0,1,No
-122da.com,rd ad,50,115,0,0,1,No
-18comic.vip,rd ad,52,102,0,0,1,No
-1mg.com,rd ad,48,94,0,0,1,No
-24h.com.vn,rd ad,51,88,0,0,1,No
-24xxxx.win,rd ad,51,103,0,0,1,No
-3bmeteo.com,rd ad,52,99,0,0,1,No
-3ckz.com,rd ad,49,122,0,0,1,No
-52shuku.net,rd ad,52,200,0,0,1,No
-5movierulz.dental,rd ad,58,110,0,0,1,No
-66lottery20.com,rd ad,56,117,0,0,1,No
-69shuba.com,rd ad,52,99,0,0,1,No
-8lyyu1vb4.com,rd ad,54,126,0,0,1,No
-aajtak.in,rd ad,50,110,0,0,1,No
-abc.es,rd ad,47,128,0,0,1,No
-acesso.gov.br,rd ad,54,104,0,0,1,No
-action.com,rd ad,51,199,0,0,1,No
-actu.fr,rd ad,48,99,0,0,1,No
-ad.nl,rd ad,46,274,0,0,1,No
-afribaba.com,rd ad,53,201,0,0,1,No
-aftonbladet.se,rd ad,55,107,0,0,1,No
-agoda.com,rd ad,50,115,0,0,1,No
-ak2yy.com,rd ad,50,108,0,0,1,No
-allegro.pl,rd ad,51,92,0,0,1,No
-allocine.fr,rd ad,52,200,0,0,1,No
-amazon.com.au,rd ad,54,113,0,0,1,No
-amazon.com.mx,rd ad,54,113,0,0,1,No
-amazon.com.tr,rd ad,54,113,0,0,1,No
-amazon.es,rd ad,50,109,0,0,1,No
-amazon.in,rd ad,50,109,0,0,1,No
-amazon.it,rd ad,50,109,0,0,1,No
-ameba.jp,rd ad,49,118,0,0,1,No
-an1.com,rd ad,48,100,0,0,1,No
-ancestry.com,rd ad,53,101,0,0,1,No
-animanch.com,rd ad,53,99,0,0,1,No
-aniwatchtv.to,rd ad,54,106,0,0,1,No
-annunci69.it,rd ad,53,101,0,0,1,No
-antarvasna3.com,rd ad,56,103,0,0,1,No
-anwap.today,rd ad,52,106,0,0,1,No
-aparat.com,rd ad,51,95,0,0,1,No
-apornvideo.com,rd ad,55,102,0,0,1,No
-arabtnt.com,rd ad,52,104,0,0,1,No
-arabx.cam,rd ad,50,100,0,0,1,No
-arbada.com,rd ad,51,98,0,0,1,No
-arca.live,rd ad,50,100,0,0,1,No
-archiveofourown.org,rd ad,60,112,0,0,1,No
-argos.co.uk,rd ad,52,116,0,0,1,No
-as.com,rd ad,47,100,0,0,1,No
-asd.homes,rd ad,50,100,0,0,1,No
-asuracomic.net,rd ad,55,106,0,0,1,No
-aternos.org,rd ad,52,200,0,0,1,No
-aucey.com,rd ad,50,96,0,0,1,No
-autoplius.lt,rd ad,53,104,0,0,1,No
-av19.ink,rd ad,49,100,0,0,1,No
-avsubthai.me,rd ad,53,201,0,0,1,No
-az24.vn,rd ad,48,98,0,0,1,No
-aznude.com,rd ad,51,199,0,0,1,No
-bakusai.com,rd ad,52,115,0,0,1,No
-bancodevenezuela.com,rd ad,61,110,0,0,1,No
-bankofamerica.com,rd ad,58,470,0,0,1,No
-banvenez.com,rd ad,53,102,0,0,1,No
-bato.si,rd ad,48,100,0,0,1,No
-bato.to,rd ad,48,97,0,0,1,No
-battwo.com,rd ad,51,100,0,0,1,No
-bebesong.com,rd ad,53,101,0,0,1,No
-bestbuy.com,rd ad,52,116,0,0,1,No
-bet365.com,rd ad,51,96,0,0,1,No
-betika.com,rd ad,51,98,0,0,1,No
-betking.com,rd ad,52,101,0,0,1,No
-betpawa.ug,rd ad,51,103,0,0,1,No
-betway.co.za,rd ad,53,103,0,0,1,No
-bfmtv.com,rd ad,50,116,0,0,1,No
-bhojpurisex.site,rd ad,57,107,0,0,1,No
-biblegateway.com,rd ad,57,127,0,0,1,No
-bikewale.com,rd ad,53,125,0,0,1,No
-bild.de,rd ad,48,608,0,0,1,No
-bilibili.tv,rd ad,52,133,0,0,1,No
-bingoplus.com,rd ad,54,146,0,0,1,No
-blacktoon410.com,rd ad,57,105,0,0,1,No
-blic.rs,rd ad,48,83,0,0,1,No
-blooket.com,rd ad,52,200,0,0,1,No
-boardgamearena.com,rd ad,59,107,0,0,1,No
-bol.com,rd ad,48,196,0,0,1,No
-bookmark.xxx,rd ad,53,106,0,0,1,No
-bookmyshow.com,rd ad,55,203,0,0,1,No
-botinok.porn,rd ad,53,113,0,0,1,No
-boyfriendtv.com,rd ad,56,103,0,0,1,No
-bpexch.net,rd ad,51,103,0,0,1,No
-bt.dk,rd ad,46,119,0,0,1,No
-caixa.gov.br,rd ad,53,201,0,0,1,No
-calculator.net,rd ad,55,113,0,0,1,No
-caliente.mx,rd ad,52,200,0,0,1,No
-cam4.com,rd ad,49,115,0,0,1,No
-cardekho.com,rd ad,53,125,0,0,1,No
-cardgames.io,rd ad,53,126,0,0,1,No
-cardmarket.com,rd ad,55,203,0,0,1,No
-carsensor.net,rd ad,54,108,0,0,1,No
-carwale.com,rd ad,52,122,0,0,1,No
-casinoplus.com.ph,rd ad,58,108,0,0,1,No
-cdiscount.com,rd ad,54,120,0,0,1,No
-ceneo.pl,rd ad,49,98,0,0,1,No
-character.ai,rd ad,53,103,0,0,1,No
-chaturbate.com,rd ad,55,203,0,0,1,No
-chess.com,rd ad,50,96,0,0,1,No
-chordtela.com,rd ad,54,202,0,0,1,No
-cityheaven.net,rd ad,55,130,0,0,1,No
-clickpetroleoegas.com.br,rd ad,65,115,0,0,1,No
-cmoa.jp,rd ad,48,98,0,0,1,No
-cnnbrasil.com.br,rd ad,57,131,0,0,1,No
-com.be,rd ad,47,106,0,0,1,No
-com.se,rd ad,47,459,0,0,1,No
-conectate.com.do,rd ad,57,107,0,0,1,No
-cookpad.com,rd ad,52,124,0,0,1,No
-coolmathgames.com,rd ad,58,107,0,0,1,No
-corriere.it,rd ad,52,123,0,0,1,No
-costco.com,rd ad,51,108,0,0,1,No
-coupang.com,rd ad,52,121,0,0,1,No
-crazygames.com,rd ad,55,203,0,0,1,No
-cricbuzz.com,rd ad,53,96,0,0,1,No
-cronista.com,rd ad,53,117,0,0,1,No
-croxyproxy.com,rd ad,55,104,0,0,1,No
-czbooks.net,rd ad,52,102,0,0,1,No
-dafont.com,rd ad,51,101,0,0,1,No
-dagbladet.no,rd ad,53,201,0,0,1,No
-dantri.com.vn,rd ad,54,92,0,0,1,No
-darkero.com,rd ad,52,99,0,0,1,No
-daum.net,rd ad,49,94,0,0,1,No
-dcinside.com,rd ad,53,105,0,0,1,No
-delgarm.com,rd ad,52,103,0,0,1,No
-desikahani2.net,rd ad,56,106,0,0,1,No
-desitales2.com,rd ad,55,102,0,0,1,No
-desitelugusex.com,rd ad,58,106,0,0,1,No
-digikala.com,rd ad,53,121,0,0,1,No
-diretta.it,rd ad,51,116,0,0,1,No
-disneyplus.com,rd ad,55,118,0,0,1,No
-divar.ir,rd ad,49,108,0,0,1,No
-dkitrxmdwoqruvsi.net,rd ad,61,130,0,0,1,No
-dlsite.com,rd ad,51,120,0,0,1,No
-dmm.co.jp,rd ad,50,113,0,0,1,No
-docomo.ne.jp,rd ad,53,101,0,0,1,No
-dogdrip.net,rd ad,52,103,0,0,1,No
-donmai.us,rd ad,50,198,0,0,1,No
-dpboss.boston,rd ad,54,105,0,0,1,No
-drom.ru,rd ad,48,86,0,0,1,No
-dto.jp,rd ad,47,116,0,0,1,No
-dzexams.com,rd ad,52,98,0,0,1,No
-e-hentai.org,rd ad,53,103,0,0,1,No
-e621.net,rd ad,49,197,0,0,1,No
-ebay.de,rd ad,48,109,0,0,1,No
-ebay.it,rd ad,48,109,0,0,1,No
-eci.gov.in,rd ad,51,91,0,0,1,No
-ecnavi.jp,rd ad,50,122,0,0,1,No
-ecosia.org,rd ad,51,121,0,0,1,No
-eenadu.net,rd ad,51,120,0,0,1,No
-ekstrabladet.dk,rd ad,56,128,0,0,1,No
-elconfidencial.com,rd ad,59,129,0,0,1,No
-elcorteingles.es,rd ad,57,111,0,0,1,No
-elephantbet.co.mz,rd ad,58,106,0,0,1,No
-eltiempo.es,rd ad,52,121,0,0,1,No
-emag.ro,rd ad,48,87,0,0,1,No
-emaktab.uz,rd ad,51,98,0,0,1,No
-epfindia.gov.in,rd ad,56,96,0,0,1,No
-eporner.com,rd ad,52,89,0,0,1,No
-eroterest.net,rd ad,54,110,0,0,1,No
-escort.club,rd ad,52,104,0,0,1,No
-escortbabylon.net,rd ad,58,110,0,0,1,No
-espncricinfo.com,rd ad,57,129,0,0,1,No
-ewaybillgst.gov.in,rd ad,59,99,0,0,1,No
-examinationservices.nic.in,rd ad,67,106,0,0,1,No
-exclusive-spin.com,rd ad,59,107,0,0,1,No
-exhentai.org,rd ad,53,103,0,0,1,No
-ey43.com,rd ad,49,99,0,0,1,No
-fabguys.com,rd ad,52,118,0,0,1,No
-fabswingers.com,rd ad,56,125,0,0,1,No
-fanfiction.net,rd ad,55,102,0,0,1,No
-fanmtl.com,rd ad,51,98,0,0,1,No
-fantia.jp,rd ad,50,93,0,0,1,No
-fapello.com,rd ad,52,99,0,0,1,No
-faphouse.com,rd ad,53,100,0,0,1,No
-faphouse.tv,rd ad,52,102,0,0,1,No
-fastdl.app,rd ad,51,103,0,0,1,No
-fatalmodel.com,rd ad,55,102,0,0,1,No
-fdown.net,rd ad,50,100,0,0,1,No
-fetlife.com,rd ad,52,100,0,0,1,No
-ficbook.net,rd ad,52,200,0,0,1,No
-filmweb.pl,rd ad,51,108,0,0,1,No
-filmyfiy.top,rd ad,53,105,0,0,1,No
-filmyfly.how,rd ad,53,104,0,0,1,No
-finn.no,rd ad,48,118,0,0,1,No
-flashscore.com,rd ad,55,120,0,0,1,No
-flashscore.fr,rd ad,54,119,0,0,1,No
-flashscore.mobi,rd ad,56,112,0,0,1,No
-flipkart.com,rd ad,53,104,0,0,1,No
-fmkorea.com,rd ad,52,124,0,0,1,No
-focus.de,rd ad,49,109,0,0,1,No
-forebet.com,rd ad,52,200,0,0,1,No
-fpo.xxx,rd ad,48,100,0,0,1,No
-franceinfo.fr,rd ad,54,113,0,0,1,No
-freesexkahani.com,rd ad,58,105,0,0,1,No
-funinmatch360.com,rd ad,58,119,0,0,1,No
-funpay.com,rd ad,51,98,0,0,1,No
-fuq.com,rd ad,48,94,0,0,1,No
-furaffinity.net,rd ad,56,105,0,0,1,No
-futbin.com,rd ad,51,98,0,0,1,No
-game8.jp,rd ad,49,122,0,0,1,No
-gamewith.jp,rd ad,52,127,0,0,1,No
-gazzetta.it,rd ad,52,123,0,0,1,No
-gcash.com,rd ad,50,116,0,0,1,No
-gdz-raketa.ru,rd ad,54,113,0,0,1,No
-gdz.ru,rd ad,47,99,0,0,1,No
-gekso.xyz,rd ad,50,198,0,0,1,No
-gelbooru.com,rd ad,53,201,0,0,1,No
-genius.com,rd ad,51,98,0,0,1,No
-gfpxw.com,rd ad,50,108,0,0,1,No
-girlschannel.net,rd ad,57,130,0,0,1,No
-gismeteo.ru,rd ad,52,101,0,0,1,No
-goal7.co,rd ad,49,99,0,0,1,No
-goodreturns.in,rd ad,55,104,0,0,1,No
-googll.store,rd ad,53,104,0,0,1,No
-goojara.to,rd ad,51,101,0,0,1,No
-gree-apps.net,rd ad,54,109,0,0,1,No
-gree-pf.net,rd ad,52,102,0,0,1,No
-gsmarena.com,rd ad,53,94,0,0,1,No
-gst.gov.in,rd ad,51,96,0,0,1,No
-haberler.com,rd ad,53,101,0,0,1,No
-hamsterix.today,rd ad,56,107,0,0,1,No
-hanime1.me,rd ad,51,104,0,0,1,No
-happymh.com,rd ad,52,200,0,0,1,No
-hdhub4u.gd,rd ad,51,101,0,0,1,No
-hdhub4u.rehab,rd ad,54,104,0,0,1,No
-hdporncomics.com,rd ad,57,104,0,0,1,No
-hdtube.porn,rd ad,52,102,0,0,1,No
-hepsiburada.com,rd ad,56,134,0,0,1,No
-hianime.to,rd ad,51,102,0,0,1,No
-hitomi.la,rd ad,50,94,0,0,1,No
-hln.be,rd ad,47,275,0,0,1,No
-hltv.org,rd ad,49,99,0,0,1,No
-hm.com,rd ad,47,97,0,0,1,No
-hochi.news,rd ad,51,124,0,0,1,No
-hollywoodbets.net,rd ad,58,107,0,0,1,No
-homedepot.com,rd ad,54,112,0,0,1,No
-hotpepper.jp,rd ad,53,105,0,0,1,No
-hqporner.com,rd ad,53,108,0,0,1,No
-humoruniv.com,rd ad,54,95,0,0,1,No
-idealista.com,rd ad,54,123,0,0,1,No
-idealista.it,rd ad,53,126,0,0,1,No
-idnes.cz,rd ad,49,609,0,0,1,No
-ifilo.net,rd ad,50,93,0,0,1,No
-ijavhd.com,rd ad,51,100,0,0,1,No
-illuminateed.com,rd ad,57,104,0,0,1,No
-ilmeteo.it,rd ad,51,101,0,0,1,No
-ilovepdf.com,rd ad,53,100,0,0,1,No
-iltalehti.fi,rd ad,53,126,0,0,1,No
-imagefap.com,rd ad,53,104,0,0,1,No
-imgsrc.ru,rd ad,50,100,0,0,1,No
-imhentai.xxx,rd ad,53,102,0,0,1,No
-index.hr,rd ad,49,99,0,0,1,No
-indiamart.com,rd ad,54,124,0,0,1,No
-infobae.com,rd ad,52,130,0,0,1,No
-inven.co.kr,rd ad,52,85,0,0,1,No
-iporntv.net,rd ad,52,101,0,0,1,No
-isaidub.love,rd ad,53,103,0,0,1,No
-itmedia.co.jp,rd ad,54,122,0,0,1,No
-ixl.com,rd ad,48,196,0,0,1,No
-ixxx.com,rd ad,49,95,0,0,1,No
-jable.tv,rd ad,49,99,0,0,1,No
-jagran.com,rd ad,51,120,0,0,1,No
-jalan.net,rd ad,50,104,0,0,1,No
-janitorai.com,rd ad,54,202,0,0,1,No
-jaya9bangladesh.com,rd ad,60,106,0,0,1,No
-jcpenney.com,rd ad,53,102,0,0,1,No
-joyclub.de,rd ad,51,123,0,0,1,No
-jra.go.jp,rd ad,50,278,0,0,1,No
-jra.jp,rd ad,47,105,0,0,1,No
-jusbrasil.com.br,rd ad,57,205,0,0,1,No
-justdial.com,rd ad,53,110,0,0,1,No
-jw.org,rd ad,47,108,0,0,1,No
-kakuyomu.jp,rd ad,52,124,0,0,1,No
-kamababa.desi,rd ad,54,202,0,0,1,No
-karnataka.gov.in,rd ad,57,97,0,0,1,No
-kemkes.go.id,rd ad,53,105,0,0,1,No
-kemono.cr,rd ad,50,94,0,0,1,No
-kick.com,rd ad,49,97,0,0,1,No
-kingbokep.tv,rd ad,53,102,0,0,1,No
-kkstories.com,rd ad,54,113,0,0,1,No
-kleinanzeigen.de,rd ad,57,138,0,0,1,No
-kohls.com,rd ad,50,88,0,0,1,No
-kolkataff.tv,rd ad,53,107,0,0,1,No
-kompoz2.com,rd ad,52,99,0,0,1,No
-kooora.com,rd ad,51,120,0,0,1,No
-ladies.de,rd ad,50,103,0,0,1,No
-lanacion.com.ar,rd ad,56,125,0,0,1,No
-lausd.net,rd ad,50,82,0,0,1,No
-lc.chat,rd ad,48,98,0,0,1,No
-leboncoin.fr,rd ad,53,128,0,0,1,No
-lectormangaa.com,rd ad,57,103,0,0,1,No
-leparisien.fr,rd ad,54,112,0,0,1,No
-lequipe.fr,rd ad,51,199,0,0,1,No
-leroymerlin.fr,rd ad,55,113,0,0,1,No
-letras.mus.br,rd ad,54,127,0,0,1,No
-letterboxd.com,rd ad,55,102,0,0,1,No
-librefutboltv.su,rd ad,57,107,0,0,1,No
-librus.pl,rd ad,50,85,0,0,1,No
-lichess.org,rd ad,52,200,0,0,1,No
-listcrawler.eu,rd ad,55,107,0,0,1,No
-liteapks.com,rd ad,53,100,0,0,1,No
-litnet.com,rd ad,51,101,0,0,1,No
-livescore.com,rd ad,54,132,0,0,1,No
-livescore.cz,rd ad,53,107,0,0,1,No
-lk21official.cc,rd ad,56,108,0,0,1,No
-lolpol.com,rd ad,51,99,0,0,1,No
-lotterysambadresult.in,rd ad,63,113,0,0,1,No
-lowes.com,rd ad,50,97,0,0,1,No
-luticlip.com,rd ad,53,201,0,0,1,No
-luxuretv.com,rd ad,53,99,0,0,1,No
-macys.com,rd ad,50,104,0,0,1,No
-madrasati.sa,rd ad,53,125,0,0,1,No
-makemytrip.com,rd ad,55,112,0,0,1,No
-mangabuddy.com,rd ad,55,101,0,0,1,No
-mangabuff.ru,rd ad,53,104,0,0,1,No
-mangago.me,rd ad,51,101,0,0,1,No
-mangaraw.ac,rd ad,52,110,0,0,1,No
-mango.com,rd ad,50,122,0,0,1,No
-manhwaweb.com,rd ad,54,100,0,0,1,No
-marca.com,rd ad,50,113,0,0,1,No
-marksandspencer.com,rd ad,60,115,0,0,1,No
-marktplaats.nl,rd ad,55,128,0,0,1,No
-mat6tube.com,rd ad,53,105,0,0,1,No
-mbga.jp,rd ad,48,121,0,0,1,No
-mechacomic.jp,rd ad,54,123,0,0,1,No
-mediaexpert.pl,rd ad,55,105,0,0,1,No
-medu.ir,rd ad,48,89,0,0,1,No
-mercadolibre.com.ar,rd ad,60,133,0,0,1,No
-mercadolibre.com.mx,rd ad,60,133,0,0,1,No
-mercadolivre.com.br,rd ad,60,133,0,0,1,No
-merkur.de,rd ad,50,114,0,0,1,No
-metropoles.com,rd ad,55,107,0,0,1,No
-mingky02.net,rd ad,53,103,0,0,1,No
-missav.ai,rd ad,50,198,0,0,1,No
-missav.live,rd ad,52,200,0,0,1,No
-missav.ws,rd ad,50,198,0,0,1,No
-missav123.com,rd ad,54,102,0,0,1,No
-mlookalporno.com,rd ad,57,105,0,0,1,No
-mobcup.fm,rd ad,50,99,0,0,1,No
-momon-ga.com,rd ad,53,103,0,0,1,No
-moneycontrol.com,rd ad,57,285,0,0,1,No
-motherless.com,rd ad,55,108,0,0,1,No
-moviebox.ph,rd ad,52,109,0,0,1,No
-moviesda14.net,rd ad,55,105,0,0,1,No
-ms1a.com,rd ad,49,107,0,0,1,No
-musicdel.ir,rd ad,52,116,0,0,1,No
-mydramalist.com,rd ad,56,102,0,0,1,No
-myntra.com,rd ad,51,108,0,0,1,No
+google.com,qr rd ra,51,89,0,1,1,No
+microsoft.com,qr rd ra,54,115,0,1,1,No
+facebook.com,qr rd ra,53,86,0,1,1,No
+googleapis.com,qr rd ra,55,100,0,1,1,No
+youtube.com,qr rd ra,52,97,0,1,1,No
+apple.com,qr rd ra,50,107,0,1,1,No
+instagram.com,qr rd ra,54,96,0,1,1,No
+gstatic.com,qr rd ra,52,97,0,1,1,No
+cloudflare.com,qr rd ra ad,55,203,2,0,1,No
+twitter.com,qr rd ra,52,97,0,1,1,No
+office.com,qr rd ra,51,109,0,1,1,No
+amazonaws.com,qr rd ra,54,127,0,1,1,No
+live.com,qr rd ra,49,107,0,1,1,No
+linkedin.com,qr rd ra,53,106,0,1,1,No
+googletagmanager.com,qr rd ra,61,106,0,1,1,No
+amazon.com,qr rd ra,51,106,0,1,1,No
+googlevideo.com,qr rd ra,56,101,0,1,1,No
+microsoftonline.com,qr rd ra,60,118,0,1,1,No
+windowsupdate.com,qr rd ra,58,130,0,1,1,No
+wikipedia.org,qr rd ra,54,103,0,1,1,No
+github.com,qr rd ra,51,104,0,1,1,No
+fbcdn.net,qr rd ra,50,95,0,1,1,No
+bing.com,qr rd ra,49,121,0,1,1,No
+doubleclick.net,qr rd ra,56,104,0,1,1,No
+e2ro.com,qr rd ra,49,119,0,1,1,No
+googleusercontent.com,qr rd ra,62,107,0,1,1,No
+digicert.com,qr rd ra,53,98,0,1,1,No
+whatsapp.net,qr rd ra,53,86,0,1,1,No
+wordpress.org,qr rd ra,54,93,0,1,1,No
+youtu.be,qr rd ra,49,97,0,1,1,No
+netflix.com,qr rd ra,52,117,0,1,1,No
+pinterest.com,qr rd ra,54,102,0,1,1,No
+icloud.com,qr rd ra,51,114,0,1,1,No
+whatsapp.com,qr rd ra,53,98,0,1,1,No
+apple-dns.net,qr rd ra,54,120,0,1,1,No
+goo.gl,qr rd ra,47,95,0,1,1,No
+yahoo.com,qr rd ra,50,99,0,1,1,No
+skype.com,qr rd ra,50,122,0,1,1,No
+x.com,qr rd ra,46,99,0,1,1,No
+msn.com,qr rd ra,48,120,0,1,1,No
+akadns.net,qr rd ra,51,105,0,1,1,No
+office.net,qr rd ra,51,112,0,1,1,No
+ntp.org,qr rd ra,48,95,0,1,1,No
+tiktok.com,qr rd ra,51,107,0,1,1,No
+googlesyndication.com,qr rd ra,62,107,0,1,1,No
+aaplimg.com,qr rd ra,52,115,0,1,1,No
+spotify.com,qr rd ra,52,130,0,1,1,No
+vimeo.com,qr rd ra,50,115,0,1,1,No
+windows.net,qr rd ra,52,126,0,1,1,No
+adobe.com,qr rd ra,50,103,0,1,1,No
+cloudfront.net,qr rd ra,55,110,0,1,1,No
+ytimg.com,qr rd ra,50,95,0,1,1,No
+wa.me,qr rd ra,46,91,0,1,1,No
+akamai.net,qr rd ra,51,116,0,1,1,No
+office365.com,qr rd ra,54,112,0,1,1,No
+nginx.org,qr rd ra,50,104,0,1,1,No
+google-analytics.com,qr rd ra,61,106,0,1,1,No
+tiktokcdn.com,qr rd ra,54,110,0,1,1,No
+cloudflare-dns.com,qr rd ra ad,59,207,2,0,1,No
+gvt2.com,qr rd ra,49,94,0,1,1,No
+bit.ly,qr rd ra,47,120,0,1,1,No
+tiktokv.com,qr rd ra,52,108,0,1,1,No
+nginx.com,qr rd ra,50,101,0,1,1,No
+samsung.com,qr rd ra,52,97,0,1,1,No
+reddit.com,qr rd ra,51,120,0,1,1,No
+wordpress.com,qr rd ra,54,95,0,1,1,No
+mozilla.org,qr rd ra,52,121,0,1,1,No
+baidu.com,qr rd ra,50,81,0,1,1,No
+fastly.net,qr rd ra,51,100,0,1,1,No
+sharepoint.com,qr rd ra,55,127,0,1,1,No
+windows.com,qr rd ra,52,124,0,1,1,No
+ui.com,qr rd ra,47,119,0,1,1,No
+googleadservices.com,qr rd ra,61,106,0,1,1,No
+qq.com,qr rd ra,47,85,0,1,1,No
+akamaiedge.net,qr rd ra,55,109,0,1,1,No
+azure.com,qr rd ra,50,121,0,1,1,No
+t.me,qr rd ra,45,112,0,1,1,No
+cdninstagram.com,qr rd ra,57,109,0,1,1,No
+blogspot.com,qr rd ra,53,98,0,1,1,No
+sentry.io,qr rd ra,50,131,0,1,1,No
+dns.google,qr rd ra ad,51,463,2,0,1,No
+europa.eu,qr rd ra ad,50,1122,3,0,1,No
+app-measurement.com,qr rd ra,60,105,0,1,1,No
+gvt1.com,qr rd ra,49,94,0,1,1,No
+apache.org,qr rd ra,51,123,0,1,1,No
+github.io,qr rd ra,50,103,0,1,1,No
+roblox.com,qr rd ra,51,104,0,1,1,No
+gravatar.com,qr rd ra,53,103,0,1,1,No
+pki.goog,qr rd ra ad,49,461,2,0,1,No
+cloud.microsoft,qr rd ra ad,56,204,2,0,1,No
+amazon-adsystem.com,qr rd ra,60,116,0,1,1,No
+app-analytics-services.com,qr rd ra,67,112,0,1,1,No
+zoom.us,qr rd ra,48,121,0,1,1,No
+msftncsi.com,qr rd ra,53,124,0,1,1,No
+one.one,qr rd ra ad,48,116,1,0,1,No
+snapchat.com,qr rd ra,53,119,0,1,1,No
+outlook.com,qr rd ra,52,110,0,1,1,No
+f5.com,qr rd ra,47,88,0,1,1,No
+archive.org,qr rd ra,52,91,0,1,1,No
+forms.gle,qr rd ra,50,123,0,1,1,No
+nih.gov,qr rd ra ad,48,608,3,0,1,No
+miit.gov.cn,qr rd ra,52,85,0,1,1,No
+criteo.com,qr rd ra,51,83,0,1,1,No
+steamserver.net,qr rd ra,56,107,0,1,1,No
+applovin.com,qr rd ra,53,121,0,1,1,No
+dropbox.com,qr rd ra,52,121,0,1,1,No
+tumblr.com,qr rd ra,51,90,0,1,1,No
+opera.com,qr rd ra,50,90,0,1,1,No
+appsflyersdk.com,qr rd ra,57,127,0,1,1,No
+msftconnecttest.com,qr rd ra,60,131,0,1,1,No
+ggpht.com,qr rd ra,50,95,0,1,1,No
+trafficmanager.net,qr rd ra,59,108,0,1,1,No
+nytimes.com,qr rd ra,52,105,0,1,1,No
+unity3d.com,qr rd ra,52,107,0,1,1,No
+macromedia.com,qr rd ra,55,114,0,1,1,No
+vk.com,qr rd ra,47,91,0,1,1,No
+3gppnetwork.org,qr rd ra,56,105,0,1,1,No
+a2z.com,qr rd ra,48,104,0,1,1,No
+amazon.dev,qr rd ra,51,123,0,1,1,No
+paypal.com,qr rd ra ad,51,359,4,0,1,No
+chatgpt.com,qr rd ra,52,200,2,0,1,No
+lencr.org,qr rd ra,50,100,0,1,1,No
+shopify.com,qr rd ra,52,110,0,1,1,No
+discord.com,qr rd ra ad,52,200,2,0,1,No
+mailinabox.email,qr rd ra,57,116,0,1,1,No
+cdn-apple.com,qr rd ra,54,117,0,1,1,No
+rubiconproject.com,qr rd ra,59,128,0,1,1,No
+flickr.com,qr rd ra,51,120,0,1,1,No
+w3.org,qr rd ra,47,98,0,1,1,No
+soundcloud.com,qr rd ra,55,124,0,1,1,No
+medium.com,qr rd ra,51,99,0,1,1,No
+godaddy.com,qr rd ra,52,94,0,1,1,No
+cnn.com,qr rd ra,48,120,0,1,1,No
+theguardian.com,qr rd ra,56,109,0,1,1,No
+nist.gov,qr rd ra ad,49,493,2,0,1,No
+tiktokcdn-us.com,qr rd ra,57,120,0,1,1,No
+adnxs.com,qr rd ra,50,103,0,1,1,No
+taboola.com,qr rd ra ad,52,280,3,0,1,No
+creativecommons.org,qr rd ra,60,208,2,0,1,No
+adtrafficquality.google,qr rd ra,64,112,0,1,1,No
+pubmatic.com,qr rd ra,53,106,0,1,1,No
+forbes.com,qr rd ra,51,123,0,1,1,No
+example.com,qr rd ra ad,52,360,4,0,1,No
+adsrvr.org,qr rd ra,51,104,0,1,1,No
+bbc.com,qr rd ra,48,95,0,1,1,No
+t.co,qr rd ra,45,101,0,1,1,No
+researchgate.net,qr rd ra,57,108,0,1,1,No
+sourceforge.net,qr rd ra,56,103,0,1,1,No
+gmail.com,qr rd ra,50,95,0,1,1,No
+bbc.co.uk,qr rd ra,50,88,0,1,1,No
+oracle.com,qr rd ra,51,114,0,1,1,No
+0xrpc.io,qr rd ra ad,49,1121,3,0,1,No
+mit.edu,qr rd ra,48,101,0,1,1,No
+sciencedirect.com,qr rd ra,58,105,0,1,1,No
+xiaomi.com,qr rd ra,51,112,0,1,1,No
+doi.org,qr rd ra ad,48,196,2,0,1,No
+avast.com,qr rd ra,50,100,0,1,1,No
+cpanel.net,qr rd ra,51,81,0,1,1,No
+canva.com,qr rd ra ad,50,278,3,0,1,No
+vungle.com,qr rd ra,51,80,0,1,1,No
+twitch.tv,qr rd ra,50,119,0,1,1,No
+android.com,qr rd ra,52,97,0,1,1,No
+imdb.com,qr rd ra,49,105,0,1,1,No
+youtube-nocookie.com,qr rd ra,61,106,0,1,1,No
+weather.com,qr rd ra,52,105,0,1,1,No
+playstation.net,qr rd ra,56,90,0,1,1,No
+ebay.com,qr rd ra,49,102,0,1,1,No
+wixsite.com,qr rd ra,52,105,0,1,1,No
+who.int,qr rd ra,48,91,0,1,1,No
+static.microsoft,qr rd ra ad,57,205,2,0,1,No
+scorecardresearch.com,qr rd ra,62,131,0,1,1,No
+aws.dev,qr rd ra,48,123,0,1,1,No
+linktr.ee,qr rd ra,50,122,0,1,1,No
+mail.ru,qr rd ra,48,87,0,1,1,No
+hubspot.com,qr rd ra ad,52,200,2,0,1,No
+yandex.com,qr rd ra,51,97,0,1,1,No
+launchpad.net,qr rd ra,54,106,0,1,1,No
+msedge.net,qr rd ra,51,99,0,1,1,No
+tinyurl.com,qr rd ra,52,107,0,1,1,No
+nr-data.net,qr rd ra ad,52,280,3,0,1,No
+yandex.ru,qr rd ra,50,99,0,1,1,No
+miui.com,qr rd ra,49,110,0,1,1,No
+www.gov.uk,qr rd ra,51,186,2,1,1,No
+googleblog.com,qr rd ra,55,100,0,1,1,No
+dropcatch.com,qr rd ra,54,102,0,1,1,No
+adobe.io,qr rd ra,49,122,0,1,1,No
+amazon.co.uk,qr rd ra,53,112,0,1,1,No
+ubuntu.com,qr rd ra,51,100,0,1,1,No
+wyzecam.com,qr rd ra,52,98,0,1,1,No
+wikimedia.org,qr rd ra,54,93,0,1,1,No
+doubleverify.com,qr rd ra,57,119,0,1,1,No
+mzstatic.com,qr rd ra,53,116,0,1,1,No
+bilibili.com,qr rd ra,53,114,0,1,1,No
+php.net,qr rd ra,48,93,0,1,1,No
+jsdelivr.net,qr rd ra,53,99,0,1,1,No
+epicgames.com,qr rd ra,54,124,0,1,1,No
+debian.org,qr rd ra ad,51,687,4,0,1,No
+inmobi.com,qr rd ra,51,129,0,1,1,No
+reuters.com,qr rd ra,52,112,0,1,1,No
+cloudflareinsights.com,qr rd ra,63,110,0,1,1,No
+springer.com,qr rd ra,53,106,0,1,1,No
+harvard.edu,qr rd ra,52,360,4,0,1,No
+cisco.com,qr rd ra,50,89,0,1,1,No
+etsy.com,qr rd ra,49,115,0,1,1,No
+casalemedia.com,qr rd ra,56,105,0,1,1,No
+issuu.com,qr rd ra ad,50,278,3,0,1,No
+oxylabs.io,qr rd ra,51,101,0,1,1,No
+steampowered.com,qr rd ra,57,109,0,1,1,No
+nature.com,qr rd ra,51,103,0,1,1,No
+mikrotik.com,qr rd ra,53,96,0,1,1,No
+openx.net,qr rd ra,50,131,0,1,1,No
+media-amazon.com,qr rd ra,57,126,0,1,1,No
+wiley.com,qr rd ra,50,106,0,1,1,No
+crashlytics.com,qr rd ra,56,101,0,1,1,No
+3lift.com,qr rd ra,50,122,0,1,1,No
+cdc.gov,qr rd ra ad,48,276,3,0,1,No
+stripe.com,qr rd ra,51,123,0,1,1,No
+weebly.com,qr rd ra,51,117,0,1,1,No
+demdex.net,qr rd ra,51,104,0,1,1,No
+capcutapi.com,qr rd ra,54,104,0,1,1,No
+booking.com,qr rd ra,52,122,0,1,1,No
+mozilla.com,qr rd ra,52,110,0,1,1,No
+ibm.com,qr rd ra,48,101,0,1,1,No
+clarity.ms,qr rd ra,51,125,0,1,1,No
+alibaba.com,qr rd ra,52,102,0,1,1,No
+discord.gg,qr rd ra,51,101,0,1,1,No
+ampproject.org,qr rd ra,55,103,0,1,1,No
+dailymail.co.uk,qr rd ra,56,116,0,1,1,No
+openai.com,qr rd ra,51,122,0,1,1,No
+media.net,qr rd ra,50,92,0,1,1,No
+un.org,qr rd ra,47,80,0,1,1,No
+smartadserver.com,qr rd ra,58,115,0,1,1,No
+telegraph.co.uk,qr rd ra,56,128,0,1,1,No
+hp.com,qr rd ra,47,105,0,1,1,No
+cloudflare.net,qr rd ra ad,55,203,2,0,1,No
+weibo.com,qr rd ra,50,102,0,1,1,No
+kwai-pro.com,qr rd ra,53,102,0,1,1,No
+facebook.net,qr rd ra,53,98,0,1,1,No
+opendns.com,qr rd ra,52,86,0,1,1,No
+ipv4only.arpa,qr rd ra,54,99,0,1,1,No
+aliexpress.com,qr rd ra,55,105,0,1,1,No
+avsxappcaptiveportal.com,qr rd ra,65,135,0,1,1,No
+cookielaw.org,qr rd ra,54,103,0,1,1,No
+tiktokv.us,qr rd ra,51,114,0,1,1,No
+washingtonpost.com,qr rd ra,59,129,0,1,1,No
+naver.com,qr rd ra,50,88,0,1,1,No
+stanford.edu,qr rd ra ad,53,201,2,0,1,No
+gnu.org,qr rd ra,48,87,0,1,1,No
+telegram.org,qr rd ra,53,120,0,1,1,No
+ibyteimg.com,qr rd ra,53,103,0,1,1,No
+launchdarkly.com,qr rd ra,57,126,0,1,1,No
+cornell.edu,qr rd ra,52,93,0,1,1,No
+expireddomains.com,qr rd ra,59,106,0,1,1,No
+sc-cdn.net,qr rd ra,51,126,0,1,1,No
+independent.co.uk,qr rd ra,58,108,0,1,1,No
+bloomberg.com,qr rd ra,54,106,0,1,1,No
+adsafeprotected.com,qr rd ra,60,113,0,1,1,No
+plesk.com,qr rd ra,50,97,0,1,1,No
+sfx.ms,qr rd ra,47,121,0,1,1,No
+wsj.com,qr rd ra,48,120,0,1,1,No
+cookiedatabase.org,qr rd ra,59,110,0,1,1,No
+temu.com,qr rd ra,49,120,0,1,1,No
+myshopify.com,qr rd ra,54,97,0,1,1,No
+pixabay.com,qr rd ra ad,52,200,2,0,1,No
+nflxso.net,qr rd ra,51,100,0,1,1,No
+fastly-edge.com,qr rd ra,56,102,0,1,1,No
+steamcommunity.com,qr rd ra,59,107,0,1,1,No
+dailymotion.com,qr rd ra,56,89,0,1,1,No
+statista.com,qr rd ra,53,111,0,1,1,No
+slideshare.net,qr rd ra,55,124,0,1,1,No
+indeed.com,qr rd ra ad,51,199,2,0,1,No
+duckduckgo.com,qr rd ra,55,108,0,1,1,No
+amazon.de,qr rd ra,50,109,0,1,1,No
+samsungqbe.com,qr rd ra,55,120,0,1,1,No
+wp.com,qr rd ra,47,97,0,1,1,No
+beian.gov.cn,qr rd ra,53,104,0,1,1,No
+businessinsider.com,qr rd ra,60,113,0,1,1,No
+globo.com,qr rd ra,50,91,0,1,1,No
+nasa.gov,qr rd ra ad,49,609,3,0,1,No
+speedtest.net,qr rd ra,54,129,0,1,1,No
+goodreads.com,qr rd ra,54,110,0,1,1,No
+g.page,qr rd ra ad,47,459,2,0,1,No
+samsungcloud.com,qr rd ra,57,127,0,1,1,No
+ax-msedge.net,qr rd ra,54,102,0,1,1,No
+amazonalexa.com,qr rd ra,56,112,0,1,1,No
+unsplash.com,qr rd ra,53,96,0,1,1,No
+amazonvideo.com,qr rd ra,56,128,0,1,1,No
+appsflyer.com,qr rd ra,54,124,0,1,1,No
+walmart.com,qr rd ra,52,105,0,1,1,No
+netflix.net,qr rd ra,52,127,0,1,1,No
+list-manage.com,qr rd ra,56,113,0,1,1,No
+telegram.me,qr rd ra,52,119,0,1,1,No
+aliyuncs.com,qr rd ra,53,120,0,1,1,No
+roku.com,qr rd ra,49,115,0,1,1,No
+cdn77.org,qr rd ra,50,93,0,1,1,No
+aiv-delivery.net,qr rd ra,57,126,0,1,1,No
+firetvcaptiveportal.com,qr rd ra,64,136,0,1,1,No
+aliyun.com,qr rd ra,51,112,0,1,1,No
+calendly.com,qr rd ra ad,53,201,2,0,1,No
+yandex.net,qr rd ra,51,90,0,1,1,No
+amzn.to,qr rd ra,48,107,0,1,1,No
+giphy.com,qr rd ra,50,114,0,1,1,No
+bamgrid.com,qr rd ra,52,121,0,1,1,No
+scdn.co,qr rd ra,48,101,0,1,1,No
+taobao.com,qr rd ra,51,101,0,1,1,No
+mysql.com,qr rd ra,50,120,0,1,1,No
+163.com,qr rd ra,48,91,0,1,1,No
+akamaized.net,qr rd ra,54,105,0,1,1,No
+allawnos.com,qr rd ra,53,119,0,1,1,No
+avcdn.net,qr rd ra,50,91,0,1,1,No
+azureedge.net,qr rd ra,54,115,0,1,1,No
+bytefcdn-oversea.com,qr rd ra,61,119,0,1,1,No
+byteoversea.net,qr rd ra,56,112,0,1,1,No
+douyincdn.com,qr rd ra,54,109,0,1,1,No
+edgekey.net,qr rd ra,52,103,0,1,1,No
+edgesuite.net,qr rd ra,54,105,0,1,1,No
+gamepass.com,qr rd ra,53,124,0,1,1,No
+google.com.br,qr rd ra,54,102,0,1,1,No
+heytapdl.com,qr rd ra,53,123,0,1,1,No
+heytapmobile.com,qr rd ra,57,126,0,1,1,No
+inner-active.mobi,qr rd ra,58,117,0,1,1,No
+ipify.org,qr rd ra,50,100,0,1,1,No
+kwai.net,qr rd ra,49,106,0,1,1,No
+kwaipros.com,qr rd ra,53,102,0,1,1,No
+mtgglobals.com,qr rd ra,55,127,0,1,1,No
+nflximg.com,qr rd ra,52,121,0,1,1,No
+pangle.io,qr rd ra,50,100,0,1,1,No
+samsungcloudsolution.com,qr rd ra,65,131,0,1,1,No
+shalltry.com,qr rd ra,53,122,0,1,1,No
+tiktokcdn-eu.com,qr rd ra,57,107,0,1,1,No
+tiktokv.eu,qr rd ra,51,101,0,1,1,No
+tp-link.com,qr rd ra,52,122,0,1,1,No
+ttdns2.com,qr rd ra,51,106,0,1,1,No
+vivoglobal.com,qr rd ra,55,110,0,1,1,No
+xboxlive.com,qr rd ra,53,125,0,1,1,No
+foxnews.com,qr rd ra ad,52,280,3,0,1,No
+ietf.org,qr rd ra ad,49,197,2,0,1,No
+scribd.com,qr rd ra,51,121,0,1,1,No
+indiatimes.com,qr rd ra,55,123,0,1,1,No
+eventbrite.com,qr rd ra,55,127,0,1,1,No
+quora.com,qr rd ra,50,120,0,1,1,No
+wired.com,qr rd ra,50,122,0,1,1,No
+ok.ru,qr rd ra,46,99,0,1,1,No
+cnbc.com,qr rd ra,49,102,0,1,1,No
+visualstudio.com,qr rd ra,57,115,0,1,1,No
+safebrowsing.apple,qr rd ra,59,125,0,1,1,No
+trustpilot.com,qr rd ra,55,125,0,1,1,No
+addtoany.com,qr rd ra ad,53,201,2,0,1,No
+google.de,qr rd ra,50,98,0,1,1,No
+time.com,qr rd ra ad,49,197,2,0,1,No
+yahoo.co.jp,qr rd ra,52,87,0,1,1,No
+grammarly.com,qr rd ra,54,120,0,1,1,No
+gitlab.com,qr rd ra,51,98,0,1,1,No
+deviantart.com,qr rd ra,55,125,0,1,1,No
+id5-sync.com,qr rd ra ad,53,201,2,0,1,No
+go.com,qr rd ra,47,111,0,1,1,No
+espn.com,qr rd ra,49,118,0,1,1,No
+npr.org,qr rd ra,48,120,0,1,1,No
+behance.net,qr rd ra,52,125,0,1,1,No
+capcut.com,qr rd ra,51,101,0,1,1,No
+fast.com,qr rd ra,49,105,0,1,1,No
+supercell.com,qr rd ra,54,126,0,1,1,No
+tradingview.com,qr rd ra,56,126,0,1,1,No
+xhamster.com,qr rd ra,53,100,0,1,1,No
+ya.ru,qr rd ra,46,90,0,1,1,No
+amazon.co.jp,qr rd ra,53,112,0,1,1,No
+line.me,qr rd ra,48,96,0,1,1,No
+aol.com,qr rd ra,48,113,0,1,1,No
+uol.com.br,qr rd ra,51,110,0,1,1,No
+nvidia.com,qr rd ra,51,91,0,1,1,No
+jquery.com,qr rd ra,51,100,0,1,1,No
+uber.com,qr rd ra,49,107,0,1,1,No
+shein.com,qr rd ra,50,119,0,1,1,No
+huawei.com,qr rd ra,51,86,0,1,1,No
+oup.com,qr rd ra,48,118,0,1,1,No
+webex.com,qr rd ra,50,100,0,1,1,No
+google.com.hk,qr rd ra,54,102,0,1,1,No
+stackoverflow.com,qr rd ra,58,107,0,1,1,No
+target.com,qr rd ra,51,101,0,1,1,No
+adobedtm.com,qr rd ra,53,110,0,1,1,No
+firefox.com,qr rd ra,52,128,0,1,1,No
+aboutads.info,qr rd ra,54,108,0,1,1,No
+msidentity.com,qr rd ra,55,116,0,1,1,No
+usatoday.com,qr rd ra,53,106,0,1,1,No
+svc.ms,qr rd ra,47,121,0,1,1,No
+uk.com,qr rd ra ad,47,459,2,0,1,No
+googlezip.net,qr rd ra,54,102,0,1,1,No
+ft.com,qr rd ra,47,103,0,1,1,No
+shopee.com.br,qr rd ra,54,123,0,1,1,No
+berkeley.edu,qr rd ra ad,53,1037,5,0,1,No
+tandfonline.com,qr rd ra,56,102,0,1,1,No
+dell.com,qr rd ra,49,88,0,1,1,No
+ikea.com,qr rd ra ad,49,197,2,0,1,No
+rlcdn.com,qr rd ra,50,115,0,1,1,No
+mi.com,qr rd ra,47,143,1,1,1,No
+icloud-content.com,qr rd ra,59,122,0,1,1,No
+elpais.com,qr rd ra,51,115,0,1,1,No
+loc.gov,qr rd ra ad,48,196,2,0,1,No
+googletagservices.com,qr rd ra,62,107,0,1,1,No
+azurefd.net,qr rd ra,52,126,0,1,1,No
+cnet.com,qr rd ra,49,127,0,1,1,No
+g.co,qr rd ra,45,93,0,1,1,No
+bidswitch.net,qr rd ra,54,94,0,1,1,No
+ieee.org,qr rd ra,49,88,0,1,1,No
+arxiv.org,qr rd ra,50,131,0,1,1,No
+slack.com,qr rd ra ad,50,278,3,0,1,No
+alicdn.com,qr rd ra,51,101,0,1,1,No
+ip-api.com,qr rd ra,51,83,0,1,1,No
+tiktokpangle.us,qr rd ra,56,119,0,1,1,No
+tiktokrow-cdn.com,qr rd ra,58,113,0,1,1,No
+azurewebsites.net,qr rd ra,58,120,0,1,1,No
+docker.com,qr rd ra,51,117,0,1,1,No
+blogger.com,qr rd ra,52,97,0,1,1,No
+ted.com,qr rd ra,48,120,0,1,1,No
+lemonde.fr,qr rd ra,51,132,0,1,1,No
+spiegel.de,qr rd ra,51,114,0,1,1,No
+2mdn.net,qr rd ra,49,97,0,1,1,No
+fontawesome.com,qr rd ra,56,125,0,1,1,No
+service.gov.uk,qr rd ra,55,136,0,1,1,No
+britannica.com,qr rd ra,55,121,0,1,1,No
+shutterstock.com,qr rd ra,57,126,0,1,1,No
+bsky.app,qr rd ra,49,124,0,1,1,No
+techcrunch.com,qr rd ra,55,102,0,1,1,No
+branch.io,qr rd ra,50,122,0,1,1,No
+agkn.com,qr rd ra,49,113,0,1,1,No
+tripadvisor.com,qr rd ra,56,112,0,1,1,No
+typekit.net,qr rd ra,52,121,0,1,1,No
+tapad.com,qr rd ra,50,114,0,1,1,No
+licdn.com,qr rd ra,50,112,0,1,1,No
+live.net,qr rd ra,49,124,0,1,1,No
+unesco.org,qr rd ra,51,90,0,1,1,No
+surveymonkey.com,qr rd ra,57,123,0,1,1,No
+rakuten.co.jp,qr rd ra,54,92,0,1,1,No
+teamviewer.com,qr rd ra,55,97,0,1,1,No
+substack.com,qr rd ra,53,99,0,1,1,No
+sina.com.cn,qr rd ra,52,93,0,1,1,No
+zendesk.com,qr rd ra,52,122,0,1,1,No
+jotform.com,qr rd ra ad,52,200,2,0,1,No
+newrelic.com,qr rd ra ad,53,281,3,0,1,No
+ca.gov,qr rd ra ad,47,195,2,0,1,No
+withgoogle.com,qr rd ra,55,100,0,1,1,No
+appcenter.ms,qr rd ra,53,127,0,1,1,No
+liadm.com,qr rd ra,50,93,0,1,1,No
+mediafire.com,qr rd ra ad,54,202,2,0,1,No
+nike.com,qr rd ra,49,90,0,1,1,No
+allaboutcookies.org,qr rd ra,60,208,2,0,1,No
+meraki.com,qr rd ra,51,123,0,1,1,No
+ipinfo.io,qr rd ra,50,131,0,1,1,No
+outbrain.com,qr rd ra,53,106,0,1,1,No
+wildberries.ru,qr rd ra,55,87,0,1,1,No
+amplitude.com,qr rd ra,54,124,0,1,1,No
+mdpi.com,qr rd ra,49,197,2,0,1,No
+cbsnews.com,qr rd ra,52,105,0,1,1,No
+free.fr,qr rd ra,48,105,0,1,1,No
+google.co.uk,qr rd ra,53,101,0,1,1,No
+1rx.io,qr rd ra,47,100,0,1,1,No
+networkadvertising.org,qr rd ra,63,132,0,1,1,No
+nikkei.com,qr rd ra,51,106,0,1,1,No
+onetrust.com,qr rd ra ad,53,201,2,0,1,No
+nel.goog,qr rd ra,49,97,0,1,1,No
+sagepub.com,qr rd ra,52,103,0,1,1,No
+fb.com,qr rd ra,47,89,0,1,1,No
+sharethrough.com,qr rd ra,57,123,0,1,1,No
+people.com,qr rd ra,51,109,0,1,1,No
+stackadapt.com,qr rd ra,55,124,0,1,1,No
+dotomi.com,qr rd ra,51,107,0,1,1,No
+wix.com,qr rd ra,48,101,0,1,1,No
+lijit.com,qr rd ra,50,103,0,1,1,No
+ameblo.jp,qr rd ra,50,123,0,1,1,No
+dzen.ru,qr rd ra,48,92,0,1,1,No
+he.net,qr rd ra,47,86,0,1,1,No
+crwdcntrl.net,qr rd ra,54,123,0,1,1,No
+redhat.com,qr rd ra,51,104,0,1,1,No
+squarespace.com,qr rd ra,56,108,0,1,1,No
+intel.com,qr rd ra,50,89,0,1,1,No
+browser-intake-datadoghq.com,qr rd ra,69,141,0,1,1,No
+amazon.fr,qr rd ra,50,109,0,1,1,No
+creativecdn.com,qr rd ra,56,125,0,1,1,No
+fiverr.com,qr rd ra,51,98,0,1,1,No
+accuweather.com,qr rd ra,56,96,0,1,1,No
+erome.com,qr rd ra,50,96,0,1,1,No
+ozon.ru,qr rd ra,48,91,0,1,1,No
+shopee.co.id,qr rd ra,53,125,0,1,1,No
+stripchat.com,qr rd ra,54,100,0,1,1,No
+wattpad.com,qr rd ra,52,124,0,1,1,No
+wp.pl,qr rd ra,46,90,0,1,1,No
+xvideos.com,qr rd ra,52,99,0,1,1,No
+omtrdc.net,qr rd ra,51,107,0,1,1,No
+imgur.com,qr rd ra,50,120,0,1,1,No
+salesforce.com,qr rd ra ad,55,203,2,0,1,No
+360yield.com,qr rd ra,53,123,0,1,1,No
+eye4.cn,qr rd ra,48,112,0,1,1,No
+braze.com,qr rd ra,50,122,0,1,1,No
+amazon.ca,qr rd ra,50,109,0,1,1,No
+prnewswire.com,qr rd ra,55,101,0,1,1,No
+lefigaro.fr,qr rd ra,52,96,0,1,1,No
+adform.net,qr rd ra,51,96,0,1,1,No
+playstation.com,qr rd ra,56,125,0,1,1,No
+mailchimp.com,qr rd ra,54,101,0,1,1,No
+hbr.org,qr rd ra,48,117,0,1,1,No
+yelp.com,qr rd ra,49,102,0,1,1,No
+quantserve.com,qr rd ra,55,121,0,1,1,No
+bidr.io,qr rd ra,48,123,0,1,1,No
+fda.gov,qr rd ra ad,48,608,3,0,1,No
+theverge.com,qr rd ra,53,123,0,1,1,No
+zillow.com,qr rd ra,51,100,0,1,1,No
+xbox.com,qr rd ra,49,121,0,1,1,No
+hindustantimes.com,qr rd ra,59,116,0,1,1,No
+turn.com,qr rd ra,49,102,0,1,1,No
+kaspersky.com,qr rd ra,54,114,0,1,1,No
+google.cn,qr rd ra,50,98,0,1,1,No
+bandcamp.com,qr rd ra,53,131,0,1,1,No
+githubusercontent.com,qr rd ra,62,115,0,1,1,No
+smaato.net,qr rd ra,51,126,0,1,1,No
+pendo.io,qr rd ra ad,49,461,2,0,1,No
+sentinelone.net,qr rd ra,56,129,0,1,1,No
+bugsnag.com,qr rd ra,52,122,0,1,1,No
+cambridge.org,qr rd ra,54,103,0,1,1,No
+teads.tv,qr rd ra,49,122,0,1,1,No
+tencent.com,qr rd ra,52,93,0,1,1,No
+welt.de,qr rd ra ad,48,608,3,0,1,No
+investopedia.com,qr rd ra,57,115,0,1,1,No
+myspace.com,qr rd ra,52,130,0,1,1,No
+go-mpulse.net,qr rd ra,54,110,0,1,1,No
+themeforest.net,qr rd ra ad,56,204,2,0,1,No
+ebay.co.uk,qr rd ra,51,112,0,1,1,No
+usps.com,qr rd ra,49,106,0,1,1,No
+mixpanel.com,qr rd ra,53,131,0,1,1,No
+ups.com,qr rd ra ad,48,756,4,0,1,No
+washington.edu,qr rd ra,55,102,0,1,1,No
+ea.com,qr rd ra,47,105,0,1,1,No
+everesttech.net,qr rd ra,56,112,0,1,1,No
+pinimg.com,qr rd ra,51,109,0,1,1,No
+iso.org,qr rd ra,48,97,0,1,1,No
+mckinsey.com,qr rd ra,53,92,0,1,1,No
+yieldmo.com,qr rd ra,52,118,0,1,1,No
+nypost.com,qr rd ra,51,123,0,1,1,No
+33across.com,qr rd ra,53,97,0,1,1,No
+twimg.com,qr rd ra,50,103,0,1,1,No
+clever.com,qr rd ra,51,121,0,1,1,No
+qualtrics.com,qr rd ra ad,54,138,2,0,1,No
+latimes.com,qr rd ra,52,122,0,1,1,No
+princeton.edu,qr rd ra,54,102,0,1,1,No
+flashtalking.com,qr rd ra,57,110,0,1,1,No
+onetag-sys.com,qr rd ra,55,99,0,1,1,No
+criteo.net,qr rd ra,51,93,0,1,1,No
+trendmicro.com,qr rd ra ad,55,283,3,0,1,No
+exp-tas.com,qr rd ra,52,123,0,1,1,No
+unpkg.com,qr rd ra,50,99,0,1,1,No
+newsweek.com,qr rd ra,53,122,0,1,1,No
+verisign.com,qr rd ra ad,53,613,3,0,1,No
+b-cdn.net,qr rd ra,50,101,0,1,1,No
+a-mo.net,qr rd ra,49,124,0,1,1,No
+telephony.goog,qr rd ra,55,103,0,1,1,No
+seznam.cz,qr rd ra ad,50,198,2,0,1,No
+fwmrm.net,qr rd ra,50,100,0,1,1,No
+fandom.com,qr rd ra,51,121,0,1,1,No
+nationalgeographic.com,qr rd ra,63,130,0,1,1,No
+mailchi.mp,qr rd ra,51,111,0,1,1,No
+optimizely.com,qr rd ra ad,55,203,2,0,1,No
+pages.dev,qr rd ra,50,99,0,1,1,No
+autodesk.com,qr rd ra ad,53,281,3,0,1,No
+whitehouse.gov,qr rd ra ad,55,203,2,0,1,No
+classlink.com,qr rd ra,54,120,0,1,1,No
+thenai.org,qr rd ra,51,120,0,1,1,No
+worldbank.org,qr rd ra,54,129,0,1,1,No
+threads.com,qr rd ra,52,94,0,1,1,No
+sedo.com,qr rd ra,49,97,0,1,1,No
+rbxcdn.com,qr rd ra,51,104,0,1,1,No
+xiaomi.net,qr rd ra,51,115,0,1,1,No
+webmd.com,qr rd ra,50,97,0,1,1,No
+mayoclinic.org,qr rd ra,55,96,0,1,1,No
+wbx2.com,qr rd ra,49,118,0,1,1,No
+frontiersin.org,qr rd ra,56,130,0,1,1,No
+readthedocs.io,qr rd ra,55,105,0,1,1,No
+grammarly.io,qr rd ra,53,126,0,1,1,No
+weforum.org,qr rd ra,52,121,0,1,1,No
+epa.gov,qr rd ra ad,48,608,3,0,1,No
+usda.gov,qr rd ra ad,49,437,5,0,1,No
+yellowblue.io,qr rd ra,54,126,0,1,1,No
+merkle.io,qr rd ra ad,50,198,2,0,1,No
+merriam-webster.com,qr rd ra,60,129,0,1,1,No
+academia.edu,qr rd ra,53,126,0,1,1,No
+freepik.com,qr rd ra,52,97,0,1,1,No
+buzzfeed.com,qr rd ra,53,123,0,1,1,No
+life360.com,qr rd ra,52,122,0,1,1,No
+intercom.io,qr rd ra,52,120,0,1,1,No
+theatlantic.com,qr rd ra,56,134,0,1,1,No
+youronlinechoices.com,qr rd ra,62,118,0,1,1,No
+azure-devices.net,qr rd ra,58,119,0,1,1,No
+gumgum.com,qr rd ra,51,121,0,1,1,No
+wpguardian.com,qr rd ra ad,55,203,2,0,1,No
+wpguardian.io,qr rd ra,54,104,0,1,1,No
+livejournal.com,qr rd ra,56,108,0,1,1,No
+intuit.com,qr rd ra,51,100,0,1,1,No
+unrulymedia.com,qr rd ra,56,126,0,1,1,No
+byteglb.com,qr rd ra,52,108,0,1,1,No
+disqus.com,qr rd ra,51,117,0,1,1,No
+youku.com,qr rd ra,50,90,0,1,1,No
+jd.com,qr rd ra,47,35,0,0,1,No
+marriott.com,qr rd ra,53,109,0,1,1,No
+python.org,qr rd ra,51,126,0,1,1,No
+healthline.com,qr rd ra,55,121,0,1,1,No
+deloitte.com,qr rd ra,53,114,0,1,1,No
+w3schools.com,qr rd ra,54,123,0,1,1,No
+amazon.com.br,qr rd ra,54,113,0,1,1,No
+magazineluiza.com.br,qr rd ra,61,130,0,1,1,No
+avito.ru,qr rd ra,49,90,0,1,1,No
+prodregistryv2.org,qr rd ra,59,129,0,1,1,No
+eu-1-id5-sync.com,qr rd ra ad,58,206,2,0,1,No
+nbcnews.com,qr rd ra,52,98,0,1,1,No
+dribbble.com,qr rd ra,53,96,0,1,1,No
+byteconnect.io,qr rd ra,55,106,0,1,1,No
+cloudsink.net,qr rd ra ad,54,282,3,0,1,No
+huffingtonpost.com,qr rd ra,59,108,0,1,1,No
+appspot.com,qr rd ra,52,97,0,1,1,No
+kickstarter.com,qr rd ra,56,108,0,1,1,No
+atlassian.com,qr rd ra,54,282,3,0,1,No
+umbrella.com,qr rd ra,53,102,0,1,1,No
+apnews.com,qr rd ra ad,51,199,2,0,1,No
+google.fr,qr rd ra,50,98,0,1,1,No
+biomedcentral.com,qr rd ra,58,120,0,1,1,No
+pexels.com,qr rd ra,51,98,0,1,1,No
+change.org,qr rd ra,51,126,0,1,1,No
+sc-gw.com,qr rd ra,50,119,0,1,1,No
+columbia.edu,qr rd ra,53,96,0,1,1,No
+rutube.ru,qr rd ra,50,89,0,1,1,No
+msftauth.net,qr rd ra,53,127,0,1,1,No
+noaa.gov,qr rd ra ad,49,461,2,0,1,No
+dual-s-msedge.net,qr rd ra,58,106,0,1,1,No
+state.gov,qr rd ra ad,50,1418,5,0,1,Yes
+plos.org,qr rd ra,49,99,0,1,1,No
+google.es,qr rd ra,50,98,0,1,1,No
+openstreetmap.org,qr rd ra ad,58,206,2,0,1,No
+ox.ac.uk,qr rd ra,49,95,0,1,1,No
+publicnode.com,qr rd ra ad,55,203,2,0,1,No
+umich.edu,qr rd ra ad,50,278,3,0,1,No
+discogs.com,qr rd ra,52,124,0,1,1,No
+businesswire.com,qr rd ra,57,98,0,1,1,No
+google.ca,qr rd ra,50,98,0,1,1,No
+adjust.com,qr rd ra,51,104,0,1,1,No
+theconversation.com,qr rd ra,60,104,0,1,1,No
+apa.org,qr rd ra,48,118,0,1,1,No
+oecd.org,qr rd ra,49,104,0,1,1,No
+pbs.org,qr rd ra,48,120,0,1,1,No
+google.co.jp,qr rd ra,53,101,0,1,1,No
+huffpost.com,qr rd ra,53,102,0,1,1,No
+economist.com,qr rd ra,54,107,0,1,1,No
+122da.com,qr rd ra,50,115,0,1,1,No
+18comic.vip,qr rd ra,52,102,0,1,1,No
+1mg.com,qr rd ra,48,94,0,1,1,No
+24h.com.vn,qr rd ra,51,88,0,1,1,No
+24xxxx.win,qr rd ra,51,103,0,1,1,No
+3bmeteo.com,qr rd ra,52,99,0,1,1,No
+3ckz.com,qr rd ra,49,122,1,1,1,No
+52shuku.net,qr rd ra ad,52,200,2,0,1,No
+5movierulz.dental,qr rd ra,58,110,0,1,1,No
+66lottery20.com,qr rd ra,56,117,0,1,1,No
+69shuba.com,qr rd ra,52,99,0,1,1,No
+8lyyu1vb4.com,qr rd ra,54,126,0,1,1,No
+aajtak.in,qr rd ra,50,110,0,1,1,No
+abc.es,qr rd ra,47,128,0,1,1,No
+acesso.gov.br,qr rd ra,54,104,0,1,1,No
+action.com,qr rd ra,51,199,2,0,1,No
+actu.fr,qr rd ra,48,99,0,1,1,No
+ad.nl,qr rd ra ad,46,274,3,0,1,No
+afribaba.com,qr rd ra,53,201,2,0,1,No
+aftonbladet.se,qr rd ra,55,107,0,1,1,No
+agoda.com,qr rd ra,50,115,0,1,1,No
+ak2yy.com,qr rd ra,50,108,0,1,1,No
+allegro.pl,qr rd ra,51,92,0,1,1,No
+allocine.fr,qr rd ra ad,52,200,2,0,1,No
+amazon.com.au,qr rd ra,54,113,0,1,1,No
+amazon.com.mx,qr rd ra,54,113,0,1,1,No
+amazon.com.tr,qr rd ra,54,113,0,1,1,No
+amazon.es,qr rd ra,50,109,0,1,1,No
+amazon.in,qr rd ra,50,109,0,1,1,No
+amazon.it,qr rd ra,50,109,0,1,1,No
+ameba.jp,qr rd ra,49,118,0,1,1,No
+an1.com,qr rd ra,48,100,0,1,1,No
+ancestry.com,qr rd ra,53,101,0,1,1,No
+animanch.com,qr rd ra,53,99,0,1,1,No
+aniwatchtv.to,qr rd ra,54,106,0,1,1,No
+annunci69.it,qr rd ra,53,101,0,1,1,No
+antarvasna3.com,qr rd ra,56,103,0,1,1,No
+anwap.today,qr rd ra,52,106,0,1,1,No
+aparat.com,qr rd ra,51,95,0,1,1,No
+apornvideo.com,qr rd ra,55,102,0,1,1,No
+arabtnt.com,qr rd ra,52,104,0,1,1,No
+arabx.cam,qr rd ra,50,100,0,1,1,No
+arbada.com,qr rd ra,51,98,0,1,1,No
+arca.live,qr rd ra,50,100,0,1,1,No
+archiveofourown.org,qr rd ra,60,112,0,1,1,No
+argos.co.uk,qr rd ra,52,116,0,1,1,No
+as.com,qr rd ra,47,100,0,1,1,No
+asd.homes,qr rd ra,50,100,0,1,1,No
+asuracomic.net,qr rd ra,55,106,0,1,1,No
+aternos.org,qr rd ra ad,52,200,2,0,1,No
+aucey.com,qr rd ra,50,96,0,1,1,No
+autoplius.lt,qr rd ra,53,104,0,1,1,No
+av19.ink,qr rd ra,49,100,0,1,1,No
+avsubthai.me,qr rd ra,53,201,2,0,1,No
+az24.vn,qr rd ra,48,98,0,1,1,No
+aznude.com,qr rd ra ad,51,199,2,0,1,No
+bakusai.com,qr rd ra,52,115,0,1,1,No
+bancodevenezuela.com,qr rd ra,61,110,0,1,1,No
+bankofamerica.com,qr rd ra ad,58,470,2,0,1,No
+banvenez.com,qr rd ra,53,102,0,1,1,No
+bato.si,qr rd ra,48,100,0,1,1,No
+bato.to,qr rd ra,48,97,0,1,1,No
+battwo.com,qr rd ra,51,100,0,1,1,No
+bebesong.com,qr rd ra,53,101,0,1,1,No
+bestbuy.com,qr rd ra,52,116,0,1,1,No
+bet365.com,qr rd ra,51,96,0,1,1,No
+betika.com,qr rd ra,51,98,0,1,1,No
+betking.com,qr rd ra,52,101,0,1,1,No
+betpawa.ug,qr rd ra,51,103,0,1,1,No
+betway.co.za,qr rd ra,53,103,0,1,1,No
+bfmtv.com,qr rd ra,50,116,0,1,1,No
+bhojpurisex.site,qr rd ra,57,107,0,1,1,No
+biblegateway.com,qr rd ra,57,127,0,1,1,No
+bikewale.com,qr rd ra,53,125,0,1,1,No
+bild.de,qr rd ra ad,48,608,3,0,1,No
+bilibili.tv,qr rd ra,52,133,0,1,1,No
+bingoplus.com,qr rd ra,54,146,1,1,1,No
+blacktoon410.com,qr rd ra,57,105,0,1,1,No
+blic.rs,qr rd ra,48,83,0,1,1,No
+blooket.com,qr rd ra ad,52,200,2,0,1,No
+boardgamearena.com,qr rd ra,59,107,0,1,1,No
+bol.com,qr rd ra ad,48,196,2,0,1,No
+bookmark.xxx,qr rd ra,53,106,0,1,1,No
+bookmyshow.com,qr rd ra ad,55,203,2,0,1,No
+botinok.porn,qr rd ra,53,113,0,1,1,No
+boyfriendtv.com,qr rd ra,56,103,0,1,1,No
+bpexch.net,qr rd ra,51,103,0,1,1,No
+bt.dk,qr rd ra,46,119,0,1,1,No
+caixa.gov.br,qr rd ra,53,201,2,0,1,No
+calculator.net,qr rd ra,55,113,0,1,1,No
+caliente.mx,qr rd ra ad,52,200,2,0,1,No
+cam4.com,qr rd ra,49,115,0,1,1,No
+cardekho.com,qr rd ra,53,125,0,1,1,No
+cardgames.io,qr rd ra,53,126,0,1,1,No
+cardmarket.com,qr rd ra ad,55,203,2,0,1,No
+carsensor.net,qr rd ra,54,108,0,1,1,No
+carwale.com,qr rd ra,52,122,0,1,1,No
+casinoplus.com.ph,qr rd ra,58,108,0,1,1,No
+cdiscount.com,qr rd ra,54,120,0,1,1,No
+ceneo.pl,qr rd ra,49,98,0,1,1,No
+character.ai,qr rd ra,53,103,0,1,1,No
+chaturbate.com,qr rd ra ad,55,203,2,0,1,No
+chess.com,qr rd ra,50,96,0,1,1,No
+chordtela.com,qr rd ra ad,54,202,2,0,1,No
+cityheaven.net,qr rd ra,55,130,0,1,1,No
+clickpetroleoegas.com.br,qr rd ra,65,115,0,1,1,No
+cmoa.jp,qr rd ra,48,98,0,1,1,No
+cnnbrasil.com.br,qr rd ra,57,131,0,1,1,No
+com.be,qr rd ra,47,106,0,1,1,No
+com.se,qr rd ra ad,47,459,2,0,1,No
+conectate.com.do,qr rd ra,57,107,0,1,1,No
+cookpad.com,qr rd ra,52,124,0,1,1,No
+coolmathgames.com,qr rd ra,58,107,0,1,1,No
+corriere.it,qr rd ra,52,123,0,1,1,No
+costco.com,qr rd ra,51,108,0,1,1,No
+coupang.com,qr rd ra,52,121,0,1,1,No
+crazygames.com,qr rd ra ad,55,203,2,0,1,No
+cricbuzz.com,qr rd ra,53,96,0,1,1,No
+cronista.com,qr rd ra,53,117,0,1,1,No
+croxyproxy.com,qr rd ra,55,104,0,1,1,No
+czbooks.net,qr rd ra,52,102,0,1,1,No
+dafont.com,qr rd ra,51,101,0,1,1,No
+dagbladet.no,qr rd ra ad,53,201,2,0,1,No
+dantri.com.vn,qr rd ra,54,92,0,1,1,No
+darkero.com,qr rd ra,52,99,0,1,1,No
+daum.net,qr rd ra,49,94,0,1,1,No
+dcinside.com,qr rd ra,53,105,0,1,1,No
+delgarm.com,qr rd ra,52,103,0,1,1,No
+desikahani2.net,qr rd ra,56,106,0,1,1,No
+desitales2.com,qr rd ra,55,102,0,1,1,No
+desitelugusex.com,qr rd ra,58,106,0,1,1,No
+digikala.com,qr rd ra,53,121,0,1,1,No
+diretta.it,qr rd ra,51,116,0,1,1,No
+disneyplus.com,qr rd ra,55,118,0,1,1,No
+divar.ir,qr rd ra,49,108,0,1,1,No
+dkitrxmdwoqruvsi.net,qr rd ra,61,130,0,1,1,No
+dlsite.com,qr rd ra,51,120,0,1,1,No
+dmm.co.jp,qr rd ra,50,113,0,1,1,No
+docomo.ne.jp,qr rd ra,53,101,0,1,1,No
+dogdrip.net,qr rd ra,52,103,0,1,1,No
+donmai.us,qr rd ra ad,50,198,2,0,1,No
+dpboss.boston,qr rd ra,54,105,0,1,1,No
+drom.ru,qr rd ra,48,86,0,1,1,No
+dto.jp,qr rd ra,47,116,0,1,1,No
+dzexams.com,qr rd ra,52,98,0,1,1,No
+e-hentai.org,qr rd ra,53,103,0,1,1,No
+e621.net,qr rd ra ad,49,197,2,0,1,No
+ebay.de,qr rd ra,48,109,0,1,1,No
+ebay.it,qr rd ra,48,109,0,1,1,No
+eci.gov.in,qr rd ra,51,91,0,1,1,No
+ecnavi.jp,qr rd ra,50,122,0,1,1,No
+ecosia.org,qr rd ra,51,121,0,1,1,No
+eenadu.net,qr rd ra,51,120,0,1,1,No
+ekstrabladet.dk,qr rd ra,56,128,0,1,1,No
+elconfidencial.com,qr rd ra,59,129,0,1,1,No
+elcorteingles.es,qr rd ra,57,111,0,1,1,No
+elephantbet.co.mz,qr rd ra,58,106,0,1,1,No
+eltiempo.es,qr rd ra,52,121,0,1,1,No
+emag.ro,qr rd ra,48,87,0,1,1,No
+emaktab.uz,qr rd ra,51,98,0,1,1,No
+epfindia.gov.in,qr rd ra,56,96,0,1,1,No
+eporner.com,qr rd ra,52,89,0,1,1,No
+eroterest.net,qr rd ra,54,110,0,1,1,No
+escort.club,qr rd ra,52,104,0,1,1,No
+escortbabylon.net,qr rd ra,58,110,0,1,1,No
+espncricinfo.com,qr rd ra,57,129,0,1,1,No
+ewaybillgst.gov.in,qr rd ra,59,99,0,1,1,No
+examinationservices.nic.in,qr rd ra ad,67,106,0,1,1,No
+exclusive-spin.com,qr rd ra,59,107,0,1,1,No
+exhentai.org,qr rd ra,53,103,0,1,1,No
+ey43.com,qr rd ra,49,99,0,1,1,No
+fabguys.com,qr rd ra,52,118,0,1,1,No
+fabswingers.com,qr rd ra,56,125,0,1,1,No
+fanfiction.net,qr rd ra,55,102,0,1,1,No
+fanmtl.com,qr rd ra,51,98,0,1,1,No
+fantia.jp,qr rd ra,50,93,0,1,1,No
+fapello.com,qr rd ra,52,99,0,1,1,No
+faphouse.com,qr rd ra,53,100,0,1,1,No
+faphouse.tv,qr rd ra,52,102,0,1,1,No
+fastdl.app,qr rd ra,51,103,0,1,1,No
+fatalmodel.com,qr rd ra,55,102,0,1,1,No
+fdown.net,qr rd ra,50,100,0,1,1,No
+fetlife.com,qr rd ra,52,100,0,1,1,No
+ficbook.net,qr rd ra ad,52,200,2,0,1,No
+filmweb.pl,qr rd ra,51,108,0,1,1,No
+filmyfiy.top,qr rd ra,53,105,0,1,1,No
+filmyfly.how,qr rd ra,53,104,0,1,1,No
+finn.no,qr rd ra,48,118,0,1,1,No
+flashscore.com,qr rd ra,55,120,0,1,1,No
+flashscore.fr,qr rd ra,54,119,0,1,1,No
+flashscore.mobi,qr rd ra,56,112,0,1,1,No
+flipkart.com,qr rd ra,53,104,0,1,1,No
+fmkorea.com,qr rd ra,52,124,0,1,1,No
+focus.de,qr rd ra,49,109,0,1,1,No
+forebet.com,qr rd ra,52,200,2,0,1,No
+fpo.xxx,qr rd ra,48,100,0,1,1,No
+franceinfo.fr,qr rd ra,54,113,0,1,1,No
+freesexkahani.com,qr rd ra,58,105,0,1,1,No
+funinmatch360.com,qr rd ra,58,119,0,1,1,No
+funpay.com,qr rd ra,51,98,0,1,1,No
+fuq.com,qr rd ra,48,94,0,1,1,No
+furaffinity.net,qr rd ra,56,105,0,1,1,No
+futbin.com,qr rd ra,51,98,0,1,1,No
+game8.jp,qr rd ra,49,122,0,1,1,No
+gamewith.jp,qr rd ra,52,127,0,1,1,No
+gazzetta.it,qr rd ra,52,123,0,1,1,No
+gcash.com,qr rd ra,50,116,0,1,1,No
+gdz-raketa.ru,qr rd ra,54,113,0,1,1,No
+gdz.ru,qr rd ra,47,99,0,1,1,No
+gekso.xyz,qr rd ra,50,198,2,0,1,No
+gelbooru.com,qr rd ra ad,53,201,2,0,1,No
+genius.com,qr rd ra,51,98,0,1,1,No
+gfpxw.com,qr rd ra,50,108,0,1,1,No
+girlschannel.net,qr rd ra,57,130,0,1,1,No
+gismeteo.ru,qr rd ra,52,101,0,1,1,No
+goal7.co,qr rd ra,49,99,0,1,1,No
+goodreturns.in,qr rd ra,55,104,0,1,1,No
+googll.store,qr rd ra,53,104,0,1,1,No
+goojara.to,qr rd ra,51,101,0,1,1,No
+gree-apps.net,qr rd ra,54,109,0,1,1,No
+gree-pf.net,qr rd ra,52,102,0,1,1,No
+gsmarena.com,qr rd ra,53,94,0,1,1,No
+gst.gov.in,qr rd ra,51,96,0,1,1,No
+haberler.com,qr rd ra,53,101,0,1,1,No
+hamsterix.today,qr rd ra,56,107,0,1,1,No
+hanime1.me,qr rd ra,51,104,0,1,1,No
+happymh.com,qr rd ra ad,52,200,2,0,1,No
+hdhub4u.gd,qr rd ra,51,101,0,1,1,No
+hdhub4u.rehab,qr rd ra,54,104,0,1,1,No
+hdporncomics.com,qr rd ra,57,104,0,1,1,No
+hdtube.porn,qr rd ra,52,102,0,1,1,No
+hepsiburada.com,qr rd ra,56,134,0,1,1,No
+hianime.to,qr rd ra,51,102,0,1,1,No
+hitomi.la,qr rd ra,50,94,0,1,1,No
+hln.be,qr rd ra ad,47,275,3,0,1,No
+hltv.org,qr rd ra,49,99,0,1,1,No
+hm.com,qr rd ra,47,97,0,1,1,No
+hochi.news,qr rd ra,51,124,0,1,1,No
+hollywoodbets.net,qr rd ra,58,107,0,1,1,No
+homedepot.com,qr rd ra,54,112,0,1,1,No
+hotpepper.jp,qr rd ra,53,105,0,1,1,No
+hqporner.com,qr rd ra,53,108,0,1,1,No
+humoruniv.com,qr rd ra,54,95,0,1,1,No
+idealista.com,qr rd ra,54,123,0,1,1,No
+idealista.it,qr rd ra,53,126,0,1,1,No
+idnes.cz,qr rd ra ad,49,609,3,0,1,No
+ifilo.net,qr rd ra,50,93,0,1,1,No
+ijavhd.com,qr rd ra,51,100,0,1,1,No
+illuminateed.com,qr rd ra,57,104,0,1,1,No
+ilmeteo.it,qr rd ra,51,101,0,1,1,No
+ilovepdf.com,qr rd ra,53,100,0,1,1,No
+iltalehti.fi,qr rd ra,53,126,0,1,1,No
+imagefap.com,qr rd ra,53,104,0,1,1,No
+imgsrc.ru,qr rd ra,50,100,0,1,1,No
+imhentai.xxx,qr rd ra,53,102,0,1,1,No
+index.hr,qr rd ra,49,99,0,1,1,No
+indiamart.com,qr rd ra,54,124,0,1,1,No
+infobae.com,qr rd ra,52,130,0,1,1,No
+inven.co.kr,qr rd ra,52,85,0,1,1,No
+iporntv.net,qr rd ra,52,101,0,1,1,No
+isaidub.love,qr rd ra,53,103,0,1,1,No
+itmedia.co.jp,qr rd ra,54,122,0,1,1,No
+ixl.com,qr rd ra ad,48,196,2,0,1,No
+ixxx.com,qr rd ra,49,95,0,1,1,No
+jable.tv,qr rd ra,49,99,0,1,1,No
+jagran.com,qr rd ra,51,120,0,1,1,No
+jalan.net,qr rd ra,50,104,0,1,1,No
+janitorai.com,qr rd ra,54,202,2,0,1,No
+jaya9bangladesh.com,qr rd ra,60,106,0,1,1,No
+jcpenney.com,qr rd ra,53,102,0,1,1,No
+joyclub.de,qr rd ra,51,123,0,1,1,No
+jra.go.jp,qr rd ra ad,50,278,3,0,1,No
+jra.jp,qr rd ra,47,105,0,1,1,No
+jusbrasil.com.br,qr rd ra ad,57,205,2,0,1,No
+justdial.com,qr rd ra,53,110,0,1,1,No
+jw.org,qr rd ra,47,108,0,1,1,No
+kakuyomu.jp,qr rd ra,52,124,0,1,1,No
+kamababa.desi,qr rd ra,54,202,2,0,1,No
+karnataka.gov.in,qr rd ra,57,97,0,1,1,No
+kemkes.go.id,qr rd ra,53,105,0,1,1,No
+kemono.cr,qr rd ra,50,94,0,1,1,No
+kick.com,qr rd ra,49,97,0,1,1,No
+kingbokep.tv,qr rd ra,53,102,0,1,1,No
+kkstories.com,qr rd ra,54,113,0,1,1,No
+kleinanzeigen.de,qr rd ra,57,138,0,1,1,No
+kohls.com,qr rd ra,50,88,0,1,1,No
+kolkataff.tv,qr rd ra,53,107,0,1,1,No
+kompoz2.com,qr rd ra,52,99,0,1,1,No
+kooora.com,qr rd ra,51,120,0,1,1,No
+ladies.de,qr rd ra,50,103,0,1,1,No
+lanacion.com.ar,qr rd ra,56,125,0,1,1,No
+lausd.net,qr rd ra,50,82,0,1,1,No
+lc.chat,qr rd ra,48,98,0,1,1,No
+leboncoin.fr,qr rd ra,53,128,0,1,1,No
+lectormangaa.com,qr rd ra,57,103,0,1,1,No
+leparisien.fr,qr rd ra,54,112,0,1,1,No
+lequipe.fr,qr rd ra ad,51,199,2,0,1,No
+leroymerlin.fr,qr rd ra,55,113,0,1,1,No
+letras.mus.br,qr rd ra,54,127,0,1,1,No
+letterboxd.com,qr rd ra,55,102,0,1,1,No
+librefutboltv.su,qr rd ra,57,107,0,1,1,No
+librus.pl,qr rd ra,50,85,0,1,1,No
+lichess.org,qr rd ra ad,52,200,2,0,1,No
+listcrawler.eu,qr rd ra,55,107,0,1,1,No
+liteapks.com,qr rd ra,53,100,0,1,1,No
+litnet.com,qr rd ra,51,101,0,1,1,No
+livescore.com,qr rd ra,54,132,0,1,1,No
+livescore.cz,qr rd ra,53,107,0,1,1,No
+lk21official.cc,qr rd ra,56,108,0,1,1,No
+lolpol.com,qr rd ra,51,99,0,1,1,No
+lotterysambadresult.in,qr rd ra,63,113,0,1,1,No
+lowes.com,qr rd ra,50,97,0,1,1,No
+luticlip.com,qr rd ra ad,53,201,2,0,1,No
+luxuretv.com,qr rd ra,53,99,0,1,1,No
+macys.com,qr rd ra,50,104,0,1,1,No
+madrasati.sa,qr rd ra,53,125,0,1,1,No
+makemytrip.com,qr rd ra,55,112,0,1,1,No
+mangabuddy.com,qr rd ra,55,101,0,1,1,No
+mangabuff.ru,qr rd ra,53,104,0,1,1,No
+mangago.me,qr rd ra,51,101,0,1,1,No
+mangaraw.ac,qr rd ra,52,110,0,1,1,No
+mango.com,qr rd ra,50,122,0,1,1,No
+manhwaweb.com,qr rd ra,54,100,0,1,1,No
+marca.com,qr rd ra,50,113,0,1,1,No
+marksandspencer.com,qr rd ra,60,115,0,1,1,No
+marktplaats.nl,qr rd ra,55,128,0,1,1,No
+mat6tube.com,qr rd ra,53,105,0,1,1,No
+mbga.jp,qr rd ra,48,121,0,1,1,No
+mechacomic.jp,qr rd ra,54,123,0,1,1,No
+mediaexpert.pl,qr rd ra,55,105,0,1,1,No
+medu.ir,qr rd ra,48,89,0,1,1,No
+mercadolibre.com.ar,qr rd ra,60,133,0,1,1,No
+mercadolibre.com.mx,qr rd ra,60,133,0,1,1,No
+mercadolivre.com.br,qr rd ra,60,133,0,1,1,No
+merkur.de,qr rd ra,50,114,0,1,1,No
+metropoles.com,qr rd ra,55,107,0,1,1,No
+mingky02.net,qr rd ra,53,103,0,1,1,No
+missav.ai,qr rd ra,50,198,2,0,1,No
+missav.live,qr rd ra ad,52,200,2,0,1,No
+missav.ws,qr rd ra,50,198,2,0,1,No
+missav123.com,qr rd ra,54,102,0,1,1,No
+mlookalporno.com,qr rd ra,57,105,0,1,1,No
+mobcup.fm,qr rd ra,50,99,0,1,1,No
+momon-ga.com,qr rd ra,53,103,0,1,1,No
+moneycontrol.com,qr rd ra ad,57,285,3,0,1,No
+motherless.com,qr rd ra,55,108,0,1,1,No
+moviebox.ph,qr rd ra,52,109,0,1,1,No
+moviesda14.net,qr rd ra,55,105,0,1,1,No
+ms1a.com,qr rd ra,49,107,0,1,1,No
+musicdel.ir,qr rd ra,52,116,0,1,1,No
+mydramalist.com,qr rd ra,56,102,0,1,1,No
+myntra.com,qr rd ra,51,108,0,1,1,No
