@@ -55,11 +55,12 @@ for i in range(1, len(domains_blocks), 2):
     if msg_size_match:
         row["Response size"] = int(msg_size_match.group(1))
 
-    # Query size: dig output doesn’t report this directly
-    # You can approximate it from packet size if you captured via tcpdump, else leave empty
-    row["Query size"] = ""  
+    #Query size 
+    query_size_match = re.search(r";; QUERY SIZE:\s*(\d+)", block)
+    if query_size_match:
+        row["Query size"] = int(query_size_match.group(1))
 
-    # Truncated? check for TC flag in flags
+    # Truncated?
     if "Truncated, retrying in TCP mode" in block:
         row["Truncated?"] = "Yes"
 
