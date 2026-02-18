@@ -1,0 +1,5747 @@
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.113Z
+    message_size: 51b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 12386
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'google.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.113Z
+    response_time: !!timestamp 2026-02-18T13:46:12.137Z
+    message_size: 112b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 12386
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'google.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 324 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421780 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.137Z
+    message_size: 54b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 64486
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'microsoft.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.137Z
+    response_time: !!timestamp 2026-02-18T13:46:12.153Z
+    message_size: 115b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 64486
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'microsoft.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 835 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422275 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.153Z
+    message_size: 53b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 41504
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'facebook.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.153Z
+    response_time: !!timestamp 2026-02-18T13:46:12.177Z
+    message_size: 114b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 41504
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'facebook.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 784 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422235 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.177Z
+    message_size: 55b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 29889
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'googleapis.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.177Z
+    response_time: !!timestamp 2026-02-18T13:46:12.213Z
+    message_size: 116b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 29889
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'googleapis.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 395 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421840 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.213Z
+    message_size: 52b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 18065
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'youtube.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.213Z
+    response_time: !!timestamp 2026-02-18T13:46:12.237Z
+    message_size: 113b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 18065
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'youtube.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 715 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422170 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.241Z
+    message_size: 50b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 24032
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'apple.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.241Z
+    response_time: !!timestamp 2026-02-18T13:46:12.293Z
+    message_size: 111b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 24032
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'apple.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 155 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421610 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.293Z
+    message_size: 54b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 57065
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'instagram.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.293Z
+    response_time: !!timestamp 2026-02-18T13:46:12.317Z
+    message_size: 115b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 57065
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'instagram.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 672 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422110 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.317Z
+    message_size: 52b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 2034
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'gstatic.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.317Z
+    response_time: !!timestamp 2026-02-18T13:46:12.405Z
+    message_size: 113b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 2034
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'gstatic.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 495 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421945 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.405Z
+    message_size: 55b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 25879
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'cloudflare.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.405Z
+    response_time: !!timestamp 2026-02-18T13:46:12.429Z
+    message_size: 91b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 25879
+      flags: qr ra ad
+      QUESTION: 1
+      ANSWER: 1
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'cloudflare.com. IN DS'
+      ANSWER_SECTION:
+        - 'cloudflare.com. 14028 IN DS 2371 13 2 32996839A6D808AFE3EB4A795A0E6A7A39A76FC52FF228B22B76F6D6 3826F2B9'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.429Z
+    message_size: 52b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 34247
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'twitter.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.429Z
+    response_time: !!timestamp 2026-02-18T13:46:12.461Z
+    message_size: 113b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 34247
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'twitter.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 858 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422305 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.465Z
+    message_size: 51b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 55326
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'office.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.465Z
+    response_time: !!timestamp 2026-02-18T13:46:12.481Z
+    message_size: 112b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 55326
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'office.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 192 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421640 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.485Z
+    message_size: 54b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 21204
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'amazonaws.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.485Z
+    response_time: !!timestamp 2026-02-18T13:46:12.505Z
+    message_size: 115b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 21204
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'amazonaws.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 262 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421715 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.505Z
+    message_size: 49b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 31409
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'live.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.505Z
+    response_time: !!timestamp 2026-02-18T13:46:12.529Z
+    message_size: 110b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 31409
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'live.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 756 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422215 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.529Z
+    message_size: 53b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 8703
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'linkedin.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.529Z
+    response_time: !!timestamp 2026-02-18T13:46:12.557Z
+    message_size: 114b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 8703
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'linkedin.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 97 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421550 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.557Z
+    message_size: 61b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 58725
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'googletagmanager.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.557Z
+    response_time: !!timestamp 2026-02-18T13:46:12.569Z
+    message_size: 122b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 58725
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'googletagmanager.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 548 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421990 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.573Z
+    message_size: 51b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 3157
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'amazon.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.573Z
+    response_time: !!timestamp 2026-02-18T13:46:12.585Z
+    message_size: 112b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 3157
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'amazon.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 326 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421780 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.585Z
+    message_size: 56b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 26562
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'googlevideo.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.585Z
+    response_time: !!timestamp 2026-02-18T13:46:12.613Z
+    message_size: 117b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 26562
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'googlevideo.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 155 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421595 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.613Z
+    message_size: 60b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 50965
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'microsoftonline.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.613Z
+    response_time: !!timestamp 2026-02-18T13:46:12.641Z
+    message_size: 121b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 50965
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'microsoftonline.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 608 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422050 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.641Z
+    message_size: 58b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 23022
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'windowsupdate.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.641Z
+    response_time: !!timestamp 2026-02-18T13:46:12.665Z
+    message_size: 119b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 23022
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'windowsupdate.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 632 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422080 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.665Z
+    message_size: 54b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 11271
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'wikipedia.org. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.665Z
+    response_time: !!timestamp 2026-02-18T13:46:12.689Z
+    message_size: 42b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 11271
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'wikipedia.org. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.689Z
+    message_size: 51b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 60376
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'github.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.689Z
+    response_time: !!timestamp 2026-02-18T13:46:12.713Z
+    message_size: 112b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 60376
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'github.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 370 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421820 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.713Z
+    message_size: 50b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 58680
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'fbcdn.net. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.713Z
+    response_time: !!timestamp 2026-02-18T13:46:12.753Z
+    message_size: 111b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 58680
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'fbcdn.net. IN DS'
+      AUTHORITY_SECTION:
+        - 'net. 600 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422050 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.753Z
+    message_size: 49b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 10426
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'bing.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.753Z
+    response_time: !!timestamp 2026-02-18T13:46:12.765Z
+    message_size: 110b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 10426
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'bing.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 15 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421460 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.769Z
+    message_size: 56b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 56756
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'doubleclick.net. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.769Z
+    response_time: !!timestamp 2026-02-18T13:46:12.817Z
+    message_size: 117b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 56756
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'doubleclick.net. IN DS'
+      AUTHORITY_SECTION:
+        - 'net. 29 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421475 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.817Z
+    message_size: 49b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 58764
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'e2ro.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.817Z
+    response_time: !!timestamp 2026-02-18T13:46:12.841Z
+    message_size: 37b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 58764
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'e2ro.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.841Z
+    message_size: 62b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 3555
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'googleusercontent.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.841Z
+    response_time: !!timestamp 2026-02-18T13:46:12.873Z
+    message_size: 123b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 3555
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'googleusercontent.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 132 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421580 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.873Z
+    message_size: 53b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 29572
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'digicert.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.873Z
+    response_time: !!timestamp 2026-02-18T13:46:12.897Z
+    message_size: 114b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 29572
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'digicert.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 235 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421685 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.897Z
+    message_size: 53b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 33153
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'whatsapp.net. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.897Z
+    response_time: !!timestamp 2026-02-18T13:46:12.957Z
+    message_size: 114b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 33153
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'whatsapp.net. IN DS'
+      AUTHORITY_SECTION:
+        - 'net. 747 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422185 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.957Z
+    message_size: 54b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 40575
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'wordpress.org. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.957Z
+    response_time: !!timestamp 2026-02-18T13:46:12.981Z
+    message_size: 42b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 40575
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'wordpress.org. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:12.981Z
+    message_size: 49b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 14543
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'youtu.be. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:12.981Z
+    response_time: !!timestamp 2026-02-18T13:46:13.005Z
+    message_size: 37b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 14543
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'youtu.be. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.005Z
+    message_size: 52b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 32733
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'netflix.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.005Z
+    response_time: !!timestamp 2026-02-18T13:46:13.029Z
+    message_size: 40b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 32733
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'netflix.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.033Z
+    message_size: 54b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 63685
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'pinterest.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.033Z
+    response_time: !!timestamp 2026-02-18T13:46:13.057Z
+    message_size: 42b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 63685
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'pinterest.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.057Z
+    message_size: 51b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 16754
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'icloud.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.057Z
+    response_time: !!timestamp 2026-02-18T13:46:13.081Z
+    message_size: 112b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 16754
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'icloud.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 827 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422275 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.081Z
+    message_size: 53b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 10008
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'whatsapp.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.081Z
+    response_time: !!timestamp 2026-02-18T13:46:13.093Z
+    message_size: 114b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 10008
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'whatsapp.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 230 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421685 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.097Z
+    message_size: 54b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 34468
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'apple-dns.net. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.097Z
+    response_time: !!timestamp 2026-02-18T13:46:13.121Z
+    message_size: 115b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 34468
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'apple-dns.net. IN DS'
+      AUTHORITY_SECTION:
+        - 'net. 180 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421640 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.121Z
+    message_size: 47b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 27149
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'goo.gl. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.121Z
+    response_time: !!timestamp 2026-02-18T13:46:13.145Z
+    message_size: 96b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 27149
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'goo.gl. IN DS'
+      AUTHORITY_SECTION:
+        - 'gl. 129 IN SOA a.nuuk.nic.gl. gl-admin.tele.gl. 2022178172 900 1800 6048000 3600'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.145Z
+    message_size: 50b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 47003
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'yahoo.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.145Z
+    response_time: !!timestamp 2026-02-18T13:46:13.169Z
+    message_size: 111b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 47003
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'yahoo.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 287 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421730 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.169Z
+    message_size: 50b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 8125
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'skype.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.169Z
+    response_time: !!timestamp 2026-02-18T13:46:13.201Z
+    message_size: 111b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 8125
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'skype.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 744 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422200 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.201Z
+    message_size: 46b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 18354
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'x.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.201Z
+    response_time: !!timestamp 2026-02-18T13:46:13.225Z
+    message_size: 107b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 18354
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'x.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 876 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422320 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.225Z
+    message_size: 48b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 56538
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'msn.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.225Z
+    response_time: !!timestamp 2026-02-18T13:46:13.249Z
+    message_size: 109b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 56538
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'msn.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 32 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421475 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.249Z
+    message_size: 51b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 41423
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'akadns.net. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.249Z
+    response_time: !!timestamp 2026-02-18T13:46:13.273Z
+    message_size: 112b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 41423
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'akadns.net. IN DS'
+      AUTHORITY_SECTION:
+        - 'net. 17 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421475 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.273Z
+    message_size: 51b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 38641
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'office.net. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.273Z
+    response_time: !!timestamp 2026-02-18T13:46:13.297Z
+    message_size: 112b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 38641
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'office.net. IN DS'
+      AUTHORITY_SECTION:
+        - 'net. 7 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421445 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.297Z
+    message_size: 48b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 19254
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'ntp.org. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.297Z
+    response_time: !!timestamp 2026-02-18T13:46:13.313Z
+    message_size: 118b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 19254
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'ntp.org. IN DS'
+      AUTHORITY_SECTION:
+        - 'org. 1035 IN SOA a0.org.afilias-nst.info. hostmaster.donuts.email. 1771421142 7200 900 1209600 3600'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.313Z
+    message_size: 51b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 57560
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'tiktok.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.313Z
+    response_time: !!timestamp 2026-02-18T13:46:13.337Z
+    message_size: 112b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 57560
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'tiktok.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 331 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421780 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.337Z
+    message_size: 62b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 53582
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'googlesyndication.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.337Z
+    response_time: !!timestamp 2026-02-18T13:46:13.353Z
+    message_size: 123b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 53582
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'googlesyndication.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 556 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422005 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.353Z
+    message_size: 52b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 35159
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'aaplimg.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.353Z
+    response_time: !!timestamp 2026-02-18T13:46:13.365Z
+    message_size: 113b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 35159
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'aaplimg.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 172 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421625 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.365Z
+    message_size: 52b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 1562
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'spotify.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.365Z
+    response_time: !!timestamp 2026-02-18T13:46:13.389Z
+    message_size: 113b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 1562
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'spotify.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 338 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421790 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.389Z
+    message_size: 50b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 43201
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'vimeo.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.389Z
+    response_time: !!timestamp 2026-02-18T13:46:13.417Z
+    message_size: 111b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 43201
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'vimeo.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 106 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421550 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.417Z
+    message_size: 52b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 18606
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'windows.net. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.417Z
+    response_time: !!timestamp 2026-02-18T13:46:13.441Z
+    message_size: 113b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 18606
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'windows.net. IN DS'
+      AUTHORITY_SECTION:
+        - 'net. 87 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421535 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.441Z
+    message_size: 50b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 14336
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'adobe.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.441Z
+    response_time: !!timestamp 2026-02-18T13:46:13.473Z
+    message_size: 111b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 14336
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'adobe.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 442 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421895 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.473Z
+    message_size: 55b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 11473
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'cloudfront.net. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.473Z
+    response_time: !!timestamp 2026-02-18T13:46:13.497Z
+    message_size: 116b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 11473
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'cloudfront.net. IN DS'
+      AUTHORITY_SECTION:
+        - 'net. 879 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422320 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.497Z
+    message_size: 50b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 13526
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'ytimg.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.497Z
+    response_time: !!timestamp 2026-02-18T13:46:13.525Z
+    message_size: 111b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 13526
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'ytimg.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 311 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421760 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.525Z
+    message_size: 46b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 49897
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'wa.me. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.525Z
+    response_time: !!timestamp 2026-02-18T13:46:13.549Z
+    message_size: 34b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 49897
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'wa.me. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.549Z
+    message_size: 51b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 18258
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'akamai.net. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.549Z
+    response_time: !!timestamp 2026-02-18T13:46:13.573Z
+    message_size: 112b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 18258
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'akamai.net. IN DS'
+      AUTHORITY_SECTION:
+        - 'net. 843 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422290 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.573Z
+    message_size: 54b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 6726
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'office365.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.573Z
+    response_time: !!timestamp 2026-02-18T13:46:13.597Z
+    message_size: 115b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 6726
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'office365.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 797 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422245 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.597Z
+    message_size: 50b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 49475
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'nginx.org. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.597Z
+    response_time: !!timestamp 2026-02-18T13:46:13.621Z
+    message_size: 38b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 49475
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'nginx.org. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.621Z
+    message_size: 61b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 30055
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'google-analytics.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.621Z
+    response_time: !!timestamp 2026-02-18T13:46:13.637Z
+    message_size: 122b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 30055
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'google-analytics.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 590 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422050 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.637Z
+    message_size: 54b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 7068
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'tiktokcdn.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.637Z
+    response_time: !!timestamp 2026-02-18T13:46:13.661Z
+    message_size: 42b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 7068
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'tiktokcdn.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.661Z
+    message_size: 59b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 63123
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'cloudflare-dns.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.661Z
+    response_time: !!timestamp 2026-02-18T13:46:13.677Z
+    message_size: 95b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 63123
+      flags: qr ra ad
+      QUESTION: 1
+      ANSWER: 1
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'cloudflare-dns.com. IN DS'
+      ANSWER_SECTION:
+        - 'cloudflare-dns.com. 9711 IN DS 2371 13 2 F52DBA4AAEA13A1F457C0FB4C1953F40E16AFC5C5E79EDF7CEED0FCF 0CBD81F0'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.677Z
+    message_size: 49b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 29113
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'gvt2.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.677Z
+    response_time: !!timestamp 2026-02-18T13:46:13.693Z
+    message_size: 110b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 29113
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'gvt2.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 519 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421975 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.693Z
+    message_size: 47b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 18677
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'bit.ly. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.693Z
+    response_time: !!timestamp 2026-02-18T13:46:13.717Z
+    message_size: 35b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 18677
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'bit.ly. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.717Z
+    message_size: 52b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 64321
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'tiktokv.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.717Z
+    response_time: !!timestamp 2026-02-18T13:46:13.741Z
+    message_size: 40b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 64321
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'tiktokv.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.741Z
+    message_size: 50b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 46884
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'nginx.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.741Z
+    response_time: !!timestamp 2026-02-18T13:46:13.765Z
+    message_size: 38b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 46884
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'nginx.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.765Z
+    message_size: 52b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 45807
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'samsung.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.765Z
+    response_time: !!timestamp 2026-02-18T13:46:13.789Z
+    message_size: 40b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 45807
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'samsung.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.789Z
+    message_size: 51b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 38694
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'reddit.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.789Z
+    response_time: !!timestamp 2026-02-18T13:46:13.805Z
+    message_size: 112b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 38694
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'reddit.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 94 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421550 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.805Z
+    message_size: 54b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 33352
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'wordpress.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.805Z
+    response_time: !!timestamp 2026-02-18T13:46:13.837Z
+    message_size: 42b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 33352
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'wordpress.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.837Z
+    message_size: 52b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 14044
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'mozilla.org. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.837Z
+    response_time: !!timestamp 2026-02-18T13:46:13.861Z
+    message_size: 122b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 14044
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'mozilla.org. IN DS'
+      AUTHORITY_SECTION:
+        - 'org. 919 IN SOA a0.org.afilias-nst.info. hostmaster.donuts.email. 1771420812 7200 900 1209600 3600'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.861Z
+    message_size: 50b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 52860
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'baidu.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.861Z
+    response_time: !!timestamp 2026-02-18T13:46:13.921Z
+    message_size: 38b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 52860
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'baidu.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.921Z
+    message_size: 51b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 23017
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'fastly.net. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.921Z
+    response_time: !!timestamp 2026-02-18T13:46:13.933Z
+    message_size: 112b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 23017
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'fastly.net. IN DS'
+      AUTHORITY_SECTION:
+        - 'net. 365 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421820 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.933Z
+    message_size: 55b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 14322
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'sharepoint.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.933Z
+    response_time: !!timestamp 2026-02-18T13:46:13.961Z
+    message_size: 116b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 14322
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'sharepoint.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 409 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421865 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.961Z
+    message_size: 52b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 27199
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'windows.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.961Z
+    response_time: !!timestamp 2026-02-18T13:46:13.985Z
+    message_size: 40b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 27199
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'windows.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:13.985Z
+    message_size: 47b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 17732
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'ui.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:13.985Z
+    response_time: !!timestamp 2026-02-18T13:46:14.009Z
+    message_size: 108b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 17732
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'ui.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 454 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421895 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.009Z
+    message_size: 61b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 64360
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'googleadservices.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.009Z
+    response_time: !!timestamp 2026-02-18T13:46:14.033Z
+    message_size: 122b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 64360
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'googleadservices.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 258 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421715 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.033Z
+    message_size: 47b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 63314
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'qq.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.033Z
+    response_time: !!timestamp 2026-02-18T13:46:14.057Z
+    message_size: 35b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 63314
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'qq.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.057Z
+    message_size: 55b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 57694
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'akamaiedge.net. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.057Z
+    response_time: !!timestamp 2026-02-18T13:46:14.081Z
+    message_size: 116b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 57694
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'akamaiedge.net. IN DS'
+      AUTHORITY_SECTION:
+        - 'net. 755 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422200 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.085Z
+    message_size: 50b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 47145
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'azure.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.085Z
+    response_time: !!timestamp 2026-02-18T13:46:14.097Z
+    message_size: 111b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 47145
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'azure.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 508 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421955 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.097Z
+    message_size: 45b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 57421
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 't.me. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.097Z
+    response_time: !!timestamp 2026-02-18T13:46:14.137Z
+    message_size: 33b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 57421
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 't.me. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.141Z
+    message_size: 57b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 22262
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'cdninstagram.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.141Z
+    response_time: !!timestamp 2026-02-18T13:46:14.165Z
+    message_size: 118b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 22262
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'cdninstagram.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 702 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422155 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.165Z
+    message_size: 53b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 4821
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'blogspot.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.165Z
+    response_time: !!timestamp 2026-02-18T13:46:14.189Z
+    message_size: 41b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 4821
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'blogspot.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.189Z
+    message_size: 50b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 44400
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'sentry.io. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.189Z
+    response_time: !!timestamp 2026-02-18T13:46:14.213Z
+    message_size: 104b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 44400
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'sentry.io. IN DS'
+      AUTHORITY_SECTION:
+        - 'io. 1701 IN SOA a0.nic.io. hostmaster.donuts.email. 1771422002 7200 900 1209600 3600'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.213Z
+    message_size: 51b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 22516
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'dns.google. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.213Z
+    response_time: !!timestamp 2026-02-18T13:46:14.241Z
+    message_size: 87b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 22516
+      flags: qr ra ad
+      QUESTION: 1
+      ANSWER: 1
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'dns.google. IN DS'
+      ANSWER_SECTION:
+        - 'dns.google. 875 IN DS 56044 8 2 1B0A7E90AA6B1AC65AA5B573EFC44ABF6CB2559444251B997103D2E4 0C351B08'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.241Z
+    message_size: 50b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 4012
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'europa.eu. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.241Z
+    response_time: !!timestamp 2026-02-18T13:46:14.265Z
+    message_size: 134b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 4012
+      flags: qr ra ad
+      QUESTION: 1
+      ANSWER: 2
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'europa.eu. IN DS'
+      ANSWER_SECTION:
+        - 'europa.eu. 542 IN DS 14845 8 2 9EF3C28F5B3A3D33756D61715B1BDBDBB07E0555598D30256D1F2B71 95324846'
+        - 'europa.eu. 542 IN DS 6250 8 2 0186EEFF28A83D2C950963CEEF2F2070DC0885AC8AD7106B03A9741C 25DC6B82'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.265Z
+    message_size: 60b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 40177
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'app-measurement.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.265Z
+    response_time: !!timestamp 2026-02-18T13:46:14.289Z
+    message_size: 121b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 40177
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'app-measurement.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 793 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422245 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.289Z
+    message_size: 49b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 8479
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'gvt1.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.289Z
+    response_time: !!timestamp 2026-02-18T13:46:14.313Z
+    message_size: 37b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 8479
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'gvt1.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.313Z
+    message_size: 51b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 27825
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'apache.org. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.313Z
+    response_time: !!timestamp 2026-02-18T13:46:14.341Z
+    message_size: 39b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 27825
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'apache.org. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.341Z
+    message_size: 50b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 36130
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'github.io. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.341Z
+    response_time: !!timestamp 2026-02-18T13:46:14.365Z
+    message_size: 104b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 36130
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'github.io. IN DS'
+      AUTHORITY_SECTION:
+        - 'io. 256 IN SOA a0.nic.io. hostmaster.donuts.email. 1771420102 7200 900 1209600 3600'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.365Z
+    message_size: 51b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 51102
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'roblox.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.365Z
+    response_time: !!timestamp 2026-02-18T13:46:14.389Z
+    message_size: 112b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 51102
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'roblox.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 209 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421670 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.393Z
+    message_size: 53b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 26704
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'gravatar.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.393Z
+    response_time: !!timestamp 2026-02-18T13:46:14.477Z
+    message_size: 41b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 26704
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'gravatar.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.477Z
+    message_size: 49b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 40763
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'pki.goog. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.477Z
+    response_time: !!timestamp 2026-02-18T13:46:14.501Z
+    message_size: 85b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 40763
+      flags: qr ra ad
+      QUESTION: 1
+      ANSWER: 1
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'pki.goog. IN DS'
+      ANSWER_SECTION:
+        - 'pki.goog. 824 IN DS 19801 8 2 03F0BA36C7A85539F4CA1549DC062BD1CBC217B499023D492258EC2C 1753F98D'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.501Z
+    message_size: 56b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 44640
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'cloud.microsoft. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.501Z
+    response_time: !!timestamp 2026-02-18T13:46:14.517Z
+    message_size: 92b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 44640
+      flags: qr ra ad
+      QUESTION: 1
+      ANSWER: 1
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'cloud.microsoft. IN DS'
+      ANSWER_SECTION:
+        - 'cloud.microsoft. 182 IN DS 61899 13 2 3669D6E0BA4221859F38E90C598CD669A834BD99EE6478C2217C90D2 C509D3ED'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.517Z
+    message_size: 60b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 26922
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'amazon-adsystem.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.517Z
+    response_time: !!timestamp 2026-02-18T13:46:14.541Z
+    message_size: 121b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 26922
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'amazon-adsystem.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 717 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422170 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.541Z
+    message_size: 67b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 16321
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'app-analytics-services.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.541Z
+    response_time: !!timestamp 2026-02-18T13:46:14.585Z
+    message_size: 55b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 16321
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'app-analytics-services.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.585Z
+    message_size: 48b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 27792
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'zoom.us. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.585Z
+    response_time: !!timestamp 2026-02-18T13:46:14.609Z
+    message_size: 99b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 27792
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'zoom.us. IN DS'
+      AUTHORITY_SECTION:
+        - 'us. 501 IN SOA a.cctld.us. admin.tldns.godaddy. 1771421387 1800 300 604800 1800'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.609Z
+    message_size: 53b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 3470
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'msftncsi.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.609Z
+    response_time: !!timestamp 2026-02-18T13:46:14.633Z
+    message_size: 114b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 3470
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'msftncsi.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 388 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421840 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.633Z
+    message_size: 48b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 46033
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'one.one. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.633Z
+    response_time: !!timestamp 2026-02-18T13:46:14.661Z
+    message_size: 36b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 46033
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'one.one. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.661Z
+    message_size: 53b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 11979
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'snapchat.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.661Z
+    response_time: !!timestamp 2026-02-18T13:46:14.685Z
+    message_size: 114b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 11979
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'snapchat.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 71 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771421520 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.685Z
+    message_size: 52b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 19124
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'outlook.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.685Z
+    response_time: !!timestamp 2026-02-18T13:46:14.709Z
+    message_size: 113b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 19124
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 1
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'outlook.com. IN DS'
+      AUTHORITY_SECTION:
+        - 'com. 849 IN SOA a.gtld-servers.net. nstld.verisign-grs.com. 1771422290 1800 900 604800 900'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.709Z
+    message_size: 47b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 13486
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'f5.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.709Z
+    response_time: !!timestamp 2026-02-18T13:46:14.733Z
+    message_size: 35b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 13486
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'f5.com. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.733Z
+    message_size: 52b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 54503
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'archive.org. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.733Z
+    response_time: !!timestamp 2026-02-18T13:46:14.765Z
+    message_size: 40b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 54503
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'archive.org. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_QUERY
+    query_time: !!timestamp 2026-02-18T13:46:14.765Z
+    message_size: 50b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    query_message_data:
+      opcode: QUERY
+      status: NOERROR
+      id: 32092
+      flags: ad
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 1232
+          COOKIE: 40c6f4d8167ee55c
+      QUESTION_SECTION:
+        - 'forms.gle. IN DS'
+- type: MESSAGE
+  message:
+    type: AUTH_RESPONSE
+    query_time: !!timestamp 2026-02-18T13:46:14.765Z
+    response_time: !!timestamp 2026-02-18T13:46:14.789Z
+    message_size: 38b
+    socket_family: INET
+    socket_protocol: UDP
+    response_address: "8.8.8.8"
+    response_port: 53
+    query_address: "0.0.0.0"
+    query_port: 0
+    response_message_data:
+      opcode: QUERY
+      status: SERVFAIL
+      id: 32092
+      flags: qr ra
+      QUESTION: 1
+      ANSWER: 0
+      AUTHORITY: 0
+      ADDITIONAL: 1
+      OPT_PSEUDOSECTION:
+        EDNS:
+          version: 0
+          flags:
+          udp: 512
+      QUESTION_SECTION:
+        - 'forms.gle. IN DS'
