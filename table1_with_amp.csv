@@ -1,0 +1,1001 @@
+Domain,Flags,Query size,Response size,# of Answers,# of Authority RRs,# of Additional RRs,Truncated?,amplification,dnssec_signed
+google.com,qr rd ra,51,89,0,1,1,No,1.7450980392156863,False
+microsoft.com,qr rd ra,54,115,0,1,1,No,2.1296296296296298,False
+facebook.com,qr rd ra,53,86,0,1,1,No,1.6226415094339623,False
+googleapis.com,qr rd ra,55,100,0,1,1,No,1.8181818181818181,False
+youtube.com,qr rd ra,52,97,0,1,1,No,1.8653846153846154,False
+apple.com,qr rd ra,50,107,0,1,1,No,2.14,False
+instagram.com,qr rd ra,54,96,0,1,1,No,1.7777777777777777,False
+gstatic.com,qr rd ra,52,97,0,1,1,No,1.8653846153846154,False
+cloudflare.com,qr rd ra ad,55,203,2,0,1,No,3.690909090909091,True
+twitter.com,qr rd ra,52,97,0,1,1,No,1.8653846153846154,False
+office.com,qr rd ra,51,109,0,1,1,No,2.1372549019607843,False
+amazonaws.com,qr rd ra,54,127,0,1,1,No,2.3518518518518516,False
+live.com,qr rd ra,49,107,0,1,1,No,2.183673469387755,False
+linkedin.com,qr rd ra,53,106,0,1,1,No,2.0,False
+googletagmanager.com,qr rd ra,61,106,0,1,1,No,1.7377049180327868,False
+amazon.com,qr rd ra,51,106,0,1,1,No,2.0784313725490198,False
+googlevideo.com,qr rd ra,56,101,0,1,1,No,1.8035714285714286,False
+microsoftonline.com,qr rd ra,60,118,0,1,1,No,1.9666666666666666,False
+windowsupdate.com,qr rd ra,58,130,0,1,1,No,2.2413793103448274,False
+wikipedia.org,qr rd ra,54,103,0,1,1,No,1.9074074074074074,False
+github.com,qr rd ra,51,104,0,1,1,No,2.0392156862745097,False
+fbcdn.net,qr rd ra,50,95,0,1,1,No,1.9,False
+bing.com,qr rd ra,49,121,0,1,1,No,2.4693877551020407,False
+doubleclick.net,qr rd ra,56,104,0,1,1,No,1.8571428571428572,False
+e2ro.com,qr rd ra,49,119,0,1,1,No,2.4285714285714284,False
+googleusercontent.com,qr rd ra,62,107,0,1,1,No,1.7258064516129032,False
+digicert.com,qr rd ra,53,98,0,1,1,No,1.849056603773585,False
+whatsapp.net,qr rd ra,53,86,0,1,1,No,1.6226415094339623,False
+wordpress.org,qr rd ra,54,93,0,1,1,No,1.7222222222222223,False
+youtu.be,qr rd ra,49,97,0,1,1,No,1.9795918367346939,False
+netflix.com,qr rd ra,52,117,0,1,1,No,2.25,False
+pinterest.com,qr rd ra,54,102,0,1,1,No,1.8888888888888888,False
+icloud.com,qr rd ra,51,114,0,1,1,No,2.235294117647059,False
+whatsapp.com,qr rd ra,53,98,0,1,1,No,1.849056603773585,False
+apple-dns.net,qr rd ra,54,120,0,1,1,No,2.2222222222222223,False
+goo.gl,qr rd ra,47,95,0,1,1,No,2.021276595744681,False
+yahoo.com,qr rd ra,50,99,0,1,1,No,1.98,False
+skype.com,qr rd ra,50,122,0,1,1,No,2.44,False
+x.com,qr rd ra,46,99,0,1,1,No,2.152173913043478,False
+msn.com,qr rd ra,48,120,0,1,1,No,2.5,False
+akadns.net,qr rd ra,51,105,0,1,1,No,2.0588235294117645,False
+office.net,qr rd ra,51,112,0,1,1,No,2.196078431372549,False
+ntp.org,qr rd ra,48,95,0,1,1,No,1.9791666666666667,False
+tiktok.com,qr rd ra,51,107,0,1,1,No,2.0980392156862746,False
+googlesyndication.com,qr rd ra,62,107,0,1,1,No,1.7258064516129032,False
+aaplimg.com,qr rd ra,52,115,0,1,1,No,2.2115384615384617,False
+spotify.com,qr rd ra,52,130,0,1,1,No,2.5,False
+vimeo.com,qr rd ra,50,115,0,1,1,No,2.3,False
+windows.net,qr rd ra,52,126,0,1,1,No,2.423076923076923,False
+adobe.com,qr rd ra,50,103,0,1,1,No,2.06,False
+cloudfront.net,qr rd ra,55,110,0,1,1,No,2.0,False
+ytimg.com,qr rd ra,50,95,0,1,1,No,1.9,False
+wa.me,qr rd ra,46,91,0,1,1,No,1.9782608695652173,False
+akamai.net,qr rd ra,51,116,0,1,1,No,2.2745098039215685,False
+office365.com,qr rd ra,54,112,0,1,1,No,2.074074074074074,False
+nginx.org,qr rd ra,50,104,0,1,1,No,2.08,False
+google-analytics.com,qr rd ra,61,106,0,1,1,No,1.7377049180327868,False
+tiktokcdn.com,qr rd ra,54,110,0,1,1,No,2.037037037037037,False
+cloudflare-dns.com,qr rd ra ad,59,207,2,0,1,No,3.5084745762711864,True
+gvt2.com,qr rd ra,49,94,0,1,1,No,1.9183673469387754,False
+bit.ly,qr rd ra,47,120,0,1,1,No,2.5531914893617023,False
+tiktokv.com,qr rd ra,52,108,0,1,1,No,2.076923076923077,False
+nginx.com,qr rd ra,50,101,0,1,1,No,2.02,False
+samsung.com,qr rd ra,52,97,0,1,1,No,1.8653846153846154,False
+reddit.com,qr rd ra,51,120,0,1,1,No,2.3529411764705883,False
+wordpress.com,qr rd ra,54,95,0,1,1,No,1.7592592592592593,False
+mozilla.org,qr rd ra,52,121,0,1,1,No,2.326923076923077,False
+baidu.com,qr rd ra,50,81,0,1,1,No,1.62,False
+fastly.net,qr rd ra,51,100,0,1,1,No,1.9607843137254901,False
+sharepoint.com,qr rd ra,55,127,0,1,1,No,2.309090909090909,False
+windows.com,qr rd ra,52,124,0,1,1,No,2.3846153846153846,False
+ui.com,qr rd ra,47,119,0,1,1,No,2.5319148936170213,False
+googleadservices.com,qr rd ra,61,106,0,1,1,No,1.7377049180327868,False
+qq.com,qr rd ra,47,85,0,1,1,No,1.8085106382978724,False
+akamaiedge.net,qr rd ra,55,109,0,1,1,No,1.981818181818182,False
+azure.com,qr rd ra,50,121,0,1,1,No,2.42,False
+t.me,qr rd ra,45,112,0,1,1,No,2.488888888888889,False
+cdninstagram.com,qr rd ra,57,109,0,1,1,No,1.912280701754386,False
+blogspot.com,qr rd ra,53,98,0,1,1,No,1.849056603773585,False
+sentry.io,qr rd ra,50,131,0,1,1,No,2.62,False
+dns.google,qr rd ra ad,51,463,2,0,1,No,9.07843137254902,True
+europa.eu,qr rd ra ad,50,1122,3,0,1,No,22.44,True
+app-measurement.com,qr rd ra,60,105,0,1,1,No,1.75,False
+gvt1.com,qr rd ra,49,94,0,1,1,No,1.9183673469387754,False
+apache.org,qr rd ra,51,123,0,1,1,No,2.411764705882353,False
+github.io,qr rd ra,50,103,0,1,1,No,2.06,False
+roblox.com,qr rd ra,51,104,0,1,1,No,2.0392156862745097,False
+gravatar.com,qr rd ra,53,103,0,1,1,No,1.9433962264150944,False
+pki.goog,qr rd ra ad,49,461,2,0,1,No,9.408163265306122,True
+cloud.microsoft,qr rd ra ad,56,204,2,0,1,No,3.642857142857143,True
+amazon-adsystem.com,qr rd ra,60,116,0,1,1,No,1.9333333333333333,False
+app-analytics-services.com,qr rd ra,67,112,0,1,1,No,1.671641791044776,False
+zoom.us,qr rd ra,48,121,0,1,1,No,2.5208333333333335,False
+msftncsi.com,qr rd ra,53,124,0,1,1,No,2.339622641509434,False
+one.one,qr rd ra ad,48,116,1,0,1,No,2.4166666666666665,True
+snapchat.com,qr rd ra,53,119,0,1,1,No,2.2452830188679247,False
+outlook.com,qr rd ra,52,110,0,1,1,No,2.1153846153846154,False
+f5.com,qr rd ra,47,88,0,1,1,No,1.872340425531915,False
+archive.org,qr rd ra,52,91,0,1,1,No,1.75,False
+forms.gle,qr rd ra,50,123,0,1,1,No,2.46,False
+nih.gov,qr rd ra ad,48,608,3,0,1,No,12.666666666666666,True
+miit.gov.cn,qr rd ra,52,85,0,1,1,No,1.6346153846153846,False
+criteo.com,qr rd ra,51,83,0,1,1,No,1.6274509803921569,False
+steamserver.net,qr rd ra,56,107,0,1,1,No,1.9107142857142858,False
+applovin.com,qr rd ra,53,121,0,1,1,No,2.2830188679245285,False
+dropbox.com,qr rd ra,52,121,0,1,1,No,2.326923076923077,False
+tumblr.com,qr rd ra,51,90,0,1,1,No,1.7647058823529411,False
+opera.com,qr rd ra,50,90,0,1,1,No,1.8,False
+appsflyersdk.com,qr rd ra,57,127,0,1,1,No,2.2280701754385963,False
+msftconnecttest.com,qr rd ra,60,131,0,1,1,No,2.183333333333333,False
+ggpht.com,qr rd ra,50,95,0,1,1,No,1.9,False
+trafficmanager.net,qr rd ra,59,108,0,1,1,No,1.8305084745762712,False
+nytimes.com,qr rd ra,52,105,0,1,1,No,2.019230769230769,False
+unity3d.com,qr rd ra,52,107,0,1,1,No,2.0576923076923075,False
+macromedia.com,qr rd ra,55,114,0,1,1,No,2.0727272727272728,False
+vk.com,qr rd ra,47,91,0,1,1,No,1.9361702127659575,False
+3gppnetwork.org,qr rd ra,56,105,0,1,1,No,1.875,False
+a2z.com,qr rd ra,48,104,0,1,1,No,2.1666666666666665,False
+amazon.dev,qr rd ra,51,123,0,1,1,No,2.411764705882353,False
+paypal.com,qr rd ra ad,51,359,4,0,1,No,7.03921568627451,True
+chatgpt.com,qr rd ra,52,200,2,0,1,No,3.8461538461538463,True
+lencr.org,qr rd ra,50,100,0,1,1,No,2.0,False
+shopify.com,qr rd ra,52,110,0,1,1,No,2.1153846153846154,False
+discord.com,qr rd ra ad,52,200,2,0,1,No,3.8461538461538463,True
+mailinabox.email,qr rd ra,57,116,0,1,1,No,2.0350877192982457,False
+cdn-apple.com,qr rd ra,54,117,0,1,1,No,2.1666666666666665,False
+rubiconproject.com,qr rd ra,59,128,0,1,1,No,2.169491525423729,False
+flickr.com,qr rd ra,51,120,0,1,1,No,2.3529411764705883,False
+w3.org,qr rd ra,47,98,0,1,1,No,2.0851063829787235,False
+soundcloud.com,qr rd ra,55,124,0,1,1,No,2.2545454545454544,False
+medium.com,qr rd ra,51,99,0,1,1,No,1.9411764705882353,False
+godaddy.com,qr rd ra,52,94,0,1,1,No,1.8076923076923077,False
+cnn.com,qr rd ra,48,120,0,1,1,No,2.5,False
+theguardian.com,qr rd ra,56,109,0,1,1,No,1.9464285714285714,False
+nist.gov,qr rd ra ad,49,493,2,0,1,No,10.061224489795919,True
+tiktokcdn-us.com,qr rd ra,57,120,0,1,1,No,2.1052631578947367,False
+adnxs.com,qr rd ra,50,103,0,1,1,No,2.06,False
+taboola.com,qr rd ra ad,52,280,3,0,1,No,5.384615384615385,True
+creativecommons.org,qr rd ra,60,208,2,0,1,No,3.466666666666667,True
+adtrafficquality.google,qr rd ra,64,112,0,1,1,No,1.75,False
+pubmatic.com,qr rd ra,53,106,0,1,1,No,2.0,False
+forbes.com,qr rd ra,51,123,0,1,1,No,2.411764705882353,False
+example.com,qr rd ra ad,52,360,4,0,1,No,6.923076923076923,True
+adsrvr.org,qr rd ra,51,104,0,1,1,No,2.0392156862745097,False
+bbc.com,qr rd ra,48,95,0,1,1,No,1.9791666666666667,False
+t.co,qr rd ra,45,101,0,1,1,No,2.2444444444444445,False
+researchgate.net,qr rd ra,57,108,0,1,1,No,1.894736842105263,False
+sourceforge.net,qr rd ra,56,103,0,1,1,No,1.8392857142857142,False
+gmail.com,qr rd ra,50,95,0,1,1,No,1.9,False
+bbc.co.uk,qr rd ra,50,88,0,1,1,No,1.76,False
+oracle.com,qr rd ra,51,114,0,1,1,No,2.235294117647059,False
+0xrpc.io,qr rd ra ad,49,1121,3,0,1,No,22.877551020408163,True
+mit.edu,qr rd ra,48,101,0,1,1,No,2.1041666666666665,False
+sciencedirect.com,qr rd ra,58,105,0,1,1,No,1.8103448275862069,False
+xiaomi.com,qr rd ra,51,112,0,1,1,No,2.196078431372549,False
+doi.org,qr rd ra ad,48,196,2,0,1,No,4.083333333333333,True
+avast.com,qr rd ra,50,100,0,1,1,No,2.0,False
+cpanel.net,qr rd ra,51,81,0,1,1,No,1.588235294117647,False
+canva.com,qr rd ra ad,50,278,3,0,1,No,5.56,True
+vungle.com,qr rd ra,51,80,0,1,1,No,1.5686274509803921,False
+twitch.tv,qr rd ra,50,119,0,1,1,No,2.38,False
+android.com,qr rd ra,52,97,0,1,1,No,1.8653846153846154,False
+imdb.com,qr rd ra,49,105,0,1,1,No,2.142857142857143,False
+youtube-nocookie.com,qr rd ra,61,106,0,1,1,No,1.7377049180327868,False
+weather.com,qr rd ra,52,105,0,1,1,No,2.019230769230769,False
+playstation.net,qr rd ra,56,90,0,1,1,No,1.6071428571428572,False
+ebay.com,qr rd ra,49,102,0,1,1,No,2.0816326530612246,False
+wixsite.com,qr rd ra,52,105,0,1,1,No,2.019230769230769,False
+who.int,qr rd ra,48,91,0,1,1,No,1.8958333333333333,False
+static.microsoft,qr rd ra ad,57,205,2,0,1,No,3.5964912280701755,True
+scorecardresearch.com,qr rd ra,62,131,0,1,1,No,2.1129032258064515,False
+aws.dev,qr rd ra,48,123,0,1,1,No,2.5625,False
+linktr.ee,qr rd ra,50,122,0,1,1,No,2.44,False
+mail.ru,qr rd ra,48,87,0,1,1,No,1.8125,False
+hubspot.com,qr rd ra ad,52,200,2,0,1,No,3.8461538461538463,True
+yandex.com,qr rd ra,51,97,0,1,1,No,1.9019607843137254,False
+launchpad.net,qr rd ra,54,106,0,1,1,No,1.962962962962963,False
+msedge.net,qr rd ra,51,99,0,1,1,No,1.9411764705882353,False
+tinyurl.com,qr rd ra,52,107,0,1,1,No,2.0576923076923075,False
+nr-data.net,qr rd ra ad,52,280,3,0,1,No,5.384615384615385,True
+yandex.ru,qr rd ra,50,99,0,1,1,No,1.98,False
+miui.com,qr rd ra,49,110,0,1,1,No,2.2448979591836733,False
+www.gov.uk,qr rd ra,51,186,2,1,1,No,3.6470588235294117,True
+googleblog.com,qr rd ra,55,100,0,1,1,No,1.8181818181818181,False
+dropcatch.com,qr rd ra,54,102,0,1,1,No,1.8888888888888888,False
+adobe.io,qr rd ra,49,122,0,1,1,No,2.489795918367347,False
+amazon.co.uk,qr rd ra,53,112,0,1,1,No,2.1132075471698113,False
+ubuntu.com,qr rd ra,51,100,0,1,1,No,1.9607843137254901,False
+wyzecam.com,qr rd ra,52,98,0,1,1,No,1.8846153846153846,False
+wikimedia.org,qr rd ra,54,93,0,1,1,No,1.7222222222222223,False
+doubleverify.com,qr rd ra,57,119,0,1,1,No,2.087719298245614,False
+mzstatic.com,qr rd ra,53,116,0,1,1,No,2.188679245283019,False
+bilibili.com,qr rd ra,53,114,0,1,1,No,2.150943396226415,False
+php.net,qr rd ra,48,93,0,1,1,No,1.9375,False
+jsdelivr.net,qr rd ra,53,99,0,1,1,No,1.8679245283018868,False
+epicgames.com,qr rd ra,54,124,0,1,1,No,2.2962962962962963,False
+debian.org,qr rd ra ad,51,687,4,0,1,No,13.470588235294118,True
+inmobi.com,qr rd ra,51,129,0,1,1,No,2.5294117647058822,False
+reuters.com,qr rd ra,52,112,0,1,1,No,2.1538461538461537,False
+cloudflareinsights.com,qr rd ra,63,110,0,1,1,No,1.746031746031746,False
+springer.com,qr rd ra,53,106,0,1,1,No,2.0,False
+harvard.edu,qr rd ra,52,360,4,0,1,No,6.923076923076923,True
+cisco.com,qr rd ra,50,89,0,1,1,No,1.78,False
+etsy.com,qr rd ra,49,115,0,1,1,No,2.3469387755102042,False
+casalemedia.com,qr rd ra,56,105,0,1,1,No,1.875,False
+issuu.com,qr rd ra ad,50,278,3,0,1,No,5.56,True
+oxylabs.io,qr rd ra,51,101,0,1,1,No,1.9803921568627452,False
+steampowered.com,qr rd ra,57,109,0,1,1,No,1.912280701754386,False
+nature.com,qr rd ra,51,103,0,1,1,No,2.019607843137255,False
+mikrotik.com,qr rd ra,53,96,0,1,1,No,1.8113207547169812,False
+openx.net,qr rd ra,50,131,0,1,1,No,2.62,False
+media-amazon.com,qr rd ra,57,126,0,1,1,No,2.210526315789474,False
+wiley.com,qr rd ra,50,106,0,1,1,No,2.12,False
+crashlytics.com,qr rd ra,56,101,0,1,1,No,1.8035714285714286,False
+3lift.com,qr rd ra,50,122,0,1,1,No,2.44,False
+cdc.gov,qr rd ra ad,48,276,3,0,1,No,5.75,True
+stripe.com,qr rd ra,51,123,0,1,1,No,2.411764705882353,False
+weebly.com,qr rd ra,51,117,0,1,1,No,2.2941176470588234,False
+demdex.net,qr rd ra,51,104,0,1,1,No,2.0392156862745097,False
+capcutapi.com,qr rd ra,54,104,0,1,1,No,1.9259259259259258,False
+booking.com,qr rd ra,52,122,0,1,1,No,2.3461538461538463,False
+mozilla.com,qr rd ra,52,110,0,1,1,No,2.1153846153846154,False
+ibm.com,qr rd ra,48,101,0,1,1,No,2.1041666666666665,False
+clarity.ms,qr rd ra,51,125,0,1,1,No,2.450980392156863,False
+alibaba.com,qr rd ra,52,102,0,1,1,No,1.9615384615384615,False
+discord.gg,qr rd ra,51,101,0,1,1,No,1.9803921568627452,False
+ampproject.org,qr rd ra,55,103,0,1,1,No,1.8727272727272728,False
+dailymail.co.uk,qr rd ra,56,116,0,1,1,No,2.0714285714285716,False
+openai.com,qr rd ra,51,122,0,1,1,No,2.392156862745098,False
+media.net,qr rd ra,50,92,0,1,1,No,1.84,False
+un.org,qr rd ra,47,80,0,1,1,No,1.702127659574468,False
+smartadserver.com,qr rd ra,58,115,0,1,1,No,1.9827586206896552,False
+telegraph.co.uk,qr rd ra,56,128,0,1,1,No,2.2857142857142856,False
+hp.com,qr rd ra,47,105,0,1,1,No,2.234042553191489,False
+cloudflare.net,qr rd ra ad,55,203,2,0,1,No,3.690909090909091,True
+weibo.com,qr rd ra,50,102,0,1,1,No,2.04,False
+kwai-pro.com,qr rd ra,53,102,0,1,1,No,1.9245283018867925,False
+facebook.net,qr rd ra,53,98,0,1,1,No,1.849056603773585,False
+opendns.com,qr rd ra,52,86,0,1,1,No,1.6538461538461537,False
+ipv4only.arpa,qr rd ra,54,99,0,1,1,No,1.8333333333333333,False
+aliexpress.com,qr rd ra,55,105,0,1,1,No,1.9090909090909092,False
+avsxappcaptiveportal.com,qr rd ra,65,135,0,1,1,No,2.076923076923077,False
+cookielaw.org,qr rd ra,54,103,0,1,1,No,1.9074074074074074,False
+tiktokv.us,qr rd ra,51,114,0,1,1,No,2.235294117647059,False
+washingtonpost.com,qr rd ra,59,129,0,1,1,No,2.1864406779661016,False
+naver.com,qr rd ra,50,88,0,1,1,No,1.76,False
+stanford.edu,qr rd ra ad,53,201,2,0,1,No,3.792452830188679,True
+gnu.org,qr rd ra,48,87,0,1,1,No,1.8125,False
+telegram.org,qr rd ra,53,120,0,1,1,No,2.2641509433962264,False
+ibyteimg.com,qr rd ra,53,103,0,1,1,No,1.9433962264150944,False
+launchdarkly.com,qr rd ra,57,126,0,1,1,No,2.210526315789474,False
+cornell.edu,qr rd ra,52,93,0,1,1,No,1.7884615384615385,False
+expireddomains.com,qr rd ra,59,106,0,1,1,No,1.7966101694915255,False
+sc-cdn.net,qr rd ra,51,126,0,1,1,No,2.4705882352941178,False
+independent.co.uk,qr rd ra,58,108,0,1,1,No,1.8620689655172413,False
+bloomberg.com,qr rd ra,54,106,0,1,1,No,1.962962962962963,False
+adsafeprotected.com,qr rd ra,60,113,0,1,1,No,1.8833333333333333,False
+plesk.com,qr rd ra,50,97,0,1,1,No,1.94,False
+sfx.ms,qr rd ra,47,121,0,1,1,No,2.574468085106383,False
+wsj.com,qr rd ra,48,120,0,1,1,No,2.5,False
+cookiedatabase.org,qr rd ra,59,110,0,1,1,No,1.8644067796610169,False
+temu.com,qr rd ra,49,120,0,1,1,No,2.4489795918367347,False
+myshopify.com,qr rd ra,54,97,0,1,1,No,1.7962962962962963,False
+pixabay.com,qr rd ra ad,52,200,2,0,1,No,3.8461538461538463,True
+nflxso.net,qr rd ra,51,100,0,1,1,No,1.9607843137254901,False
+fastly-edge.com,qr rd ra,56,102,0,1,1,No,1.8214285714285714,False
+steamcommunity.com,qr rd ra,59,107,0,1,1,No,1.8135593220338984,False
+dailymotion.com,qr rd ra,56,89,0,1,1,No,1.5892857142857142,False
+statista.com,qr rd ra,53,111,0,1,1,No,2.0943396226415096,False
+slideshare.net,qr rd ra,55,124,0,1,1,No,2.2545454545454544,False
+indeed.com,qr rd ra ad,51,199,2,0,1,No,3.9019607843137254,True
+duckduckgo.com,qr rd ra,55,108,0,1,1,No,1.9636363636363636,False
+amazon.de,qr rd ra,50,109,0,1,1,No,2.18,False
+samsungqbe.com,qr rd ra,55,120,0,1,1,No,2.1818181818181817,False
+wp.com,qr rd ra,47,97,0,1,1,No,2.0638297872340425,False
+beian.gov.cn,qr rd ra,53,104,0,1,1,No,1.9622641509433962,False
+businessinsider.com,qr rd ra,60,113,0,1,1,No,1.8833333333333333,False
+globo.com,qr rd ra,50,91,0,1,1,No,1.82,False
+nasa.gov,qr rd ra ad,49,609,3,0,1,No,12.428571428571429,True
+speedtest.net,qr rd ra,54,129,0,1,1,No,2.388888888888889,False
+goodreads.com,qr rd ra,54,110,0,1,1,No,2.037037037037037,False
+g.page,qr rd ra ad,47,459,2,0,1,No,9.76595744680851,True
+samsungcloud.com,qr rd ra,57,127,0,1,1,No,2.2280701754385963,False
+ax-msedge.net,qr rd ra,54,102,0,1,1,No,1.8888888888888888,False
+amazonalexa.com,qr rd ra,56,112,0,1,1,No,2.0,False
+unsplash.com,qr rd ra,53,96,0,1,1,No,1.8113207547169812,False
+amazonvideo.com,qr rd ra,56,128,0,1,1,No,2.2857142857142856,False
+appsflyer.com,qr rd ra,54,124,0,1,1,No,2.2962962962962963,False
+walmart.com,qr rd ra,52,105,0,1,1,No,2.019230769230769,False
+netflix.net,qr rd ra,52,127,0,1,1,No,2.4423076923076925,False
+list-manage.com,qr rd ra,56,113,0,1,1,No,2.017857142857143,False
+telegram.me,qr rd ra,52,119,0,1,1,No,2.2884615384615383,False
+aliyuncs.com,qr rd ra,53,120,0,1,1,No,2.2641509433962264,False
+roku.com,qr rd ra,49,115,0,1,1,No,2.3469387755102042,False
+cdn77.org,qr rd ra,50,93,0,1,1,No,1.86,False
+aiv-delivery.net,qr rd ra,57,126,0,1,1,No,2.210526315789474,False
+firetvcaptiveportal.com,qr rd ra,64,136,0,1,1,No,2.125,False
+aliyun.com,qr rd ra,51,112,0,1,1,No,2.196078431372549,False
+calendly.com,qr rd ra ad,53,201,2,0,1,No,3.792452830188679,True
+yandex.net,qr rd ra,51,90,0,1,1,No,1.7647058823529411,False
+amzn.to,qr rd ra,48,107,0,1,1,No,2.2291666666666665,False
+giphy.com,qr rd ra,50,114,0,1,1,No,2.28,False
+bamgrid.com,qr rd ra,52,121,0,1,1,No,2.326923076923077,False
+scdn.co,qr rd ra,48,101,0,1,1,No,2.1041666666666665,False
+taobao.com,qr rd ra,51,101,0,1,1,No,1.9803921568627452,False
+mysql.com,qr rd ra,50,120,0,1,1,No,2.4,False
+163.com,qr rd ra,48,91,0,1,1,No,1.8958333333333333,False
+akamaized.net,qr rd ra,54,105,0,1,1,No,1.9444444444444444,False
+allawnos.com,qr rd ra,53,119,0,1,1,No,2.2452830188679247,False
+avcdn.net,qr rd ra,50,91,0,1,1,No,1.82,False
+azureedge.net,qr rd ra,54,115,0,1,1,No,2.1296296296296298,False
+bytefcdn-oversea.com,qr rd ra,61,119,0,1,1,No,1.9508196721311475,False
+byteoversea.net,qr rd ra,56,112,0,1,1,No,2.0,False
+douyincdn.com,qr rd ra,54,109,0,1,1,No,2.0185185185185186,False
+edgekey.net,qr rd ra,52,103,0,1,1,No,1.9807692307692308,False
+edgesuite.net,qr rd ra,54,105,0,1,1,No,1.9444444444444444,False
+gamepass.com,qr rd ra,53,124,0,1,1,No,2.339622641509434,False
+google.com.br,qr rd ra,54,102,0,1,1,No,1.8888888888888888,False
+heytapdl.com,qr rd ra,53,123,0,1,1,No,2.3207547169811322,False
+heytapmobile.com,qr rd ra,57,126,0,1,1,No,2.210526315789474,False
+inner-active.mobi,qr rd ra,58,117,0,1,1,No,2.0172413793103448,False
+ipify.org,qr rd ra,50,100,0,1,1,No,2.0,False
+kwai.net,qr rd ra,49,106,0,1,1,No,2.163265306122449,False
+kwaipros.com,qr rd ra,53,102,0,1,1,No,1.9245283018867925,False
+mtgglobals.com,qr rd ra,55,127,0,1,1,No,2.309090909090909,False
+nflximg.com,qr rd ra,52,121,0,1,1,No,2.326923076923077,False
+pangle.io,qr rd ra,50,100,0,1,1,No,2.0,False
+samsungcloudsolution.com,qr rd ra,65,131,0,1,1,No,2.0153846153846153,False
+shalltry.com,qr rd ra,53,122,0,1,1,No,2.30188679245283,False
+tiktokcdn-eu.com,qr rd ra,57,107,0,1,1,No,1.8771929824561404,False
+tiktokv.eu,qr rd ra,51,101,0,1,1,No,1.9803921568627452,False
+tp-link.com,qr rd ra,52,122,0,1,1,No,2.3461538461538463,False
+ttdns2.com,qr rd ra,51,106,0,1,1,No,2.0784313725490198,False
+vivoglobal.com,qr rd ra,55,110,0,1,1,No,2.0,False
+xboxlive.com,qr rd ra,53,125,0,1,1,No,2.358490566037736,False
+foxnews.com,qr rd ra ad,52,280,3,0,1,No,5.384615384615385,True
+ietf.org,qr rd ra ad,49,197,2,0,1,No,4.020408163265306,True
+scribd.com,qr rd ra,51,121,0,1,1,No,2.372549019607843,False
+indiatimes.com,qr rd ra,55,123,0,1,1,No,2.2363636363636363,False
+eventbrite.com,qr rd ra,55,127,0,1,1,No,2.309090909090909,False
+quora.com,qr rd ra,50,120,0,1,1,No,2.4,False
+wired.com,qr rd ra,50,122,0,1,1,No,2.44,False
+ok.ru,qr rd ra,46,99,0,1,1,No,2.152173913043478,False
+cnbc.com,qr rd ra,49,102,0,1,1,No,2.0816326530612246,False
+visualstudio.com,qr rd ra,57,115,0,1,1,No,2.017543859649123,False
+safebrowsing.apple,qr rd ra,59,125,0,1,1,No,2.1186440677966103,False
+trustpilot.com,qr rd ra,55,125,0,1,1,No,2.272727272727273,False
+addtoany.com,qr rd ra ad,53,201,2,0,1,No,3.792452830188679,True
+google.de,qr rd ra,50,98,0,1,1,No,1.96,False
+time.com,qr rd ra ad,49,197,2,0,1,No,4.020408163265306,True
+yahoo.co.jp,qr rd ra,52,87,0,1,1,No,1.6730769230769231,False
+grammarly.com,qr rd ra,54,120,0,1,1,No,2.2222222222222223,False
+gitlab.com,qr rd ra,51,98,0,1,1,No,1.9215686274509804,False
+deviantart.com,qr rd ra,55,125,0,1,1,No,2.272727272727273,False
+id5-sync.com,qr rd ra ad,53,201,2,0,1,No,3.792452830188679,True
+go.com,qr rd ra,47,111,0,1,1,No,2.3617021276595747,False
+espn.com,qr rd ra,49,118,0,1,1,No,2.4081632653061225,False
+npr.org,qr rd ra,48,120,0,1,1,No,2.5,False
+behance.net,qr rd ra,52,125,0,1,1,No,2.4038461538461537,False
+capcut.com,qr rd ra,51,101,0,1,1,No,1.9803921568627452,False
+fast.com,qr rd ra,49,105,0,1,1,No,2.142857142857143,False
+supercell.com,qr rd ra,54,126,0,1,1,No,2.3333333333333335,False
+tradingview.com,qr rd ra,56,126,0,1,1,No,2.25,False
+xhamster.com,qr rd ra,53,100,0,1,1,No,1.8867924528301887,False
+ya.ru,qr rd ra,46,90,0,1,1,No,1.9565217391304348,False
+amazon.co.jp,qr rd ra,53,112,0,1,1,No,2.1132075471698113,False
+line.me,qr rd ra,48,96,0,1,1,No,2.0,False
+aol.com,qr rd ra,48,113,0,1,1,No,2.3541666666666665,False
+uol.com.br,qr rd ra,51,110,0,1,1,No,2.156862745098039,False
+nvidia.com,qr rd ra,51,91,0,1,1,No,1.7843137254901962,False
+jquery.com,qr rd ra,51,100,0,1,1,No,1.9607843137254901,False
+uber.com,qr rd ra,49,107,0,1,1,No,2.183673469387755,False
+shein.com,qr rd ra,50,119,0,1,1,No,2.38,False
+huawei.com,qr rd ra,51,86,0,1,1,No,1.6862745098039216,False
+oup.com,qr rd ra,48,118,0,1,1,No,2.4583333333333335,False
+webex.com,qr rd ra,50,100,0,1,1,No,2.0,False
+google.com.hk,qr rd ra,54,102,0,1,1,No,1.8888888888888888,False
+stackoverflow.com,qr rd ra,58,107,0,1,1,No,1.8448275862068966,False
+target.com,qr rd ra,51,101,0,1,1,No,1.9803921568627452,False
+adobedtm.com,qr rd ra,53,110,0,1,1,No,2.0754716981132075,False
+firefox.com,qr rd ra,52,128,0,1,1,No,2.4615384615384617,False
+aboutads.info,qr rd ra,54,108,0,1,1,No,2.0,False
+msidentity.com,qr rd ra,55,116,0,1,1,No,2.109090909090909,False
+usatoday.com,qr rd ra,53,106,0,1,1,No,2.0,False
+svc.ms,qr rd ra,47,121,0,1,1,No,2.574468085106383,False
+uk.com,qr rd ra ad,47,459,2,0,1,No,9.76595744680851,True
+googlezip.net,qr rd ra,54,102,0,1,1,No,1.8888888888888888,False
+ft.com,qr rd ra,47,103,0,1,1,No,2.1914893617021276,False
+shopee.com.br,qr rd ra,54,123,0,1,1,No,2.2777777777777777,False
+berkeley.edu,qr rd ra ad,53,1037,5,0,1,No,19.566037735849058,True
+tandfonline.com,qr rd ra,56,102,0,1,1,No,1.8214285714285714,False
+dell.com,qr rd ra,49,88,0,1,1,No,1.7959183673469388,False
+ikea.com,qr rd ra ad,49,197,2,0,1,No,4.020408163265306,True
+rlcdn.com,qr rd ra,50,115,0,1,1,No,2.3,False
+mi.com,qr rd ra,47,143,1,1,1,No,3.0425531914893615,True
+icloud-content.com,qr rd ra,59,122,0,1,1,No,2.0677966101694913,False
+elpais.com,qr rd ra,51,115,0,1,1,No,2.2549019607843137,False
+loc.gov,qr rd ra ad,48,196,2,0,1,No,4.083333333333333,True
+googletagservices.com,qr rd ra,62,107,0,1,1,No,1.7258064516129032,False
+azurefd.net,qr rd ra,52,126,0,1,1,No,2.423076923076923,False
+cnet.com,qr rd ra,49,127,0,1,1,No,2.5918367346938775,False
+g.co,qr rd ra,45,93,0,1,1,No,2.066666666666667,False
+bidswitch.net,qr rd ra,54,94,0,1,1,No,1.7407407407407407,False
+ieee.org,qr rd ra,49,88,0,1,1,No,1.7959183673469388,False
+arxiv.org,qr rd ra,50,131,0,1,1,No,2.62,False
+slack.com,qr rd ra ad,50,278,3,0,1,No,5.56,True
+alicdn.com,qr rd ra,51,101,0,1,1,No,1.9803921568627452,False
+ip-api.com,qr rd ra,51,83,0,1,1,No,1.6274509803921569,False
+tiktokpangle.us,qr rd ra,56,119,0,1,1,No,2.125,False
+tiktokrow-cdn.com,qr rd ra,58,113,0,1,1,No,1.9482758620689655,False
+azurewebsites.net,qr rd ra,58,120,0,1,1,No,2.0689655172413794,False
+docker.com,qr rd ra,51,117,0,1,1,No,2.2941176470588234,False
+blogger.com,qr rd ra,52,97,0,1,1,No,1.8653846153846154,False
+ted.com,qr rd ra,48,120,0,1,1,No,2.5,False
+lemonde.fr,qr rd ra,51,132,0,1,1,No,2.588235294117647,False
+spiegel.de,qr rd ra,51,114,0,1,1,No,2.235294117647059,False
+2mdn.net,qr rd ra,49,97,0,1,1,No,1.9795918367346939,False
+fontawesome.com,qr rd ra,56,125,0,1,1,No,2.232142857142857,False
+service.gov.uk,qr rd ra,55,136,0,1,1,No,2.4727272727272727,False
+britannica.com,qr rd ra,55,121,0,1,1,No,2.2,False
+shutterstock.com,qr rd ra,57,126,0,1,1,No,2.210526315789474,False
+bsky.app,qr rd ra,49,124,0,1,1,No,2.5306122448979593,False
+techcrunch.com,qr rd ra,55,102,0,1,1,No,1.8545454545454545,False
+branch.io,qr rd ra,50,122,0,1,1,No,2.44,False
+agkn.com,qr rd ra,49,113,0,1,1,No,2.306122448979592,False
+tripadvisor.com,qr rd ra,56,112,0,1,1,No,2.0,False
+typekit.net,qr rd ra,52,121,0,1,1,No,2.326923076923077,False
+tapad.com,qr rd ra,50,114,0,1,1,No,2.28,False
+licdn.com,qr rd ra,50,112,0,1,1,No,2.24,False
+live.net,qr rd ra,49,124,0,1,1,No,2.5306122448979593,False
+unesco.org,qr rd ra,51,90,0,1,1,No,1.7647058823529411,False
+surveymonkey.com,qr rd ra,57,123,0,1,1,No,2.1578947368421053,False
+rakuten.co.jp,qr rd ra,54,92,0,1,1,No,1.7037037037037037,False
+teamviewer.com,qr rd ra,55,97,0,1,1,No,1.7636363636363637,False
+substack.com,qr rd ra,53,99,0,1,1,No,1.8679245283018868,False
+sina.com.cn,qr rd ra,52,93,0,1,1,No,1.7884615384615385,False
+zendesk.com,qr rd ra,52,122,0,1,1,No,2.3461538461538463,False
+jotform.com,qr rd ra ad,52,200,2,0,1,No,3.8461538461538463,True
+newrelic.com,qr rd ra ad,53,281,3,0,1,No,5.30188679245283,True
+ca.gov,qr rd ra ad,47,195,2,0,1,No,4.148936170212766,True
+withgoogle.com,qr rd ra,55,100,0,1,1,No,1.8181818181818181,False
+appcenter.ms,qr rd ra,53,127,0,1,1,No,2.3962264150943398,False
+liadm.com,qr rd ra,50,93,0,1,1,No,1.86,False
+mediafire.com,qr rd ra ad,54,202,2,0,1,No,3.740740740740741,True
+nike.com,qr rd ra,49,90,0,1,1,No,1.836734693877551,False
+allaboutcookies.org,qr rd ra,60,208,2,0,1,No,3.466666666666667,True
+meraki.com,qr rd ra,51,123,0,1,1,No,2.411764705882353,False
+ipinfo.io,qr rd ra,50,131,0,1,1,No,2.62,False
+outbrain.com,qr rd ra,53,106,0,1,1,No,2.0,False
+wildberries.ru,qr rd ra,55,87,0,1,1,No,1.5818181818181818,False
+amplitude.com,qr rd ra,54,124,0,1,1,No,2.2962962962962963,False
+mdpi.com,qr rd ra,49,197,2,0,1,No,4.020408163265306,True
+cbsnews.com,qr rd ra,52,105,0,1,1,No,2.019230769230769,False
+free.fr,qr rd ra,48,105,0,1,1,No,2.1875,False
+google.co.uk,qr rd ra,53,101,0,1,1,No,1.9056603773584906,False
+1rx.io,qr rd ra,47,100,0,1,1,No,2.127659574468085,False
+networkadvertising.org,qr rd ra,63,132,0,1,1,No,2.0952380952380953,False
+nikkei.com,qr rd ra,51,106,0,1,1,No,2.0784313725490198,False
+onetrust.com,qr rd ra ad,53,201,2,0,1,No,3.792452830188679,True
+nel.goog,qr rd ra,49,97,0,1,1,No,1.9795918367346939,False
+sagepub.com,qr rd ra,52,103,0,1,1,No,1.9807692307692308,False
+fb.com,qr rd ra,47,89,0,1,1,No,1.8936170212765957,False
+sharethrough.com,qr rd ra,57,123,0,1,1,No,2.1578947368421053,False
+people.com,qr rd ra,51,109,0,1,1,No,2.1372549019607843,False
+stackadapt.com,qr rd ra,55,124,0,1,1,No,2.2545454545454544,False
+dotomi.com,qr rd ra,51,107,0,1,1,No,2.0980392156862746,False
+wix.com,qr rd ra,48,101,0,1,1,No,2.1041666666666665,False
+lijit.com,qr rd ra,50,103,0,1,1,No,2.06,False
+ameblo.jp,qr rd ra,50,123,0,1,1,No,2.46,False
+dzen.ru,qr rd ra,48,92,0,1,1,No,1.9166666666666667,False
+he.net,qr rd ra,47,86,0,1,1,No,1.8297872340425532,False
+crwdcntrl.net,qr rd ra,54,123,0,1,1,No,2.2777777777777777,False
+redhat.com,qr rd ra,51,104,0,1,1,No,2.0392156862745097,False
+squarespace.com,qr rd ra,56,108,0,1,1,No,1.9285714285714286,False
+intel.com,qr rd ra,50,89,0,1,1,No,1.78,False
+browser-intake-datadoghq.com,qr rd ra,69,141,0,1,1,No,2.0434782608695654,False
+amazon.fr,qr rd ra,50,109,0,1,1,No,2.18,False
+creativecdn.com,qr rd ra,56,125,0,1,1,No,2.232142857142857,False
+fiverr.com,qr rd ra,51,98,0,1,1,No,1.9215686274509804,False
+accuweather.com,qr rd ra,56,96,0,1,1,No,1.7142857142857142,False
+erome.com,qr rd ra,50,96,0,1,1,No,1.92,False
+ozon.ru,qr rd ra,48,91,0,1,1,No,1.8958333333333333,False
+shopee.co.id,qr rd ra,53,125,0,1,1,No,2.358490566037736,False
+stripchat.com,qr rd ra,54,100,0,1,1,No,1.8518518518518519,False
+wattpad.com,qr rd ra,52,124,0,1,1,No,2.3846153846153846,False
+wp.pl,qr rd ra,46,90,0,1,1,No,1.9565217391304348,False
+xvideos.com,qr rd ra,52,99,0,1,1,No,1.9038461538461537,False
+omtrdc.net,qr rd ra,51,107,0,1,1,No,2.0980392156862746,False
+imgur.com,qr rd ra,50,120,0,1,1,No,2.4,False
+salesforce.com,qr rd ra ad,55,203,2,0,1,No,3.690909090909091,True
+360yield.com,qr rd ra,53,123,0,1,1,No,2.3207547169811322,False
+eye4.cn,qr rd ra,48,112,0,1,1,No,2.3333333333333335,False
+braze.com,qr rd ra,50,122,0,1,1,No,2.44,False
+amazon.ca,qr rd ra,50,109,0,1,1,No,2.18,False
+prnewswire.com,qr rd ra,55,101,0,1,1,No,1.8363636363636364,False
+lefigaro.fr,qr rd ra,52,96,0,1,1,No,1.8461538461538463,False
+adform.net,qr rd ra,51,96,0,1,1,No,1.8823529411764706,False
+playstation.com,qr rd ra,56,125,0,1,1,No,2.232142857142857,False
+mailchimp.com,qr rd ra,54,101,0,1,1,No,1.8703703703703705,False
+hbr.org,qr rd ra,48,117,0,1,1,No,2.4375,False
+yelp.com,qr rd ra,49,102,0,1,1,No,2.0816326530612246,False
+quantserve.com,qr rd ra,55,121,0,1,1,No,2.2,False
+bidr.io,qr rd ra,48,123,0,1,1,No,2.5625,False
+fda.gov,qr rd ra ad,48,608,3,0,1,No,12.666666666666666,True
+theverge.com,qr rd ra,53,123,0,1,1,No,2.3207547169811322,False
+zillow.com,qr rd ra,51,100,0,1,1,No,1.9607843137254901,False
+xbox.com,qr rd ra,49,121,0,1,1,No,2.4693877551020407,False
+hindustantimes.com,qr rd ra,59,116,0,1,1,No,1.9661016949152543,False
+turn.com,qr rd ra,49,102,0,1,1,No,2.0816326530612246,False
+kaspersky.com,qr rd ra,54,114,0,1,1,No,2.111111111111111,False
+google.cn,qr rd ra,50,98,0,1,1,No,1.96,False
+bandcamp.com,qr rd ra,53,131,0,1,1,No,2.4716981132075473,False
+githubusercontent.com,qr rd ra,62,115,0,1,1,No,1.8548387096774193,False
+smaato.net,qr rd ra,51,126,0,1,1,No,2.4705882352941178,False
+pendo.io,qr rd ra ad,49,461,2,0,1,No,9.408163265306122,True
+sentinelone.net,qr rd ra,56,129,0,1,1,No,2.3035714285714284,False
+bugsnag.com,qr rd ra,52,122,0,1,1,No,2.3461538461538463,False
+cambridge.org,qr rd ra,54,103,0,1,1,No,1.9074074074074074,False
+teads.tv,qr rd ra,49,122,0,1,1,No,2.489795918367347,False
+tencent.com,qr rd ra,52,93,0,1,1,No,1.7884615384615385,False
+welt.de,qr rd ra ad,48,608,3,0,1,No,12.666666666666666,True
+investopedia.com,qr rd ra,57,115,0,1,1,No,2.017543859649123,False
+myspace.com,qr rd ra,52,130,0,1,1,No,2.5,False
+go-mpulse.net,qr rd ra,54,110,0,1,1,No,2.037037037037037,False
+themeforest.net,qr rd ra ad,56,204,2,0,1,No,3.642857142857143,True
+ebay.co.uk,qr rd ra,51,112,0,1,1,No,2.196078431372549,False
+usps.com,qr rd ra,49,106,0,1,1,No,2.163265306122449,False
+mixpanel.com,qr rd ra,53,131,0,1,1,No,2.4716981132075473,False
+ups.com,qr rd ra ad,48,756,4,0,1,No,15.75,True
+washington.edu,qr rd ra,55,102,0,1,1,No,1.8545454545454545,False
+ea.com,qr rd ra,47,105,0,1,1,No,2.234042553191489,False
+everesttech.net,qr rd ra,56,112,0,1,1,No,2.0,False
+pinimg.com,qr rd ra,51,109,0,1,1,No,2.1372549019607843,False
+iso.org,qr rd ra,48,97,0,1,1,No,2.0208333333333335,False
+mckinsey.com,qr rd ra,53,92,0,1,1,No,1.7358490566037736,False
+yieldmo.com,qr rd ra,52,118,0,1,1,No,2.269230769230769,False
+nypost.com,qr rd ra,51,123,0,1,1,No,2.411764705882353,False
+33across.com,qr rd ra,53,97,0,1,1,No,1.830188679245283,False
+twimg.com,qr rd ra,50,103,0,1,1,No,2.06,False
+clever.com,qr rd ra,51,121,0,1,1,No,2.372549019607843,False
+qualtrics.com,qr rd ra ad,54,138,2,0,1,No,2.5555555555555554,True
+latimes.com,qr rd ra,52,122,0,1,1,No,2.3461538461538463,False
+princeton.edu,qr rd ra,54,102,0,1,1,No,1.8888888888888888,False
+flashtalking.com,qr rd ra,57,110,0,1,1,No,1.9298245614035088,False
+onetag-sys.com,qr rd ra,55,99,0,1,1,No,1.8,False
+criteo.net,qr rd ra,51,93,0,1,1,No,1.8235294117647058,False
+trendmicro.com,qr rd ra ad,55,283,3,0,1,No,5.1454545454545455,True
+exp-tas.com,qr rd ra,52,123,0,1,1,No,2.3653846153846154,False
+unpkg.com,qr rd ra,50,99,0,1,1,No,1.98,False
+newsweek.com,qr rd ra,53,122,0,1,1,No,2.30188679245283,False
+verisign.com,qr rd ra ad,53,613,3,0,1,No,11.566037735849056,True
+b-cdn.net,qr rd ra,50,101,0,1,1,No,2.02,False
+a-mo.net,qr rd ra,49,124,0,1,1,No,2.5306122448979593,False
+telephony.goog,qr rd ra,55,103,0,1,1,No,1.8727272727272728,False
+seznam.cz,qr rd ra ad,50,198,2,0,1,No,3.96,True
+fwmrm.net,qr rd ra,50,100,0,1,1,No,2.0,False
+fandom.com,qr rd ra,51,121,0,1,1,No,2.372549019607843,False
+nationalgeographic.com,qr rd ra,63,130,0,1,1,No,2.0634920634920637,False
+mailchi.mp,qr rd ra,51,111,0,1,1,No,2.176470588235294,False
+optimizely.com,qr rd ra ad,55,203,2,0,1,No,3.690909090909091,True
+pages.dev,qr rd ra,50,99,0,1,1,No,1.98,False
+autodesk.com,qr rd ra ad,53,281,3,0,1,No,5.30188679245283,True
+whitehouse.gov,qr rd ra ad,55,203,2,0,1,No,3.690909090909091,True
+classlink.com,qr rd ra,54,120,0,1,1,No,2.2222222222222223,False
+thenai.org,qr rd ra,51,120,0,1,1,No,2.3529411764705883,False
+worldbank.org,qr rd ra,54,129,0,1,1,No,2.388888888888889,False
+threads.com,qr rd ra,52,94,0,1,1,No,1.8076923076923077,False
+sedo.com,qr rd ra,49,97,0,1,1,No,1.9795918367346939,False
+rbxcdn.com,qr rd ra,51,104,0,1,1,No,2.0392156862745097,False
+xiaomi.net,qr rd ra,51,115,0,1,1,No,2.2549019607843137,False
+webmd.com,qr rd ra,50,97,0,1,1,No,1.94,False
+mayoclinic.org,qr rd ra,55,96,0,1,1,No,1.7454545454545454,False
+wbx2.com,qr rd ra,49,118,0,1,1,No,2.4081632653061225,False
+frontiersin.org,qr rd ra,56,130,0,1,1,No,2.3214285714285716,False
+readthedocs.io,qr rd ra,55,105,0,1,1,No,1.9090909090909092,False
+grammarly.io,qr rd ra,53,126,0,1,1,No,2.3773584905660377,False
+weforum.org,qr rd ra,52,121,0,1,1,No,2.326923076923077,False
+epa.gov,qr rd ra ad,48,608,3,0,1,No,12.666666666666666,True
+usda.gov,qr rd ra ad,49,437,5,0,1,No,8.918367346938776,True
+yellowblue.io,qr rd ra,54,126,0,1,1,No,2.3333333333333335,False
+merkle.io,qr rd ra ad,50,198,2,0,1,No,3.96,True
+merriam-webster.com,qr rd ra,60,129,0,1,1,No,2.15,False
+academia.edu,qr rd ra,53,126,0,1,1,No,2.3773584905660377,False
+freepik.com,qr rd ra,52,97,0,1,1,No,1.8653846153846154,False
+buzzfeed.com,qr rd ra,53,123,0,1,1,No,2.3207547169811322,False
+life360.com,qr rd ra,52,122,0,1,1,No,2.3461538461538463,False
+intercom.io,qr rd ra,52,120,0,1,1,No,2.3076923076923075,False
+theatlantic.com,qr rd ra,56,134,0,1,1,No,2.392857142857143,False
+youronlinechoices.com,qr rd ra,62,118,0,1,1,No,1.903225806451613,False
+azure-devices.net,qr rd ra,58,119,0,1,1,No,2.0517241379310347,False
+gumgum.com,qr rd ra,51,121,0,1,1,No,2.372549019607843,False
+wpguardian.com,qr rd ra ad,55,203,2,0,1,No,3.690909090909091,True
+wpguardian.io,qr rd ra,54,104,0,1,1,No,1.9259259259259258,False
+livejournal.com,qr rd ra,56,108,0,1,1,No,1.9285714285714286,False
+intuit.com,qr rd ra,51,100,0,1,1,No,1.9607843137254901,False
+unrulymedia.com,qr rd ra,56,126,0,1,1,No,2.25,False
+byteglb.com,qr rd ra,52,108,0,1,1,No,2.076923076923077,False
+disqus.com,qr rd ra,51,117,0,1,1,No,2.2941176470588234,False
+youku.com,qr rd ra,50,90,0,1,1,No,1.8,False
+jd.com,qr rd ra,47,35,0,0,1,No,0.7446808510638298,False
+marriott.com,qr rd ra,53,109,0,1,1,No,2.056603773584906,False
+python.org,qr rd ra,51,126,0,1,1,No,2.4705882352941178,False
+healthline.com,qr rd ra,55,121,0,1,1,No,2.2,False
+deloitte.com,qr rd ra,53,114,0,1,1,No,2.150943396226415,False
+w3schools.com,qr rd ra,54,123,0,1,1,No,2.2777777777777777,False
+amazon.com.br,qr rd ra,54,113,0,1,1,No,2.0925925925925926,False
+magazineluiza.com.br,qr rd ra,61,130,0,1,1,No,2.1311475409836067,False
+avito.ru,qr rd ra,49,90,0,1,1,No,1.836734693877551,False
+prodregistryv2.org,qr rd ra,59,129,0,1,1,No,2.1864406779661016,False
+eu-1-id5-sync.com,qr rd ra ad,58,206,2,0,1,No,3.5517241379310347,True
+nbcnews.com,qr rd ra,52,98,0,1,1,No,1.8846153846153846,False
+dribbble.com,qr rd ra,53,96,0,1,1,No,1.8113207547169812,False
+byteconnect.io,qr rd ra,55,106,0,1,1,No,1.9272727272727272,False
+cloudsink.net,qr rd ra ad,54,282,3,0,1,No,5.222222222222222,True
+huffingtonpost.com,qr rd ra,59,108,0,1,1,No,1.8305084745762712,False
+appspot.com,qr rd ra,52,97,0,1,1,No,1.8653846153846154,False
+kickstarter.com,qr rd ra,56,108,0,1,1,No,1.9285714285714286,False
+atlassian.com,qr rd ra,54,282,3,0,1,No,5.222222222222222,True
+umbrella.com,qr rd ra,53,102,0,1,1,No,1.9245283018867925,False
+apnews.com,qr rd ra ad,51,199,2,0,1,No,3.9019607843137254,True
+google.fr,qr rd ra,50,98,0,1,1,No,1.96,False
+biomedcentral.com,qr rd ra,58,120,0,1,1,No,2.0689655172413794,False
+pexels.com,qr rd ra,51,98,0,1,1,No,1.9215686274509804,False
+change.org,qr rd ra,51,126,0,1,1,No,2.4705882352941178,False
+sc-gw.com,qr rd ra,50,119,0,1,1,No,2.38,False
+columbia.edu,qr rd ra,53,96,0,1,1,No,1.8113207547169812,False
+rutube.ru,qr rd ra,50,89,0,1,1,No,1.78,False
+msftauth.net,qr rd ra,53,127,0,1,1,No,2.3962264150943398,False
+noaa.gov,qr rd ra ad,49,461,2,0,1,No,9.408163265306122,True
+dual-s-msedge.net,qr rd ra,58,106,0,1,1,No,1.8275862068965518,False
+state.gov,qr rd ra ad,50,1418,5,0,1,Yes,28.36,True
+plos.org,qr rd ra,49,99,0,1,1,No,2.020408163265306,False
+google.es,qr rd ra,50,98,0,1,1,No,1.96,False
+openstreetmap.org,qr rd ra ad,58,206,2,0,1,No,3.5517241379310347,True
+ox.ac.uk,qr rd ra,49,95,0,1,1,No,1.9387755102040816,False
+publicnode.com,qr rd ra ad,55,203,2,0,1,No,3.690909090909091,True
+umich.edu,qr rd ra ad,50,278,3,0,1,No,5.56,True
+discogs.com,qr rd ra,52,124,0,1,1,No,2.3846153846153846,False
+businesswire.com,qr rd ra,57,98,0,1,1,No,1.719298245614035,False
+google.ca,qr rd ra,50,98,0,1,1,No,1.96,False
+adjust.com,qr rd ra,51,104,0,1,1,No,2.0392156862745097,False
+theconversation.com,qr rd ra,60,104,0,1,1,No,1.7333333333333334,False
+apa.org,qr rd ra,48,118,0,1,1,No,2.4583333333333335,False
+oecd.org,qr rd ra,49,104,0,1,1,No,2.122448979591837,False
+pbs.org,qr rd ra,48,120,0,1,1,No,2.5,False
+google.co.jp,qr rd ra,53,101,0,1,1,No,1.9056603773584906,False
+huffpost.com,qr rd ra,53,102,0,1,1,No,1.9245283018867925,False
+economist.com,qr rd ra,54,107,0,1,1,No,1.9814814814814814,False
+122da.com,qr rd ra,50,115,0,1,1,No,2.3,False
+18comic.vip,qr rd ra,52,102,0,1,1,No,1.9615384615384615,False
+1mg.com,qr rd ra,48,94,0,1,1,No,1.9583333333333333,False
+24h.com.vn,qr rd ra,51,88,0,1,1,No,1.7254901960784315,False
+24xxxx.win,qr rd ra,51,103,0,1,1,No,2.019607843137255,False
+3bmeteo.com,qr rd ra,52,99,0,1,1,No,1.9038461538461537,False
+3ckz.com,qr rd ra,49,122,1,1,1,No,2.489795918367347,True
+52shuku.net,qr rd ra ad,52,200,2,0,1,No,3.8461538461538463,True
+5movierulz.dental,qr rd ra,58,110,0,1,1,No,1.896551724137931,False
+66lottery20.com,qr rd ra,56,117,0,1,1,No,2.0892857142857144,False
+69shuba.com,qr rd ra,52,99,0,1,1,No,1.9038461538461537,False
+8lyyu1vb4.com,qr rd ra,54,126,0,1,1,No,2.3333333333333335,False
+aajtak.in,qr rd ra,50,110,0,1,1,No,2.2,False
+abc.es,qr rd ra,47,128,0,1,1,No,2.723404255319149,False
+acesso.gov.br,qr rd ra,54,104,0,1,1,No,1.9259259259259258,False
+action.com,qr rd ra,51,199,2,0,1,No,3.9019607843137254,True
+actu.fr,qr rd ra,48,99,0,1,1,No,2.0625,False
+ad.nl,qr rd ra ad,46,274,3,0,1,No,5.956521739130435,True
+afribaba.com,qr rd ra,53,201,2,0,1,No,3.792452830188679,True
+aftonbladet.se,qr rd ra,55,107,0,1,1,No,1.9454545454545455,False
+agoda.com,qr rd ra,50,115,0,1,1,No,2.3,False
+ak2yy.com,qr rd ra,50,108,0,1,1,No,2.16,False
+allegro.pl,qr rd ra,51,92,0,1,1,No,1.803921568627451,False
+allocine.fr,qr rd ra ad,52,200,2,0,1,No,3.8461538461538463,True
+amazon.com.au,qr rd ra,54,113,0,1,1,No,2.0925925925925926,False
+amazon.com.mx,qr rd ra,54,113,0,1,1,No,2.0925925925925926,False
+amazon.com.tr,qr rd ra,54,113,0,1,1,No,2.0925925925925926,False
+amazon.es,qr rd ra,50,109,0,1,1,No,2.18,False
+amazon.in,qr rd ra,50,109,0,1,1,No,2.18,False
+amazon.it,qr rd ra,50,109,0,1,1,No,2.18,False
+ameba.jp,qr rd ra,49,118,0,1,1,No,2.4081632653061225,False
+an1.com,qr rd ra,48,100,0,1,1,No,2.0833333333333335,False
+ancestry.com,qr rd ra,53,101,0,1,1,No,1.9056603773584906,False
+animanch.com,qr rd ra,53,99,0,1,1,No,1.8679245283018868,False
+aniwatchtv.to,qr rd ra,54,106,0,1,1,No,1.962962962962963,False
+annunci69.it,qr rd ra,53,101,0,1,1,No,1.9056603773584906,False
+antarvasna3.com,qr rd ra,56,103,0,1,1,No,1.8392857142857142,False
+anwap.today,qr rd ra,52,106,0,1,1,No,2.0384615384615383,False
+aparat.com,qr rd ra,51,95,0,1,1,No,1.8627450980392157,False
+apornvideo.com,qr rd ra,55,102,0,1,1,No,1.8545454545454545,False
+arabtnt.com,qr rd ra,52,104,0,1,1,No,2.0,False
+arabx.cam,qr rd ra,50,100,0,1,1,No,2.0,False
+arbada.com,qr rd ra,51,98,0,1,1,No,1.9215686274509804,False
+arca.live,qr rd ra,50,100,0,1,1,No,2.0,False
+archiveofourown.org,qr rd ra,60,112,0,1,1,No,1.8666666666666667,False
+argos.co.uk,qr rd ra,52,116,0,1,1,No,2.230769230769231,False
+as.com,qr rd ra,47,100,0,1,1,No,2.127659574468085,False
+asd.homes,qr rd ra,50,100,0,1,1,No,2.0,False
+asuracomic.net,qr rd ra,55,106,0,1,1,No,1.9272727272727272,False
+aternos.org,qr rd ra ad,52,200,2,0,1,No,3.8461538461538463,True
+aucey.com,qr rd ra,50,96,0,1,1,No,1.92,False
+autoplius.lt,qr rd ra,53,104,0,1,1,No,1.9622641509433962,False
+av19.ink,qr rd ra,49,100,0,1,1,No,2.0408163265306123,False
+avsubthai.me,qr rd ra,53,201,2,0,1,No,3.792452830188679,True
+az24.vn,qr rd ra,48,98,0,1,1,No,2.0416666666666665,False
+aznude.com,qr rd ra ad,51,199,2,0,1,No,3.9019607843137254,True
+bakusai.com,qr rd ra,52,115,0,1,1,No,2.2115384615384617,False
+bancodevenezuela.com,qr rd ra,61,110,0,1,1,No,1.8032786885245902,False
+bankofamerica.com,qr rd ra ad,58,470,2,0,1,No,8.10344827586207,True
+banvenez.com,qr rd ra,53,102,0,1,1,No,1.9245283018867925,False
+bato.si,qr rd ra,48,100,0,1,1,No,2.0833333333333335,False
+bato.to,qr rd ra,48,97,0,1,1,No,2.0208333333333335,False
+battwo.com,qr rd ra,51,100,0,1,1,No,1.9607843137254901,False
+bebesong.com,qr rd ra,53,101,0,1,1,No,1.9056603773584906,False
+bestbuy.com,qr rd ra,52,116,0,1,1,No,2.230769230769231,False
+bet365.com,qr rd ra,51,96,0,1,1,No,1.8823529411764706,False
+betika.com,qr rd ra,51,98,0,1,1,No,1.9215686274509804,False
+betking.com,qr rd ra,52,101,0,1,1,No,1.9423076923076923,False
+betpawa.ug,qr rd ra,51,103,0,1,1,No,2.019607843137255,False
+betway.co.za,qr rd ra,53,103,0,1,1,No,1.9433962264150944,False
+bfmtv.com,qr rd ra,50,116,0,1,1,No,2.32,False
+bhojpurisex.site,qr rd ra,57,107,0,1,1,No,1.8771929824561404,False
+biblegateway.com,qr rd ra,57,127,0,1,1,No,2.2280701754385963,False
+bikewale.com,qr rd ra,53,125,0,1,1,No,2.358490566037736,False
+bild.de,qr rd ra ad,48,608,3,0,1,No,12.666666666666666,True
+bilibili.tv,qr rd ra,52,133,0,1,1,No,2.5576923076923075,False
+bingoplus.com,qr rd ra,54,146,1,1,1,No,2.7037037037037037,True
+blacktoon410.com,qr rd ra,57,105,0,1,1,No,1.8421052631578947,False
+blic.rs,qr rd ra,48,83,0,1,1,No,1.7291666666666667,False
+blooket.com,qr rd ra ad,52,200,2,0,1,No,3.8461538461538463,True
+boardgamearena.com,qr rd ra,59,107,0,1,1,No,1.8135593220338984,False
+bol.com,qr rd ra ad,48,196,2,0,1,No,4.083333333333333,True
+bookmark.xxx,qr rd ra,53,106,0,1,1,No,2.0,False
+bookmyshow.com,qr rd ra ad,55,203,2,0,1,No,3.690909090909091,True
+botinok.porn,qr rd ra,53,113,0,1,1,No,2.1320754716981134,False
+boyfriendtv.com,qr rd ra,56,103,0,1,1,No,1.8392857142857142,False
+bpexch.net,qr rd ra,51,103,0,1,1,No,2.019607843137255,False
+bt.dk,qr rd ra,46,119,0,1,1,No,2.5869565217391304,False
+caixa.gov.br,qr rd ra,53,201,2,0,1,No,3.792452830188679,True
+calculator.net,qr rd ra,55,113,0,1,1,No,2.0545454545454547,False
+caliente.mx,qr rd ra ad,52,200,2,0,1,No,3.8461538461538463,True
+cam4.com,qr rd ra,49,115,0,1,1,No,2.3469387755102042,False
+cardekho.com,qr rd ra,53,125,0,1,1,No,2.358490566037736,False
+cardgames.io,qr rd ra,53,126,0,1,1,No,2.3773584905660377,False
+cardmarket.com,qr rd ra ad,55,203,2,0,1,No,3.690909090909091,True
+carsensor.net,qr rd ra,54,108,0,1,1,No,2.0,False
+carwale.com,qr rd ra,52,122,0,1,1,No,2.3461538461538463,False
+casinoplus.com.ph,qr rd ra,58,108,0,1,1,No,1.8620689655172413,False
+cdiscount.com,qr rd ra,54,120,0,1,1,No,2.2222222222222223,False
+ceneo.pl,qr rd ra,49,98,0,1,1,No,2.0,False
+character.ai,qr rd ra,53,103,0,1,1,No,1.9433962264150944,False
+chaturbate.com,qr rd ra ad,55,203,2,0,1,No,3.690909090909091,True
+chess.com,qr rd ra,50,96,0,1,1,No,1.92,False
+chordtela.com,qr rd ra ad,54,202,2,0,1,No,3.740740740740741,True
+cityheaven.net,qr rd ra,55,130,0,1,1,No,2.3636363636363638,False
+clickpetroleoegas.com.br,qr rd ra,65,115,0,1,1,No,1.7692307692307692,False
+cmoa.jp,qr rd ra,48,98,0,1,1,No,2.0416666666666665,False
+cnnbrasil.com.br,qr rd ra,57,131,0,1,1,No,2.2982456140350878,False
+com.be,qr rd ra,47,106,0,1,1,No,2.25531914893617,False
+com.se,qr rd ra ad,47,459,2,0,1,No,9.76595744680851,True
+conectate.com.do,qr rd ra,57,107,0,1,1,No,1.8771929824561404,False
+cookpad.com,qr rd ra,52,124,0,1,1,No,2.3846153846153846,False
+coolmathgames.com,qr rd ra,58,107,0,1,1,No,1.8448275862068966,False
+corriere.it,qr rd ra,52,123,0,1,1,No,2.3653846153846154,False
+costco.com,qr rd ra,51,108,0,1,1,No,2.1176470588235294,False
+coupang.com,qr rd ra,52,121,0,1,1,No,2.326923076923077,False
+crazygames.com,qr rd ra ad,55,203,2,0,1,No,3.690909090909091,True
+cricbuzz.com,qr rd ra,53,96,0,1,1,No,1.8113207547169812,False
+cronista.com,qr rd ra,53,117,0,1,1,No,2.207547169811321,False
+croxyproxy.com,qr rd ra,55,104,0,1,1,No,1.8909090909090909,False
+czbooks.net,qr rd ra,52,102,0,1,1,No,1.9615384615384615,False
+dafont.com,qr rd ra,51,101,0,1,1,No,1.9803921568627452,False
+dagbladet.no,qr rd ra ad,53,201,2,0,1,No,3.792452830188679,True
+dantri.com.vn,qr rd ra,54,92,0,1,1,No,1.7037037037037037,False
+darkero.com,qr rd ra,52,99,0,1,1,No,1.9038461538461537,False
+daum.net,qr rd ra,49,94,0,1,1,No,1.9183673469387754,False
+dcinside.com,qr rd ra,53,105,0,1,1,No,1.9811320754716981,False
+delgarm.com,qr rd ra,52,103,0,1,1,No,1.9807692307692308,False
+desikahani2.net,qr rd ra,56,106,0,1,1,No,1.8928571428571428,False
+desitales2.com,qr rd ra,55,102,0,1,1,No,1.8545454545454545,False
+desitelugusex.com,qr rd ra,58,106,0,1,1,No,1.8275862068965518,False
+digikala.com,qr rd ra,53,121,0,1,1,No,2.2830188679245285,False
+diretta.it,qr rd ra,51,116,0,1,1,No,2.2745098039215685,False
+disneyplus.com,qr rd ra,55,118,0,1,1,No,2.1454545454545455,False
+divar.ir,qr rd ra,49,108,0,1,1,No,2.204081632653061,False
+dkitrxmdwoqruvsi.net,qr rd ra,61,130,0,1,1,No,2.1311475409836067,False
+dlsite.com,qr rd ra,51,120,0,1,1,No,2.3529411764705883,False
+dmm.co.jp,qr rd ra,50,113,0,1,1,No,2.26,False
+docomo.ne.jp,qr rd ra,53,101,0,1,1,No,1.9056603773584906,False
+dogdrip.net,qr rd ra,52,103,0,1,1,No,1.9807692307692308,False
+donmai.us,qr rd ra ad,50,198,2,0,1,No,3.96,True
+dpboss.boston,qr rd ra,54,105,0,1,1,No,1.9444444444444444,False
+drom.ru,qr rd ra,48,86,0,1,1,No,1.7916666666666667,False
+dto.jp,qr rd ra,47,116,0,1,1,No,2.4680851063829787,False
+dzexams.com,qr rd ra,52,98,0,1,1,No,1.8846153846153846,False
+e-hentai.org,qr rd ra,53,103,0,1,1,No,1.9433962264150944,False
+e621.net,qr rd ra ad,49,197,2,0,1,No,4.020408163265306,True
+ebay.de,qr rd ra,48,109,0,1,1,No,2.2708333333333335,False
+ebay.it,qr rd ra,48,109,0,1,1,No,2.2708333333333335,False
+eci.gov.in,qr rd ra,51,91,0,1,1,No,1.7843137254901962,False
+ecnavi.jp,qr rd ra,50,122,0,1,1,No,2.44,False
+ecosia.org,qr rd ra,51,121,0,1,1,No,2.372549019607843,False
+eenadu.net,qr rd ra,51,120,0,1,1,No,2.3529411764705883,False
+ekstrabladet.dk,qr rd ra,56,128,0,1,1,No,2.2857142857142856,False
+elconfidencial.com,qr rd ra,59,129,0,1,1,No,2.1864406779661016,False
+elcorteingles.es,qr rd ra,57,111,0,1,1,No,1.9473684210526316,False
+elephantbet.co.mz,qr rd ra,58,106,0,1,1,No,1.8275862068965518,False
+eltiempo.es,qr rd ra,52,121,0,1,1,No,2.326923076923077,False
+emag.ro,qr rd ra,48,87,0,1,1,No,1.8125,False
+emaktab.uz,qr rd ra,51,98,0,1,1,No,1.9215686274509804,False
+epfindia.gov.in,qr rd ra,56,96,0,1,1,No,1.7142857142857142,False
+eporner.com,qr rd ra,52,89,0,1,1,No,1.7115384615384615,False
+eroterest.net,qr rd ra,54,110,0,1,1,No,2.037037037037037,False
+escort.club,qr rd ra,52,104,0,1,1,No,2.0,False
+escortbabylon.net,qr rd ra,58,110,0,1,1,No,1.896551724137931,False
+espncricinfo.com,qr rd ra,57,129,0,1,1,No,2.263157894736842,False
+ewaybillgst.gov.in,qr rd ra,59,99,0,1,1,No,1.6779661016949152,False
+examinationservices.nic.in,qr rd ra ad,67,106,0,1,1,No,1.5820895522388059,False
+exclusive-spin.com,qr rd ra,59,107,0,1,1,No,1.8135593220338984,False
+exhentai.org,qr rd ra,53,103,0,1,1,No,1.9433962264150944,False
+ey43.com,qr rd ra,49,99,0,1,1,No,2.020408163265306,False
+fabguys.com,qr rd ra,52,118,0,1,1,No,2.269230769230769,False
+fabswingers.com,qr rd ra,56,125,0,1,1,No,2.232142857142857,False
+fanfiction.net,qr rd ra,55,102,0,1,1,No,1.8545454545454545,False
+fanmtl.com,qr rd ra,51,98,0,1,1,No,1.9215686274509804,False
+fantia.jp,qr rd ra,50,93,0,1,1,No,1.86,False
+fapello.com,qr rd ra,52,99,0,1,1,No,1.9038461538461537,False
+faphouse.com,qr rd ra,53,100,0,1,1,No,1.8867924528301887,False
+faphouse.tv,qr rd ra,52,102,0,1,1,No,1.9615384615384615,False
+fastdl.app,qr rd ra,51,103,0,1,1,No,2.019607843137255,False
+fatalmodel.com,qr rd ra,55,102,0,1,1,No,1.8545454545454545,False
+fdown.net,qr rd ra,50,100,0,1,1,No,2.0,False
+fetlife.com,qr rd ra,52,100,0,1,1,No,1.9230769230769231,False
+ficbook.net,qr rd ra ad,52,200,2,0,1,No,3.8461538461538463,True
+filmweb.pl,qr rd ra,51,108,0,1,1,No,2.1176470588235294,False
+filmyfiy.top,qr rd ra,53,105,0,1,1,No,1.9811320754716981,False
+filmyfly.how,qr rd ra,53,104,0,1,1,No,1.9622641509433962,False
+finn.no,qr rd ra,48,118,0,1,1,No,2.4583333333333335,False
+flashscore.com,qr rd ra,55,120,0,1,1,No,2.1818181818181817,False
+flashscore.fr,qr rd ra,54,119,0,1,1,No,2.2037037037037037,False
+flashscore.mobi,qr rd ra,56,112,0,1,1,No,2.0,False
+flipkart.com,qr rd ra,53,104,0,1,1,No,1.9622641509433962,False
+fmkorea.com,qr rd ra,52,124,0,1,1,No,2.3846153846153846,False
+focus.de,qr rd ra,49,109,0,1,1,No,2.2244897959183674,False
+forebet.com,qr rd ra,52,200,2,0,1,No,3.8461538461538463,True
+fpo.xxx,qr rd ra,48,100,0,1,1,No,2.0833333333333335,False
+franceinfo.fr,qr rd ra,54,113,0,1,1,No,2.0925925925925926,False
+freesexkahani.com,qr rd ra,58,105,0,1,1,No,1.8103448275862069,False
+funinmatch360.com,qr rd ra,58,119,0,1,1,No,2.0517241379310347,False
+funpay.com,qr rd ra,51,98,0,1,1,No,1.9215686274509804,False
+fuq.com,qr rd ra,48,94,0,1,1,No,1.9583333333333333,False
+furaffinity.net,qr rd ra,56,105,0,1,1,No,1.875,False
+futbin.com,qr rd ra,51,98,0,1,1,No,1.9215686274509804,False
+game8.jp,qr rd ra,49,122,0,1,1,No,2.489795918367347,False
+gamewith.jp,qr rd ra,52,127,0,1,1,No,2.4423076923076925,False
+gazzetta.it,qr rd ra,52,123,0,1,1,No,2.3653846153846154,False
+gcash.com,qr rd ra,50,116,0,1,1,No,2.32,False
+gdz-raketa.ru,qr rd ra,54,113,0,1,1,No,2.0925925925925926,False
+gdz.ru,qr rd ra,47,99,0,1,1,No,2.106382978723404,False
+gekso.xyz,qr rd ra,50,198,2,0,1,No,3.96,True
+gelbooru.com,qr rd ra ad,53,201,2,0,1,No,3.792452830188679,True
+genius.com,qr rd ra,51,98,0,1,1,No,1.9215686274509804,False
+gfpxw.com,qr rd ra,50,108,0,1,1,No,2.16,False
+girlschannel.net,qr rd ra,57,130,0,1,1,No,2.280701754385965,False
+gismeteo.ru,qr rd ra,52,101,0,1,1,No,1.9423076923076923,False
+goal7.co,qr rd ra,49,99,0,1,1,No,2.020408163265306,False
+goodreturns.in,qr rd ra,55,104,0,1,1,No,1.8909090909090909,False
+googll.store,qr rd ra,53,104,0,1,1,No,1.9622641509433962,False
+goojara.to,qr rd ra,51,101,0,1,1,No,1.9803921568627452,False
+gree-apps.net,qr rd ra,54,109,0,1,1,No,2.0185185185185186,False
+gree-pf.net,qr rd ra,52,102,0,1,1,No,1.9615384615384615,False
+gsmarena.com,qr rd ra,53,94,0,1,1,No,1.7735849056603774,False
+gst.gov.in,qr rd ra,51,96,0,1,1,No,1.8823529411764706,False
+haberler.com,qr rd ra,53,101,0,1,1,No,1.9056603773584906,False
+hamsterix.today,qr rd ra,56,107,0,1,1,No,1.9107142857142858,False
+hanime1.me,qr rd ra,51,104,0,1,1,No,2.0392156862745097,False
+happymh.com,qr rd ra ad,52,200,2,0,1,No,3.8461538461538463,True
+hdhub4u.gd,qr rd ra,51,101,0,1,1,No,1.9803921568627452,False
+hdhub4u.rehab,qr rd ra,54,104,0,1,1,No,1.9259259259259258,False
+hdporncomics.com,qr rd ra,57,104,0,1,1,No,1.8245614035087718,False
+hdtube.porn,qr rd ra,52,102,0,1,1,No,1.9615384615384615,False
+hepsiburada.com,qr rd ra,56,134,0,1,1,No,2.392857142857143,False
+hianime.to,qr rd ra,51,102,0,1,1,No,2.0,False
+hitomi.la,qr rd ra,50,94,0,1,1,No,1.88,False
+hln.be,qr rd ra ad,47,275,3,0,1,No,5.851063829787234,True
+hltv.org,qr rd ra,49,99,0,1,1,No,2.020408163265306,False
+hm.com,qr rd ra,47,97,0,1,1,No,2.0638297872340425,False
+hochi.news,qr rd ra,51,124,0,1,1,No,2.4313725490196076,False
+hollywoodbets.net,qr rd ra,58,107,0,1,1,No,1.8448275862068966,False
+homedepot.com,qr rd ra,54,112,0,1,1,No,2.074074074074074,False
+hotpepper.jp,qr rd ra,53,105,0,1,1,No,1.9811320754716981,False
+hqporner.com,qr rd ra,53,108,0,1,1,No,2.0377358490566038,False
+humoruniv.com,qr rd ra,54,95,0,1,1,No,1.7592592592592593,False
+idealista.com,qr rd ra,54,123,0,1,1,No,2.2777777777777777,False
+idealista.it,qr rd ra,53,126,0,1,1,No,2.3773584905660377,False
+idnes.cz,qr rd ra ad,49,609,3,0,1,No,12.428571428571429,True
+ifilo.net,qr rd ra,50,93,0,1,1,No,1.86,False
+ijavhd.com,qr rd ra,51,100,0,1,1,No,1.9607843137254901,False
+illuminateed.com,qr rd ra,57,104,0,1,1,No,1.8245614035087718,False
+ilmeteo.it,qr rd ra,51,101,0,1,1,No,1.9803921568627452,False
+ilovepdf.com,qr rd ra,53,100,0,1,1,No,1.8867924528301887,False
+iltalehti.fi,qr rd ra,53,126,0,1,1,No,2.3773584905660377,False
+imagefap.com,qr rd ra,53,104,0,1,1,No,1.9622641509433962,False
+imgsrc.ru,qr rd ra,50,100,0,1,1,No,2.0,False
+imhentai.xxx,qr rd ra,53,102,0,1,1,No,1.9245283018867925,False
+index.hr,qr rd ra,49,99,0,1,1,No,2.020408163265306,False
+indiamart.com,qr rd ra,54,124,0,1,1,No,2.2962962962962963,False
+infobae.com,qr rd ra,52,130,0,1,1,No,2.5,False
+inven.co.kr,qr rd ra,52,85,0,1,1,No,1.6346153846153846,False
+iporntv.net,qr rd ra,52,101,0,1,1,No,1.9423076923076923,False
+isaidub.love,qr rd ra,53,103,0,1,1,No,1.9433962264150944,False
+itmedia.co.jp,qr rd ra,54,122,0,1,1,No,2.259259259259259,False
+ixl.com,qr rd ra ad,48,196,2,0,1,No,4.083333333333333,True
+ixxx.com,qr rd ra,49,95,0,1,1,No,1.9387755102040816,False
+jable.tv,qr rd ra,49,99,0,1,1,No,2.020408163265306,False
+jagran.com,qr rd ra,51,120,0,1,1,No,2.3529411764705883,False
+jalan.net,qr rd ra,50,104,0,1,1,No,2.08,False
+janitorai.com,qr rd ra,54,202,2,0,1,No,3.740740740740741,True
+jaya9bangladesh.com,qr rd ra,60,106,0,1,1,No,1.7666666666666666,False
+jcpenney.com,qr rd ra,53,102,0,1,1,No,1.9245283018867925,False
+joyclub.de,qr rd ra,51,123,0,1,1,No,2.411764705882353,False
+jra.go.jp,qr rd ra ad,50,278,3,0,1,No,5.56,True
+jra.jp,qr rd ra,47,105,0,1,1,No,2.234042553191489,False
+jusbrasil.com.br,qr rd ra ad,57,205,2,0,1,No,3.5964912280701755,True
+justdial.com,qr rd ra,53,110,0,1,1,No,2.0754716981132075,False
+jw.org,qr rd ra,47,108,0,1,1,No,2.297872340425532,False
+kakuyomu.jp,qr rd ra,52,124,0,1,1,No,2.3846153846153846,False
+kamababa.desi,qr rd ra,54,202,2,0,1,No,3.740740740740741,True
+karnataka.gov.in,qr rd ra,57,97,0,1,1,No,1.7017543859649122,False
+kemkes.go.id,qr rd ra,53,105,0,1,1,No,1.9811320754716981,False
+kemono.cr,qr rd ra,50,94,0,1,1,No,1.88,False
+kick.com,qr rd ra,49,97,0,1,1,No,1.9795918367346939,False
+kingbokep.tv,qr rd ra,53,102,0,1,1,No,1.9245283018867925,False
+kkstories.com,qr rd ra,54,113,0,1,1,No,2.0925925925925926,False
+kleinanzeigen.de,qr rd ra,57,138,0,1,1,No,2.4210526315789473,False
+kohls.com,qr rd ra,50,88,0,1,1,No,1.76,False
+kolkataff.tv,qr rd ra,53,107,0,1,1,No,2.018867924528302,False
+kompoz2.com,qr rd ra,52,99,0,1,1,No,1.9038461538461537,False
+kooora.com,qr rd ra,51,120,0,1,1,No,2.3529411764705883,False
+ladies.de,qr rd ra,50,103,0,1,1,No,2.06,False
+lanacion.com.ar,qr rd ra,56,125,0,1,1,No,2.232142857142857,False
+lausd.net,qr rd ra,50,82,0,1,1,No,1.64,False
+lc.chat,qr rd ra,48,98,0,1,1,No,2.0416666666666665,False
+leboncoin.fr,qr rd ra,53,128,0,1,1,No,2.4150943396226414,False
+lectormangaa.com,qr rd ra,57,103,0,1,1,No,1.8070175438596492,False
+leparisien.fr,qr rd ra,54,112,0,1,1,No,2.074074074074074,False
+lequipe.fr,qr rd ra ad,51,199,2,0,1,No,3.9019607843137254,True
+leroymerlin.fr,qr rd ra,55,113,0,1,1,No,2.0545454545454547,False
+letras.mus.br,qr rd ra,54,127,0,1,1,No,2.3518518518518516,False
+letterboxd.com,qr rd ra,55,102,0,1,1,No,1.8545454545454545,False
+librefutboltv.su,qr rd ra,57,107,0,1,1,No,1.8771929824561404,False
+librus.pl,qr rd ra,50,85,0,1,1,No,1.7,False
+lichess.org,qr rd ra ad,52,200,2,0,1,No,3.8461538461538463,True
+listcrawler.eu,qr rd ra,55,107,0,1,1,No,1.9454545454545455,False
+liteapks.com,qr rd ra,53,100,0,1,1,No,1.8867924528301887,False
+litnet.com,qr rd ra,51,101,0,1,1,No,1.9803921568627452,False
+livescore.com,qr rd ra,54,132,0,1,1,No,2.4444444444444446,False
+livescore.cz,qr rd ra,53,107,0,1,1,No,2.018867924528302,False
+lk21official.cc,qr rd ra,56,108,0,1,1,No,1.9285714285714286,False
+lolpol.com,qr rd ra,51,99,0,1,1,No,1.9411764705882353,False
+lotterysambadresult.in,qr rd ra,63,113,0,1,1,No,1.7936507936507937,False
+lowes.com,qr rd ra,50,97,0,1,1,No,1.94,False
+luticlip.com,qr rd ra ad,53,201,2,0,1,No,3.792452830188679,True
+luxuretv.com,qr rd ra,53,99,0,1,1,No,1.8679245283018868,False
+macys.com,qr rd ra,50,104,0,1,1,No,2.08,False
+madrasati.sa,qr rd ra,53,125,0,1,1,No,2.358490566037736,False
+makemytrip.com,qr rd ra,55,112,0,1,1,No,2.036363636363636,False
+mangabuddy.com,qr rd ra,55,101,0,1,1,No,1.8363636363636364,False
+mangabuff.ru,qr rd ra,53,104,0,1,1,No,1.9622641509433962,False
+mangago.me,qr rd ra,51,101,0,1,1,No,1.9803921568627452,False
+mangaraw.ac,qr rd ra,52,110,0,1,1,No,2.1153846153846154,False
+mango.com,qr rd ra,50,122,0,1,1,No,2.44,False
+manhwaweb.com,qr rd ra,54,100,0,1,1,No,1.8518518518518519,False
+marca.com,qr rd ra,50,113,0,1,1,No,2.26,False
+marksandspencer.com,qr rd ra,60,115,0,1,1,No,1.9166666666666667,False
+marktplaats.nl,qr rd ra,55,128,0,1,1,No,2.327272727272727,False
+mat6tube.com,qr rd ra,53,105,0,1,1,No,1.9811320754716981,False
+mbga.jp,qr rd ra,48,121,0,1,1,No,2.5208333333333335,False
+mechacomic.jp,qr rd ra,54,123,0,1,1,No,2.2777777777777777,False
+mediaexpert.pl,qr rd ra,55,105,0,1,1,No,1.9090909090909092,False
+medu.ir,qr rd ra,48,89,0,1,1,No,1.8541666666666667,False
+mercadolibre.com.ar,qr rd ra,60,133,0,1,1,No,2.216666666666667,False
+mercadolibre.com.mx,qr rd ra,60,133,0,1,1,No,2.216666666666667,False
+mercadolivre.com.br,qr rd ra,60,133,0,1,1,No,2.216666666666667,False
+merkur.de,qr rd ra,50,114,0,1,1,No,2.28,False
+metropoles.com,qr rd ra,55,107,0,1,1,No,1.9454545454545455,False
+mingky02.net,qr rd ra,53,103,0,1,1,No,1.9433962264150944,False
+missav.ai,qr rd ra,50,198,2,0,1,No,3.96,True
+missav.live,qr rd ra ad,52,200,2,0,1,No,3.8461538461538463,True
+missav.ws,qr rd ra,50,198,2,0,1,No,3.96,True
+missav123.com,qr rd ra,54,102,0,1,1,No,1.8888888888888888,False
+mlookalporno.com,qr rd ra,57,105,0,1,1,No,1.8421052631578947,False
+mobcup.fm,qr rd ra,50,99,0,1,1,No,1.98,False
+momon-ga.com,qr rd ra,53,103,0,1,1,No,1.9433962264150944,False
+moneycontrol.com,qr rd ra ad,57,285,3,0,1,No,5.0,True
+motherless.com,qr rd ra,55,108,0,1,1,No,1.9636363636363636,False
+moviebox.ph,qr rd ra,52,109,0,1,1,No,2.0961538461538463,False
+moviesda14.net,qr rd ra,55,105,0,1,1,No,1.9090909090909092,False
+ms1a.com,qr rd ra,49,107,0,1,1,No,2.183673469387755,False
+musicdel.ir,qr rd ra,52,116,0,1,1,No,2.230769230769231,False
+mydramalist.com,qr rd ra,56,102,0,1,1,No,1.8214285714285714,False
+myntra.com,qr rd ra,51,108,0,1,1,No,2.1176470588235294,False
