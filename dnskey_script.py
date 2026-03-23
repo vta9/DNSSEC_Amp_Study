@@ -2,7 +2,7 @@ import subprocess
 
 # File containing domains
 domains_file = "domains.txt"
-output_file = "dnskey_results.txt"
+output_file = "dnskey_results_1M.txt"
 
 # Resolver to query
 resolver = "8.8.8.8"
