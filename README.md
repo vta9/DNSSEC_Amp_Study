@@ -3,6 +3,8 @@
 A large-scale active DNS measurement study examining the amplification risk
 posed by DNSSEC-enabled queries across the Tranco top-1M domains.
 
+I conducted this study as part of CSDS 426: Internet Measurement and Analysis, advised by Mark Allman. 
+
 ## Overview
 
 DNS amplification attacks exploit the disproportion between small queries
