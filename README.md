@@ -27,8 +27,8 @@ risk across four DNSSEC query types: `DNSKEY`, `DS`, `RRSIG`, and `NSEC`.
 
 | | |
 |---|---|
-| 📄 [Paper](./CSDS_426_Paper_vta9%20(1).pdf) | Full write-up of methodology, results, and analysis |
-| 📊 [Slides](./CSDS%20426%20Final%20Presentation.pdf) | 15-minute presentation overview |
+|  [Paper](./CSDS_426_Paper_vta9%20(1).pdf) | Full write-up of methodology, results, and analysis |
+|  [Slides](./CSDS%20426%20Final%20Presentation.pdf) | 15-minute presentation overview |
 
 ## Methodology
 
